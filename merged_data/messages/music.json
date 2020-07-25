@@ -4,7 +4,8 @@
     "subtype": "channel_join",
     "ts": "1545392797.000200",
     "user": "U5TCAFTD3",
-    "text": "<@U5TCAFTD3> has joined the channel"
+    "text": "<@U5TCAFTD3> has joined the channel",
+    "channel": "music"
   },
   {
     "type": "message",
@@ -12,7 +13,8 @@
     "ts": "1545392798.000400",
     "user": "UE0H4170F",
     "text": "<@UE0H4170F> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "music"
   },
   {
     "type": "message",
@@ -20,7 +22,8 @@
     "ts": "1545392798.000600",
     "user": "UBRS4E6B1",
     "text": "<@UBRS4E6B1> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "music"
   },
   {
     "type": "message",
@@ -28,7 +31,8 @@
     "ts": "1545392798.000800",
     "user": "UC2A2ARPT",
     "text": "<@UC2A2ARPT> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "music"
   },
   {
     "type": "message",
@@ -36,7 +40,8 @@
     "ts": "1545392798.001000",
     "user": "UEGFXUK3M",
     "text": "<@UEGFXUK3M> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "music"
   },
   {
     "type": "message",
@@ -44,7 +49,8 @@
     "ts": "1545392798.001200",
     "user": "U9F8M41AM",
     "text": "<@U9F8M41AM> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "music"
   },
   {
     "type": "message",
@@ -52,7 +58,8 @@
     "ts": "1545392798.001400",
     "user": "UEKEQGB9C",
     "text": "<@UEKEQGB9C> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "music"
   },
   {
     "type": "message",
@@ -60,7 +67,8 @@
     "ts": "1545392798.001600",
     "user": "UEG9ECNSU",
     "text": "<@UEG9ECNSU> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "music"
   },
   {
     "type": "message",
@@ -68,7 +76,8 @@
     "ts": "1545392799.001800",
     "user": "UBSMEUXAA",
     "text": "<@UBSMEUXAA> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "music"
   },
   {
     "type": "message",
@@ -76,7 +85,8 @@
     "ts": "1545392799.002000",
     "user": "UA14TGLTC",
     "text": "<@UA14TGLTC> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "music"
   },
   {
     "type": "message",
@@ -84,7 +94,8 @@
     "ts": "1545392799.002200",
     "user": "UE0ETTCG7",
     "text": "<@UE0ETTCG7> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "music"
   },
   {
     "type": "message",
@@ -92,7 +103,8 @@
     "ts": "1545392799.002400",
     "user": "UC25EFSJC",
     "text": "<@UC25EFSJC> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "music"
   },
   {
     "client_msg_id": "3b271bb9-eeb4-491e-907c-f24f4ea52953",
@@ -113,7 +125,8 @@
       "name": "interstar",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "music"
   },
   {
     "client_msg_id": "6ac9fbf2-f275-4696-8831-ad559fe7cd3c",
@@ -143,7 +156,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "music"
   },
   {
     "client_msg_id": "8de0f5d7-f9c6-4625-b18f-0eb0214090c7",
@@ -177,7 +191,8 @@
         "id": 1,
         "original_url": "http://bela.io"
       }
-    ]
+    ],
+    "channel": "music"
   },
   {
     "client_msg_id": "a093fe80-e28c-4521-903f-411290379922",
@@ -210,7 +225,8 @@
         "id": 1,
         "original_url": "https://wiki.xxiivv.com/#orca"
       }
-    ]
+    ],
+    "channel": "music"
   },
   {
     "client_msg_id": "a2434b85-75a3-48a4-92ae-b1401196fb31",
@@ -244,7 +260,8 @@
         "id": 1,
         "original_url": "http://chuck.cs.princeton.edu/"
       }
-    ]
+    ],
+    "channel": "music"
   },
   {
     "client_msg_id": "f04a5170-9424-4c90-b911-143e7ea7b413",
@@ -265,7 +282,8 @@
       "name": "jack",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "music"
   },
   {
     "client_msg_id": "37970aaa-40ae-419e-8002-7266a0223955",
@@ -286,7 +304,8 @@
       "name": "nick259",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "music"
   },
   {
     "client_msg_id": "a0ce8b01-f25d-4631-987e-a0b5a0778287",
@@ -307,7 +326,8 @@
       "name": "nick259",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "music"
   },
   {
     "client_msg_id": "E93E0035-1A97-4812-B066-8B7A410C4FA9",
@@ -328,7 +348,8 @@
       "name": "jack",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "music"
   },
   {
     "client_msg_id": "C4B253C5-AD0A-4288-BE5D-742FA6151203",
@@ -349,7 +370,8 @@
       "name": "jack",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "music"
   },
   {
     "client_msg_id": "28915789-566A-4254-AC47-BE1E8D6FC2AC",
@@ -370,7 +392,8 @@
       "name": "jack",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "music"
   },
   {
     "client_msg_id": "38ac011f-068c-4011-9397-ffbb8099aee4",
@@ -391,7 +414,8 @@
       "name": "nick259",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "music"
   },
   {
     "client_msg_id": "f311653b-c54a-47d9-acaa-f251793280f0",
@@ -451,7 +475,8 @@
         "ts": "1545571693.027800"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "music"
   },
   {
     "client_msg_id": "eda28248-f4f7-404f-a07a-f3f5a2b4c5bd",
@@ -472,7 +497,8 @@
       "name": "nick259",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "music"
   },
   {
     "client_msg_id": "666e9ae0-1c07-46bd-b02c-174b08515704",
@@ -493,7 +519,8 @@
       "name": "nick259",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "music"
   },
   {
     "client_msg_id": "7b6002f6-ebd0-4d02-bb3b-a6df71e17727",
@@ -514,7 +541,8 @@
       "name": "nick259",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "music"
   },
   {
     "client_msg_id": "E021609E-F493-49F8-8731-943921D2ED8C",
@@ -562,7 +590,8 @@
         "ts": "1545515078.027100"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "music"
   },
   {
     "client_msg_id": "F5023DD4-BA18-4DDB-BA1F-5D250D1AD246",
@@ -583,7 +612,8 @@
       "name": "jack",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "music"
   },
   {
     "client_msg_id": "e516c684-82a6-48d0-8812-42900b0441df",
@@ -635,7 +665,8 @@
         "ts": "1545627048.033600"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "music"
   },
   {
     "client_msg_id": "6d8acb71-1be3-4240-b393-0b7bb27ef843",
@@ -670,7 +701,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "music"
   },
   {
     "client_msg_id": "a130cc93-58dc-4920-8a88-7bcb3ccd87b3",
@@ -693,7 +725,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1545406898.012100",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "music"
   },
   {
     "client_msg_id": "ace1bc44-e6a2-47a3-b141-a1211994b7bd",
@@ -716,7 +749,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1545406898.012100",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "music"
   },
   {
     "client_msg_id": "0cb6562b-62be-48d1-b818-da0059dd60e4",
@@ -737,7 +771,8 @@
       "name": "nick259",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "music"
   },
   {
     "client_msg_id": "0e00db32-545a-4461-95c3-04a31f04dd36",
@@ -758,7 +793,8 @@
       "name": "nick259",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "music"
   },
   {
     "client_msg_id": "7201fa6d-2ae1-4b21-a4a8-8d536c4714ca",
@@ -779,7 +815,8 @@
       "name": "nick259",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "music"
   },
   {
     "client_msg_id": "25c45b06-7c67-48cf-b7fa-72d2dea1c943",
@@ -802,7 +839,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1545426581.022000",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "music"
   },
   {
     "client_msg_id": "b22c9c32-bc49-4939-99da-6ddb6dd31afc",
@@ -825,7 +863,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1545406898.012100",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "music"
   },
   {
     "client_msg_id": "6A82BE0D-B65C-4D55-8A8A-E532AD7A987F",
@@ -857,7 +896,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "music"
   },
   {
     "type": "message",
@@ -873,7 +913,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "music"
   },
   {
     "client_msg_id": "6ba8e409-ae4b-4349-88ed-0363a0639cf6",
@@ -896,7 +937,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1545404500.010100",
-    "parent_user_id": "UEG9ECNSU"
+    "parent_user_id": "UEG9ECNSU",
+    "channel": "music"
   },
   {
     "client_msg_id": "60430f03-e295-4e25-a703-f7b50d9ec9a6",
@@ -919,7 +961,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1545404500.010100",
-    "parent_user_id": "UEG9ECNSU"
+    "parent_user_id": "UEG9ECNSU",
+    "channel": "music"
   },
   {
     "client_msg_id": "e869b3a3-fce6-4ebd-9ce9-e4fa6be7e39e",
@@ -971,7 +1014,8 @@
         "ts": "1545648938.035200"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "music"
   },
   {
     "client_msg_id": "97f4054d-d2b7-4585-8571-d074f4e9cf4d",
@@ -994,7 +1038,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1545571819.029200",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "music"
   },
   {
     "client_msg_id": "2f575ff2-5efb-4c7a-8b8e-48660f84b735",
@@ -1038,7 +1083,8 @@
       }
     ],
     "thread_ts": "1545571819.029200",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "music"
   },
   {
     "client_msg_id": "a8e68693-e735-4c0f-b19f-3cd9376ddc53",
@@ -1061,7 +1107,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1545426581.022000",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "music"
   },
   {
     "client_msg_id": "e0eb6a66-e7d0-4bc9-80b7-72cba9fb0ad8",
@@ -1084,7 +1131,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1545426581.022000",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "music"
   },
   {
     "type": "message",
@@ -1110,7 +1158,8 @@
       ],
       "subscribed": false
     },
-    "client_msg_id": "15b1e314-d70d-44db-b262-7817d5b53387"
+    "client_msg_id": "15b1e314-d70d-44db-b262-7817d5b53387",
+    "channel": "music"
   },
   {
     "type": "message",
@@ -1136,7 +1185,8 @@
       ],
       "subscribed": false
     },
-    "client_msg_id": "70ea6977-1493-4165-b274-05ba6bb7c2de"
+    "client_msg_id": "70ea6977-1493-4165-b274-05ba6bb7c2de",
+    "channel": "music"
   },
   {
     "client_msg_id": "FCCDACCC-9513-40CC-A5BF-06AC14FCA1F2",
@@ -1159,7 +1209,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1545426581.022000",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "music"
   },
   {
     "client_msg_id": "358376B8-F424-4C7A-8EBB-C5F4D8EE76F8",
@@ -1182,7 +1233,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1545571819.029200",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "music"
   },
   {
     "type": "message",
@@ -1198,56 +1250,64 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "music"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1546382554.035700",
     "user": "UCSJ44X1S",
-    "text": "<@UCSJ44X1S> has joined the channel"
+    "text": "<@UCSJ44X1S> has joined the channel",
+    "channel": "music"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1549531657.000200",
     "user": "UFD2JRE58",
-    "text": "<@UFD2JRE58> has joined the channel"
+    "text": "<@UFD2JRE58> has joined the channel",
+    "channel": "music"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1550475280.000200",
     "user": "UBUFWBGNN",
-    "text": "<@UBUFWBGNN> has joined the channel"
+    "text": "<@UBUFWBGNN> has joined the channel",
+    "channel": "music"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551178180.000200",
     "user": "UAJ9DV971",
-    "text": "<@UAJ9DV971> has joined the channel"
+    "text": "<@UAJ9DV971> has joined the channel",
+    "channel": "music"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551441226.000200",
     "user": "UBN9AFS0N",
-    "text": "<@UBN9AFS0N> has joined the channel"
+    "text": "<@UBN9AFS0N> has joined the channel",
+    "channel": "music"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551681795.000400",
     "user": "UFQQ3P867",
-    "text": "<@UFQQ3P867> has joined the channel"
+    "text": "<@UFQQ3P867> has joined the channel",
+    "channel": "music"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1554402973.000200",
     "user": "UHPAERALD",
-    "text": "<@UHPAERALD> has joined the channel"
+    "text": "<@UHPAERALD> has joined the channel",
+    "channel": "music"
   },
   {
     "client_msg_id": "02FC8E88-B8A9-47F6-AF4A-53FCF65F9C10",
@@ -1307,7 +1367,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "music"
   },
   {
     "client_msg_id": "9661E0E9-C67B-4FCE-86E3-E8BD723AB18F",
@@ -1328,7 +1389,8 @@
       "name": "ivanreese",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "music"
   },
   {
     "client_msg_id": "069040BD-4C5A-45C3-A931-814576A307FE",
@@ -1349,7 +1411,8 @@
       "name": "ivanreese",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "music"
   },
   {
     "client_msg_id": "3E41F4DE-6E19-4320-8908-E145B5FB484E",
@@ -1388,7 +1451,8 @@
         "id": 1,
         "original_url": "https://www.nytimes.com/2019/10/04/style/live-code-music.html"
       }
-    ]
+    ],
+    "channel": "music"
   },
   {
     "client_msg_id": "bf20fd76-b7a3-464a-9ae7-ff8ad92bc102",
@@ -1441,7 +1505,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "music"
   },
   {
     "client_msg_id": "fbde3f85-bf87-4bd8-92e4-0ac822cd3840",
@@ -1531,7 +1596,8 @@
         "ts": "1583504418.010400"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "music"
   },
   {
     "client_msg_id": "656ba297-9571-48c0-9349-fb1d6a8e7f80",
@@ -1569,7 +1635,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "music"
   },
   {
     "client_msg_id": "7f25cfa8-ba27-4d5b-94cf-b3b4924c13d1",
@@ -1613,7 +1680,8 @@
       }
     ],
     "thread_ts": "1583492369.002600",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "music"
   },
   {
     "client_msg_id": "e1005b9c-1977-4e9c-9fd8-39d3ff61d439",
@@ -1657,7 +1725,8 @@
       }
     ],
     "thread_ts": "1583492369.002600",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "music"
   },
   {
     "client_msg_id": "52c20bef-4103-4012-8f27-cadc1b051d16",
@@ -1697,7 +1766,8 @@
       }
     ],
     "thread_ts": "1583492369.002600",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "music"
   },
   {
     "client_msg_id": "90d67a15-94e0-4071-bccc-bd1f3a6c6ad2",
@@ -1774,7 +1844,8 @@
       }
     ],
     "thread_ts": "1583492369.002600",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "music"
   },
   {
     "client_msg_id": "e4710302-5d0c-432c-aa9b-bcf9835fac2c",
@@ -1814,7 +1885,8 @@
       }
     ],
     "thread_ts": "1583492369.002600",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "music"
   },
   {
     "client_msg_id": "971431E4-7995-42CB-AFEC-A5FE981FC2A9",
@@ -1872,7 +1944,8 @@
       }
     ],
     "thread_ts": "1583492369.002600",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "music"
   },
   {
     "client_msg_id": "02CA979F-486C-4395-96C3-925352CF6730",
@@ -1912,7 +1985,8 @@
       }
     ],
     "thread_ts": "1583492369.002600",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "music"
   },
   {
     "client_msg_id": "E82E6147-7223-419B-B388-893927E0F462",
@@ -1952,7 +2026,8 @@
       }
     ],
     "thread_ts": "1583492369.002600",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "music"
   },
   {
     "type": "message",
@@ -2174,7 +2249,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "music"
   },
   {
     "client_msg_id": "eeedcc02-f2ce-4013-a87c-b3f721919820",
@@ -2248,7 +2324,8 @@
       }
     ],
     "thread_ts": "1586436057.000100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "type": "message",
@@ -2328,7 +2405,8 @@
     "ts": "1586463754.000700",
     "client_msg_id": "4a108abc-33c5-4098-b4cc-299773b3fa52",
     "thread_ts": "1586436057.000100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "client_msg_id": "081ae432-f4b4-449e-836a-19ac6a1d40fd",
@@ -2368,7 +2446,8 @@
       }
     ],
     "thread_ts": "1586436057.000100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "client_msg_id": "8885693e-ccd1-4043-a339-da0a1e0c8c1a",
@@ -2408,7 +2487,8 @@
       }
     ],
     "thread_ts": "1586436057.000100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "client_msg_id": "2284f843-2e2e-47c9-992c-bf7845ce9775",
@@ -2448,7 +2528,8 @@
       }
     ],
     "thread_ts": "1586436057.000100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "client_msg_id": "88b39889-e4d4-4613-a0d7-eeb03a318240",
@@ -2488,7 +2569,8 @@
       }
     ],
     "thread_ts": "1586436057.000100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "client_msg_id": "e172e680-bb08-4a6c-8a0b-d9b32c47dba6",
@@ -2536,7 +2618,8 @@
       }
     ],
     "thread_ts": "1586436057.000100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "type": "message",
@@ -2616,7 +2699,8 @@
     "ts": "1586503305.002200",
     "client_msg_id": "1604f845-30d3-41ca-96e5-13f50204706a",
     "thread_ts": "1586436057.000100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "client_msg_id": "40ee9a09-71cd-4503-801e-83c1d35e3b46",
@@ -2656,7 +2740,8 @@
       }
     ],
     "thread_ts": "1586436057.000100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "client_msg_id": "79244877-d8e7-4a49-8647-313958c34e48",
@@ -2696,7 +2781,8 @@
       }
     ],
     "thread_ts": "1586436057.000100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "client_msg_id": "11481a46-5aab-4ad7-a0ed-a48d219287d1",
@@ -2736,7 +2822,8 @@
       }
     ],
     "thread_ts": "1586436057.000100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "client_msg_id": "f7bdfc4f-fe20-4189-b9f7-6f09fac4d1a0",
@@ -2776,7 +2863,8 @@
       }
     ],
     "thread_ts": "1586436057.000100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "client_msg_id": "7c805367-9770-43c6-889a-94c567e7f96c",
@@ -2816,7 +2904,8 @@
       }
     ],
     "thread_ts": "1586436057.000100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "client_msg_id": "6a797fb1-50ed-49ab-b988-c14758b37d57",
@@ -2856,7 +2945,8 @@
       }
     ],
     "thread_ts": "1586436057.000100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "type": "message",
@@ -3004,7 +3094,8 @@
         ]
       }
     ],
-    "client_msg_id": "b0ade871-07c6-4743-a717-ec1c1e1e8f66"
+    "client_msg_id": "b0ade871-07c6-4743-a717-ec1c1e1e8f66",
+    "channel": "music"
   },
   {
     "client_msg_id": "3aaef71b-92c2-49da-8334-85dd63a387f6",
@@ -3044,7 +3135,8 @@
       }
     ],
     "thread_ts": "1586436057.000100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "client_msg_id": "e80b9457-303e-4c11-9a13-bc79fd37a345",
@@ -3084,7 +3176,8 @@
       }
     ],
     "thread_ts": "1586436057.000100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "type": "message",
@@ -3164,7 +3257,8 @@
     "ts": "1586685824.004500",
     "client_msg_id": "460d02bd-b10b-42f6-b671-ae9666766928",
     "thread_ts": "1586436057.000100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "client_msg_id": "81f4168d-4bee-4ab1-942d-0186571b3a2a",
@@ -3208,7 +3302,8 @@
       }
     ],
     "thread_ts": "1586436057.000100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "client_msg_id": "63ef0370-5316-44bd-8182-6e3c53ff2948",
@@ -3248,7 +3343,8 @@
       }
     ],
     "thread_ts": "1586436057.000100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "client_msg_id": "AE07655C-6F69-4FDE-B814-72069BD5EA9F",
@@ -3288,7 +3384,8 @@
       }
     ],
     "thread_ts": "1586436057.000100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "client_msg_id": "4AF43191-2B6A-47FC-9ED2-740C788C9594",
@@ -3345,7 +3442,8 @@
       }
     ],
     "thread_ts": "1586436057.000100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "client_msg_id": "2d779759-7404-4692-bc72-25524dffe12d",
@@ -3402,7 +3500,8 @@
         "ts": "1587580258.007500"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "music"
   },
   {
     "client_msg_id": "ec1a33c4-8a0b-4579-ac32-6aa330b1e927",
@@ -3461,7 +3560,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "music"
   },
   {
     "client_msg_id": "3f68efbd-132e-4645-8cb1-9b7521a934c6",
@@ -3506,7 +3606,8 @@
       }
     ],
     "thread_ts": "1587518706.006700",
-    "parent_user_id": "UFQQ3P867"
+    "parent_user_id": "UFQQ3P867",
+    "channel": "music"
   },
   {
     "client_msg_id": "290d8574-e5c1-432f-8c26-ed8d0cadbea2",
@@ -3615,7 +3716,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "music"
   },
   {
     "client_msg_id": "ca53a809-c4b9-42cd-9656-857e8f0abb5f",
@@ -3672,7 +3774,8 @@
         "ts": "1587755861.009500"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "music"
   },
   {
     "client_msg_id": "0ea714a9-94eb-4278-bfc5-8203331b45c3",
@@ -3721,7 +3824,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "music"
   },
   {
     "client_msg_id": "4759e75a-9c0b-46ea-b46d-7b7aff7bf9b8",
@@ -3785,7 +3889,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "music"
   },
   {
     "type": "message",
@@ -3823,7 +3928,8 @@
     "user": "UUQ2EQW21",
     "display_as_bot": false,
     "ts": "1588669352.010200",
-    "client_msg_id": "668b8807-a140-4bf8-a6cf-c49a85408c2e"
+    "client_msg_id": "668b8807-a140-4bf8-a6cf-c49a85408c2e",
+    "channel": "music"
   },
   {
     "client_msg_id": "834719bf-fac5-47dc-8219-658e4894f0f2",
@@ -3881,7 +3987,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "music"
   },
   {
     "type": "message",
@@ -3951,7 +4058,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "music"
   },
   {
     "client_msg_id": "d4952aff-8fb1-4ad9-807a-55c978bb5959",
@@ -4012,7 +4120,8 @@
         "ts": "1593763333.015600"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "music"
   },
   {
     "client_msg_id": "56c0f06b-fa34-415b-8dbe-3ee9073b3b90",
@@ -4056,7 +4165,8 @@
       }
     ],
     "thread_ts": "1593716423.014000",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "music"
   },
   {
     "client_msg_id": "02da4ce2-1816-43cb-a78d-708ef6467482",
@@ -4166,6 +4276,7 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "music"
   }
 ]

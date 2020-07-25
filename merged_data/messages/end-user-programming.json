@@ -4,7 +4,8 @@
     "subtype": "channel_join",
     "ts": "1565627833.000200",
     "user": "U5TCAFTD3",
-    "text": "<@U5TCAFTD3> has joined the channel"
+    "text": "<@U5TCAFTD3> has joined the channel",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -12,7 +13,8 @@
     "ts": "1565627835.000400",
     "user": "U6KQ2S410",
     "text": "<@U6KQ2S410> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -20,7 +22,8 @@
     "ts": "1565627868.000600",
     "user": "UE6EFEPTQ",
     "text": "<@UE6EFEPTQ> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2e568132-0c4b-45d6-91d4-bb47dc995094",
@@ -41,7 +44,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "bd7b388c-354d-4b98-9b8a-e668f8298622",
@@ -72,7 +76,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -80,126 +85,144 @@
     "ts": "1565633777.002100",
     "user": "U6KQ2S410",
     "text": "<@U6KQ2S410> set the channel purpose: Making programming easier for everyone.",
-    "purpose": "Making programming easier for everyone."
+    "purpose": "Making programming easier for everyone.",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1565633958.002500",
     "user": "U6FKVSVCK",
-    "text": "<@U6FKVSVCK> has joined the channel"
+    "text": "<@U6FKVSVCK> has joined the channel",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1565634004.002700",
     "user": "UBSMEUXAA",
-    "text": "<@UBSMEUXAA> has joined the channel"
+    "text": "<@UBSMEUXAA> has joined the channel",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1565634180.002900",
     "user": "UETJZ9V0T",
-    "text": "<@UETJZ9V0T> has joined the channel"
+    "text": "<@UETJZ9V0T> has joined the channel",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1565634230.003100",
     "user": "UH85W1ML1",
-    "text": "<@UH85W1ML1> has joined the channel"
+    "text": "<@UH85W1ML1> has joined the channel",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1565634244.003300",
     "user": "UEBG0NPDK",
-    "text": "<@UEBG0NPDK> has joined the channel"
+    "text": "<@UEBG0NPDK> has joined the channel",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1565634323.003500",
     "user": "U8A5MS6R1",
-    "text": "<@U8A5MS6R1> has joined the channel"
+    "text": "<@U8A5MS6R1> has joined the channel",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1565634359.003800",
     "user": "UJN1TAYEQ",
-    "text": "<@UJN1TAYEQ> has joined the channel"
+    "text": "<@UJN1TAYEQ> has joined the channel",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1565634875.004000",
     "user": "UCUSW7WVD",
-    "text": "<@UCUSW7WVD> has joined the channel"
+    "text": "<@UCUSW7WVD> has joined the channel",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1565634910.004200",
     "user": "U5STGTB3J",
-    "text": "<@U5STGTB3J> has joined the channel"
+    "text": "<@U5STGTB3J> has joined the channel",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1565635026.004400",
     "user": "UBN1G4C1J",
-    "text": "<@UBN1G4C1J> has joined the channel"
+    "text": "<@UBN1G4C1J> has joined the channel",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1565635207.004600",
     "user": "U85HCL7JP",
-    "text": "<@U85HCL7JP> has joined the channel"
+    "text": "<@U85HCL7JP> has joined the channel",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1565635622.004800",
     "user": "UC2A2ARPT",
-    "text": "<@UC2A2ARPT> has joined the channel"
+    "text": "<@UC2A2ARPT> has joined the channel",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1565636143.005000",
     "user": "UGLSY9X3J",
-    "text": "<@UGLSY9X3J> has joined the channel"
+    "text": "<@UGLSY9X3J> has joined the channel",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1565638251.005200",
     "user": "UHP08C1DK",
-    "text": "<@UHP08C1DK> has joined the channel"
+    "text": "<@UHP08C1DK> has joined the channel",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1565639287.005400",
     "user": "UE1JQM9HQ",
-    "text": "<@UE1JQM9HQ> has joined the channel"
+    "text": "<@UE1JQM9HQ> has joined the channel",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1565639348.005600",
     "user": "UAL7940NM",
-    "text": "<@UAL7940NM> has joined the channel"
+    "text": "<@UAL7940NM> has joined the channel",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1565639716.005800",
     "user": "UGRG57D8C",
-    "text": "<@UGRG57D8C> has joined the channel"
+    "text": "<@UGRG57D8C> has joined the channel",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1b9aa2a2-95f2-4e39-8a32-00cb6475303f",
@@ -349,7 +372,8 @@
         "ts": "1565688030.021900"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f887ae05-caf2-4fe6-bcf0-6a116acecbfb",
@@ -372,7 +396,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a130bcc1-0550-4bb7-b8ff-8b475394d232",
@@ -395,7 +420,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -403,7 +429,8 @@
     "ts": "1565683383.012500",
     "user": "UEQ6M68H0",
     "text": "<@UEQ6M68H0> has joined the channel",
-    "inviter": "UE6EFEPTQ"
+    "inviter": "UE6EFEPTQ",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -411,7 +438,8 @@
     "ts": "1565683383.012700",
     "user": "UEH6T3RJB",
     "text": "<@UEH6T3RJB> has joined the channel",
-    "inviter": "UE6EFEPTQ"
+    "inviter": "UE6EFEPTQ",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "81669e1f-a306-40c5-83f9-eb5e18ba748c",
@@ -447,7 +475,8 @@
       }
     ],
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a9947591-65c1-4428-99e8-e20e0e41df96",
@@ -474,7 +503,8 @@
       "ts": "1565685211.000000"
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "7dde17bc-cc96-4a26-ad6b-dece371f0d60",
@@ -501,7 +531,8 @@
       "ts": "1565685376.000000"
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f2c276f3-5381-4935-98b2-926c7ce798ed",
@@ -528,7 +559,8 @@
       "ts": "1565686522.000000"
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -536,7 +568,8 @@
     "ts": "1565685683.014000",
     "user": "UCGR73CAY",
     "text": "<@UCGR73CAY> has joined the channel",
-    "inviter": "UE6EFEPTQ"
+    "inviter": "UE6EFEPTQ",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "9c459d98-bfce-420e-9842-9fb36934cd42",
@@ -559,7 +592,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3ed35172-0eb7-4452-bffd-7ed7751e3872",
@@ -582,7 +616,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "e229ee68-4884-4a55-9392-503f7d73f6ac",
@@ -622,7 +657,8 @@
       }
     ],
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -630,7 +666,8 @@
     "ts": "1565686129.014900",
     "user": "UGJ9KAZM3",
     "text": "<@UGJ9KAZM3> has joined the channel",
-    "inviter": "UE6EFEPTQ"
+    "inviter": "UE6EFEPTQ",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -638,7 +675,8 @@
     "ts": "1565686129.015100",
     "user": "UG91ZQ26P",
     "text": "<@UG91ZQ26P> has joined the channel",
-    "inviter": "UE6EFEPTQ"
+    "inviter": "UE6EFEPTQ",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -646,7 +684,8 @@
     "ts": "1565686129.015300",
     "user": "UGK6P07UP",
     "text": "<@UGK6P07UP> has joined the channel",
-    "inviter": "UE6EFEPTQ"
+    "inviter": "UE6EFEPTQ",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8700df33-2578-4449-bd19-9614934ee7a8",
@@ -669,7 +708,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "09bec6a8-7582-4439-9f41-f8bebf4966eb",
@@ -692,7 +732,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3efdba70-a915-4b9c-b7a5-c5ecf62c3bc5",
@@ -715,7 +756,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "824a4e8b-d1f5-415a-b0de-fe83487e5ba7",
@@ -738,7 +780,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "733d7a98-7264-4be9-94ff-0b044c844ead",
@@ -761,7 +804,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "7d2f460c-9dbc-462e-8f96-bebcdef4429e",
@@ -784,7 +828,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "bf9cf236-cdca-4933-b0ee-a3c79d7065a6",
@@ -807,7 +852,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "898fba8e-b5a4-46eb-89af-edaf29c47fba",
@@ -830,7 +876,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1280a4bf-534f-4959-9a53-a8169c33922c",
@@ -853,7 +900,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a1659900-e81f-441a-8d8a-2e6bcd96e9f9",
@@ -876,7 +924,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "989fa66e-5040-4828-b276-7a9e7d51e40e",
@@ -1308,7 +1357,8 @@
         "ts": "1565691569.039900"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "916a627b-a9fd-4068-88df-6bd45cce032b",
@@ -1331,7 +1381,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "55bb8182-c5bb-46e1-babc-9c13ad90050f",
@@ -1354,7 +1405,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "0015074b-022a-45c5-9957-cb3fca48ee50",
@@ -1377,7 +1429,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "d96e7b17-d1b1-41f8-a657-eff2d9a2e638",
@@ -1400,7 +1453,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "d4488949-7dec-43d5-9415-a14815f0a86c",
@@ -1423,7 +1477,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "0b9895d3-e351-4d21-a9b5-23133ba62aa6",
@@ -1446,7 +1501,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8f60b1de-ccb1-4774-9430-2c701306da15",
@@ -1469,7 +1525,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "4947e42f-bb1b-4a48-9048-a3ce91a15371",
@@ -1492,7 +1549,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a02f4630-6c4e-48df-944d-13fc495acef6",
@@ -1515,7 +1573,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "78d74b29-0c81-4d9f-a386-1c0a5b55e960",
@@ -1538,7 +1597,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ee6edf85-01c9-4966-879b-62ea0a76d308",
@@ -1561,7 +1621,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b23d42c8-d9aa-4e17-aa92-ef5dc7c0af08",
@@ -1584,7 +1645,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f5a15c47-d37a-4485-91a3-9ec545b8eeb5",
@@ -1607,7 +1669,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f7349655-7c36-4465-b99d-dc8cb937da9e",
@@ -1634,7 +1697,8 @@
       "ts": "1565687816.000000"
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "16d81de3-6574-4a95-ac6a-76baf5fba4d8",
@@ -1657,7 +1721,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "7fe2e55b-0212-4653-a2ef-1f6a579c3090",
@@ -1684,7 +1749,8 @@
       "ts": "1565687952.000000"
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "d600728a-b04a-4cb9-99fe-316450687d49",
@@ -1707,7 +1773,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ea38cc1e-b7fe-466f-861d-f13cf9251d56",
@@ -1730,7 +1797,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "19bf70d8-e042-4603-9dc4-fdd21362fdef",
@@ -1753,7 +1821,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565662870.011200",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b062ef7c-3b49-4a42-b9a0-f5136a8a4aa4",
@@ -1776,7 +1845,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2214b702-bca4-4443-af4d-396da08e8e8f",
@@ -1799,7 +1869,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "61fdd0dc-775b-4de2-bb94-2a283f7f0efa",
@@ -1822,7 +1893,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "623660f4-e3b2-4c27-8a42-6a094d651e93",
@@ -1845,7 +1917,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "40e89fb6-2866-498a-b8b4-d8fad8b76d9f",
@@ -1868,7 +1941,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b5873379-88bd-41e8-beac-b545c0fbd509",
@@ -1891,7 +1965,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "06bf1b65-b495-413f-bc36-f422147e2e63",
@@ -1914,7 +1989,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b26b600d-7ee7-4506-b4db-5991a6edb553",
@@ -1937,7 +2013,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "34529281-4495-4a45-b3e9-d5d12acf47a1",
@@ -1960,7 +2037,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "39f116a1-cc7f-4581-a96c-a6bafd398ae8",
@@ -1983,7 +2061,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f562c7da-e516-4108-95c2-5f5daed92ba6",
@@ -2006,7 +2085,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2860f5fd-c52d-4ae4-a223-513c24c5adc0",
@@ -2029,7 +2109,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f89297ad-42b6-4a09-a717-855af3a4ebb3",
@@ -2052,7 +2133,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a671f2ea-6853-497e-8276-6c38652fc80f",
@@ -2075,7 +2157,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "5368ce3c-2026-433e-bf2d-47d9e45af421",
@@ -2098,7 +2181,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b281b5be-9863-45ed-9aa3-eda713bca413",
@@ -2121,7 +2205,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "d2604e87-b59f-40a7-b9aa-a8499c1d1125",
@@ -2144,7 +2229,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "903e3eb6-c443-4c25-a52f-506c3b5fe5d5",
@@ -2167,7 +2253,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "02372979-d4bb-4917-874d-3114262861a8",
@@ -2190,7 +2277,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "42daa224-0eb6-4131-a997-9cf3fa9d4572",
@@ -2213,7 +2301,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "5105d095-3f94-4cfb-bcdd-c1920fb94d67",
@@ -2236,7 +2325,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "bb4680c4-f6c3-41f1-853b-97e07113d49b",
@@ -2259,7 +2349,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ee7e57b0-9440-48f2-b113-367b0c653548",
@@ -2282,7 +2373,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1b7128cb-f2e9-4adc-a5eb-8c66d9f057e3",
@@ -2305,7 +2397,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "9cb955ba-1b76-460d-a58e-6773f1c0518d",
@@ -2328,7 +2421,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3656f903-5f52-4483-9c14-4348fbfeb2b0",
@@ -2351,7 +2445,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "7aa982bc-8326-456c-9959-821d567fe175",
@@ -2374,7 +2469,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2eb84442-0116-4485-80f7-e58792839815",
@@ -2397,7 +2493,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "622ce5d8-7ada-452f-a675-19abe87f91be",
@@ -2420,7 +2517,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f221378d-3f4c-4f19-9811-c10ff015ff6b",
@@ -2443,7 +2541,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "884aa32a-2fa5-47e7-8083-b09abfc867e2",
@@ -2466,7 +2565,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "79e19989-fd8e-4dd6-b829-343a871e2132",
@@ -2489,7 +2589,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a6a6eb06-a045-4f2c-9f3c-6fc1cc3a1439",
@@ -2512,7 +2613,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b231e151-fce4-4fdb-a222-2122ad72aafe",
@@ -2535,7 +2637,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "4bf6c6b8-d34d-4a27-a849-a2f7a59745d0",
@@ -2558,7 +2661,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "6c868484-0267-4bf2-8775-e1c58a3dbd77",
@@ -2581,7 +2685,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "0b2aac15-1594-4409-8bbb-66ceef12934d",
@@ -2604,7 +2709,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "210ad8c2-4381-4e33-aa16-2f7049d7049d",
@@ -2627,7 +2733,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "e2da8bb3-48af-4561-9cbd-e829bb1148bb",
@@ -2650,7 +2757,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ad4d8d33-d967-481b-a65e-0617dc641576",
@@ -2673,7 +2781,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "63037ca6-9800-494f-9caf-88514f16502e",
@@ -2696,7 +2805,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "23ab6f8b-8109-4b69-8f40-17a2690c4763",
@@ -2719,7 +2829,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1fcf6e0e-41ba-47e8-94f7-1f896e1dc4c9",
@@ -2742,7 +2853,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "0783d9ce-3b91-4881-b3ef-db9e8a950cc7",
@@ -2765,7 +2877,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "7d56ebfa-6772-4a85-ac9a-43b7777bbf23",
@@ -2788,7 +2901,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "53056200-05a3-4c9e-82ea-b5277d87856b",
@@ -2811,7 +2925,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a31b3c8a-362b-4c68-b314-b3d24e803b9d",
@@ -2834,7 +2949,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "43751d5b-ef51-47d0-996b-c999bf847edd",
@@ -2857,7 +2973,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "0e3867c9-33fb-4a52-be20-6a7a40b48c20",
@@ -2880,7 +2997,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "28ef4816-33de-495b-9738-df895928b57d",
@@ -2903,7 +3021,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "42727313-5b45-4972-b089-5e2011752222",
@@ -2926,7 +3045,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f47868ee-e642-4746-8f21-a8d95f66e08d",
@@ -2949,7 +3069,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "dc4b23b4-84eb-4429-958e-1ca5c10b5627",
@@ -2972,7 +3093,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "c5b578df-8e08-46c5-9ce6-de9f752720c9",
@@ -2995,7 +3117,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "5f1dbe5d-3a3e-4a71-9c2f-f4fb9fe61c2a",
@@ -3018,7 +3141,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ebcc38ff-b78d-4ee0-a879-5d99b087de0b",
@@ -3041,7 +3165,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "fb9182f8-2489-4f84-ba3d-d7192628b604",
@@ -3064,7 +3189,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "fb4bc07f-5871-4ed9-a350-b3caa46a08c9",
@@ -3087,7 +3213,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "539878ea-2cb8-4c0f-b6be-685ee57828ba",
@@ -3110,7 +3237,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "aabce451-0df8-4817-8874-b61e5f79be31",
@@ -3142,7 +3270,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b1465885-1193-4d79-a6bd-9d0ef483d1e1",
@@ -3165,7 +3294,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ec3fd372-689f-4299-b049-907b99a7612d",
@@ -3188,7 +3318,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a7e10a57-5022-4f71-8808-b5bf9f8410b0",
@@ -3211,7 +3342,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "698f78c3-efa6-408c-8e8a-4718030447c2",
@@ -3234,7 +3366,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "170681f2-0539-4eb5-bacb-e685e25ea00d",
@@ -3257,7 +3390,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "dafa7386-9fcb-4146-811b-447163be238d",
@@ -3280,7 +3414,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "0c9fc9b6-2b58-42cd-89a1-261253f89c7e",
@@ -3312,7 +3447,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "9df15f15-e9f6-4124-aedd-22ce95e2f198",
@@ -3339,7 +3475,8 @@
       "ts": "1565690555.000000"
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "4ed23dea-76c8-4401-a196-bb2e77cd0774",
@@ -3362,7 +3499,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "18ae02bb-cff4-4aaa-bfad-66b279a8ae42",
@@ -3385,7 +3523,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "540c6dcc-56f2-4dfd-bc11-715f5e6850ca",
@@ -3408,7 +3547,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "baec3b91-a9bb-418d-96dc-15dc9f1cab74",
@@ -3431,7 +3571,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "734abef7-56fb-4b67-a500-39cfd49a89d1",
@@ -3458,7 +3599,8 @@
       "ts": "1565691023.000000"
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "074617d9-38a7-4f80-bb13-088429dc0ae2",
@@ -3481,7 +3623,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "417bdf87-dcc0-4fc9-8ee0-6f87092e4382",
@@ -3504,7 +3647,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a99bc9c2-5a82-47fa-9d43-12bcfe8c0e75",
@@ -3527,7 +3671,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "78acc196-809f-4585-8658-8587ed71014a",
@@ -3550,7 +3695,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1e599e58-626f-4f77-a6e1-1b99d2afc950",
@@ -3573,7 +3719,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "6e7952f5-dc7f-4792-9295-a0f1cfd98ef2",
@@ -3596,7 +3743,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "6cf17637-1493-4898-b78a-6f3caf1d86f0",
@@ -3619,7 +3767,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "573e38e6-028f-4322-9df6-e084f41084a1",
@@ -3642,7 +3791,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "076708d5-4e22-4219-b49a-b54ca4ddb5ca",
@@ -3674,7 +3824,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "9851cce8-68e6-4467-9db0-7e2a1655c885",
@@ -3697,7 +3848,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "51e80ecf-0e04-403a-a518-1fc3d996e35e",
@@ -3720,7 +3872,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a0d38d93-e36f-47aa-9260-609718689b26",
@@ -3743,7 +3896,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "81bad5a0-5236-4271-9c72-54171b6ff73a",
@@ -3766,7 +3920,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2041d0ff-888d-4c32-8eeb-e83a3e787806",
@@ -3789,7 +3944,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "76c8ef64-5441-4b48-a78f-ccd7989185ae",
@@ -3812,7 +3968,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565687529.018000",
-    "parent_user_id": "UGK6P07UP"
+    "parent_user_id": "UGK6P07UP",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3ac53df1-af02-4c37-9150-8606b1aa0065",
@@ -3930,7 +4087,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1565851624.080000"
+    "last_read": "1565851624.080000",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "53c9294f-4099-490d-bb56-a8330d11a833",
@@ -3966,7 +4124,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "0da99ed1-9317-47bf-ad4f-bc7950a1fa7e",
@@ -3989,7 +4148,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565801606.041400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a911ecf3-3b18-4c95-867c-2c76eaaa3b9a",
@@ -4012,7 +4172,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565801606.041400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ca381969-e712-4a6e-bdb9-e956b9af48d9",
@@ -4035,7 +4196,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565801606.041400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "edab0f89-a1f9-4fa1-9000-5b23fa1e6371",
@@ -4058,7 +4220,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565801606.041400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "790c2b63-d3a7-4c79-8247-2d7abd82b43d",
@@ -4081,7 +4244,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565801606.041400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8f74a514-383c-4f1b-b079-92286b7fc776",
@@ -4104,7 +4268,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565801606.041400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "0c02855a-6e44-48eb-a5e5-1624ceb384f0",
@@ -4131,7 +4296,8 @@
       "ts": "1565830444.000000"
     },
     "thread_ts": "1565801606.041400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -4191,7 +4357,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "848fdb9c-cfd7-4a24-ad87-9ba2400d7614",
@@ -4230,7 +4397,8 @@
         "ts": "1565844934.069000"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -4278,7 +4446,8 @@
       "subscribed": true,
       "last_read": "1565851624.080000"
     },
-    "client_msg_id": "3d059931-850f-4d41-9d8a-d9f2600010f3"
+    "client_msg_id": "3d059931-850f-4d41-9d8a-d9f2600010f3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8be3291a-9207-420c-8bba-f46bd84abc65",
@@ -4315,7 +4484,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f227bc07-9d57-4bdf-ae3b-9498ac2c1348",
@@ -4350,7 +4520,8 @@
         "ts": "1565846591.069200"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "7f84029d-9566-4430-a54c-d1bd55179fd8",
@@ -4382,7 +4553,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "e35ed60b-c0b2-401b-aeda-d15cac254c8a",
@@ -4446,7 +4618,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "F6349D68-235A-42AD-A9B5-1FA423F45357",
@@ -4480,7 +4653,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "413d1273-5f36-4ddd-be86-cc0d8cefcfb7",
@@ -4513,7 +4687,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "de35276a-a0e0-4412-827f-7caecf336c9f",
@@ -4536,7 +4711,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565801606.041400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "7b6a3dfa-23af-4a44-9280-0c410bc39795",
@@ -4559,7 +4735,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565801606.041400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "B4EA7554-E71A-44D7-8E0D-38174A81A557",
@@ -4591,7 +4768,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "160415bc-fd7b-4bb5-8b8f-37c4ec0d94d2",
@@ -4614,7 +4792,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565801606.041400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "56aa4c94-8d11-4d66-ad20-d9e4509053ea",
@@ -4637,7 +4816,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565801606.041400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "85fc1b80-bc0a-49d9-87e1-b70de7184196",
@@ -4660,7 +4840,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565801606.041400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "cb08bc0d-57c5-4f8d-806f-fe4a117ad5f8",
@@ -4683,7 +4864,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565834451.065400",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "0de90d1e-72c4-4576-8a07-d2c64e425713",
@@ -4706,7 +4888,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565834451.065400",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "cdbb279d-953b-44b1-a56a-d5cded27a9ba",
@@ -4729,7 +4912,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565834451.065400",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "0854300b-c762-4f73-96e2-39f2438b2b2d",
@@ -4752,7 +4936,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1565834451.065400",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "0b1bb62f-6d6a-4473-86cc-cbd8f27ef2d2",
@@ -4790,7 +4975,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1c742c4a-d935-425c-9a6c-33deb12a222a",
@@ -4811,7 +4997,8 @@
       "name": "nmsmith65",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "12ac710b-a9db-48a8-93ae-e8e1af479512",
@@ -4832,7 +5019,8 @@
       "name": "nmsmith65",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2281af66-b965-4d63-8ceb-e889be3235b6",
@@ -4866,7 +5054,8 @@
         ],
         "count": 5
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8c0341c8-309f-43a0-b719-bc9e3a2f8cf1",
@@ -4887,7 +5076,8 @@
       "name": "tbabb",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "9590a388-8ea7-48ed-99dd-d8ab7968b5de",
@@ -4920,7 +5110,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ef11d824-7d00-455a-85a2-dc1c5cc35d35",
@@ -4941,7 +5132,8 @@
       "name": "nmsmith65",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "4779f176-a87e-4624-a9a8-56e30fc3f08c",
@@ -4962,7 +5154,8 @@
       "name": "nmsmith65",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "99be3290-7613-49b8-9054-fea9e8fc4a0c",
@@ -5007,7 +5200,8 @@
         "ts": "1566026943.125200"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3e23d9bf-cf6b-4b67-9bb8-22996c8ab0ff",
@@ -5034,7 +5228,8 @@
       "ts": "1566018770.000000"
     },
     "thread_ts": "1566015154.124400",
-    "parent_user_id": "UEQ6M68H0"
+    "parent_user_id": "UEQ6M68H0",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "68f7da68-c3aa-468b-83ec-3789b2f4f046",
@@ -5057,7 +5252,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566015154.124400",
-    "parent_user_id": "UEQ6M68H0"
+    "parent_user_id": "UEQ6M68H0",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ba5a4e28-23b4-4708-96e1-351437c816c8",
@@ -5080,7 +5276,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566015154.124400",
-    "parent_user_id": "UEQ6M68H0"
+    "parent_user_id": "UEQ6M68H0",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "09CD7369-D0FF-45BA-808F-F081C9541C59",
@@ -5101,7 +5298,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "E8DBF80A-8B69-40DA-A2FD-5DF5B6E24BB5",
@@ -5122,7 +5320,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "274F325D-4FA1-4DB0-8853-DD4DF49C2956",
@@ -5143,7 +5342,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8b54e123-5ad1-4510-bc53-c1cbedc2e9a8",
@@ -5196,7 +5396,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a03f70e8-1f71-419f-b824-c7cfc9e22c46",
@@ -5229,7 +5430,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "318a00f3-8489-46ca-9628-6b44f4a3f842",
@@ -5307,7 +5509,8 @@
         ],
         "count": 6
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -5315,7 +5518,8 @@
     "ts": "1566235681.142700",
     "user": "UEJDZRQB1",
     "text": "<@UEJDZRQB1> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2a6ce4e6-a9e7-4475-a700-1ab746f33794",
@@ -5347,7 +5551,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "678a48bf-d91d-4414-8148-962331afa3dd",
@@ -5368,7 +5573,8 @@
       "name": "ak",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "026eff92-849e-4742-8715-c7129d165dee",
@@ -5503,7 +5709,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "abbbd40a-4072-49e2-8406-b86759cda59e",
@@ -5535,7 +5742,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "6b7700ed-bacd-4d0c-ac4f-76e367840f31",
@@ -5566,7 +5774,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "be482ac0-da41-4b1a-a7b9-971c84793c18",
@@ -5593,7 +5802,8 @@
       "ts": "1566240375.000000"
     },
     "thread_ts": "1566238710.155700",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b04a8aa7-7e62-4495-a9af-ab74af24f74a",
@@ -5626,7 +5836,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ad02e414-1421-40d8-876e-354dc6fbf8ca",
@@ -5649,7 +5860,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566238710.155700",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "afc45549-7d5e-40cc-86bc-5e4777f0ad1a",
@@ -5682,7 +5894,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "c9eef62f-c25d-47f6-9ef0-7e07191e2be3",
@@ -5718,7 +5931,8 @@
         ],
         "count": 7
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -5748,7 +5962,8 @@
       "subscribed": true,
       "last_read": "1566288072.185600"
     },
-    "client_msg_id": "63973854-697f-44d5-b4b2-9023db622d0d"
+    "client_msg_id": "63973854-697f-44d5-b4b2-9023db622d0d",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "56d44f52-79ad-484b-9e4b-2b2630e50702",
@@ -5769,7 +5984,8 @@
       "name": "srini",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "940682bc-b705-4cd6-83df-52a041c22d42",
@@ -5790,7 +6006,8 @@
       "name": "srini",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a3c8f919-50c3-46ff-84f2-c07e1ad560f2",
@@ -5835,7 +6052,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2645f568-7f42-4820-912d-2b55557e8704",
@@ -5858,7 +6076,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566242601.166300",
-    "parent_user_id": "UGLSY9X3J"
+    "parent_user_id": "UGLSY9X3J",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3e23b21f-776d-4c2a-9e63-ad3bebae413e",
@@ -5879,7 +6098,8 @@
       "name": "nicolas.decoster",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "76463302-8729-4cbe-a17d-d9d3bcc6889b",
@@ -5909,7 +6129,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "5846c5a0-2cd0-46bf-8ab2-61a0ae2c32d9",
@@ -5939,7 +6160,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "d4dc940c-07b5-467e-9bf6-6b81699d7a37",
@@ -5971,7 +6193,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "51fb096e-091b-4a25-91ab-096c391a6665",
@@ -5992,7 +6215,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "7fc1177e-a8dd-4791-8d72-0d12a94934b6",
@@ -6015,7 +6239,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566031221.127800",
-    "parent_user_id": "UA14TGLTC"
+    "parent_user_id": "UA14TGLTC",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "edfa8ce2-aee7-4277-afdf-2d9451ac0c85",
@@ -6055,7 +6280,8 @@
       }
     ],
     "thread_ts": "1566235677.142500",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "22b52804-c231-4aa1-bfdd-3ec181864d3c",
@@ -6078,7 +6304,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566238710.155700",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b8d02933-0534-415f-8145-708743e8014a",
@@ -6111,7 +6338,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f9414ba5-e3d5-45bb-9e41-af4fa4e61380",
@@ -6134,7 +6362,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566238710.155700",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1a1453a0-e72a-45a4-9cba-237feb7aaa48",
@@ -6157,7 +6386,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566238710.155700",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "5c5cbba4-f969-4ca5-9d74-2a3db2a175e3",
@@ -6180,7 +6410,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566238710.155700",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "404bc2bc-380e-49f8-8c37-a82986c83ddc",
@@ -6203,7 +6434,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566238710.155700",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a82998a1-49d5-4013-80f1-0974fd023b66",
@@ -6230,7 +6462,8 @@
       "ts": "1566284712.000000"
     },
     "thread_ts": "1566238710.155700",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "98a798b9-f6a7-4d8f-b410-1977c9a0b717",
@@ -6253,7 +6486,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566238710.155700",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "c9ebedf3-7883-4953-9536-7883c99dcfdd",
@@ -6292,7 +6526,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "4783922a-eddc-43ae-8977-b47f6d81e4f3",
@@ -6315,7 +6550,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566238710.155700",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "27839d2c-5048-49d0-8664-d1f9d68ef15a",
@@ -6338,7 +6574,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566238710.155700",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2fd76b42-b6e4-47d0-959e-23150eb946ab",
@@ -6361,7 +6598,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566238710.155700",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "57408603-0e79-46eb-9195-6b9ee2d37557",
@@ -6388,7 +6626,8 @@
       "ts": "1566288034.000000"
     },
     "thread_ts": "1566238710.155700",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "6d8fb7fa-cf76-465c-bc8b-3082e01c93a3",
@@ -6411,7 +6650,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566238710.155700",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "635c5ca0-1730-47b9-8942-de49c06c1387",
@@ -6434,7 +6674,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566238710.155700",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -6477,7 +6718,8 @@
         "is_share": true,
         "footer": "From a thread in #end-user-programming"
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -6520,7 +6762,8 @@
         "is_share": true,
         "footer": "From a thread in #end-user-programming"
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3519acf8-8a75-4d17-b68f-bf2d30505728",
@@ -6553,7 +6796,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "782d613a-611a-4e23-9826-10abb47e5517",
@@ -6576,7 +6820,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566235677.142500",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f19354c0-2be9-46fe-b5f2-cc2f249cd1bb",
@@ -6599,7 +6844,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566235677.142500",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "e6c04359-3ab5-48b4-831f-7abb70902230",
@@ -6626,7 +6872,8 @@
       "ts": "1566306230.000000"
     },
     "thread_ts": "1566235677.142500",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "337fa7e1-7bf9-49e2-85b2-b20276fa8861",
@@ -6649,7 +6896,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566031221.127800",
-    "parent_user_id": "UA14TGLTC"
+    "parent_user_id": "UA14TGLTC",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "339572ee-d418-4015-b952-86162f28bebd",
@@ -6761,7 +7009,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ad06d46b-8367-4a94-9fbd-732dd83aefb8",
@@ -6802,7 +7051,8 @@
       }
     ],
     "thread_ts": "1566318408.201400",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "0604f224-6421-4bc5-a8d0-4c233379f8e0",
@@ -6825,7 +7075,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566318408.201400",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "458a4720-e539-46fd-ab9d-bc4153cb92f7",
@@ -6857,7 +7108,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "4424722a-509b-4a81-befe-a067b444de7c",
@@ -6880,7 +7132,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566318408.201400",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "c1fbed8f-461a-4163-afa9-089babe32b89",
@@ -6914,7 +7167,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "02c508a0-762a-419f-8c37-f0853d46eec8",
@@ -6937,7 +7191,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566318408.201400",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b411820d-6262-490f-9814-e234c7788a90",
@@ -6969,7 +7224,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "c01b1c70-f30e-418c-927d-9b668d19c8b0",
@@ -6992,7 +7248,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566318408.201400",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ace16601-7d79-48d6-8b14-29e76253ba9c",
@@ -7038,7 +7295,8 @@
       }
     ],
     "thread_ts": "1566318408.201400",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "76fa8190-d7d8-4faf-b5ad-3cbbb3a3503d",
@@ -7157,7 +7415,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "c23fcfc5-83d3-4b54-a5ec-1116a1e6116d",
@@ -7180,7 +7439,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566318408.201400",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1932fd94-6f2e-4904-895e-ca5091fb8e04",
@@ -7213,7 +7473,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "9c5f9791-be14-45e2-ac83-36703a92b6d3",
@@ -7236,7 +7497,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566326016.206300",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "39f144c5-6241-4b54-91fc-09a0ef3ae72d",
@@ -7259,7 +7521,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566318408.201400",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "4660ed0c-c21e-4c0b-9743-04fb6f9abd46",
@@ -7282,7 +7545,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566318408.201400",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "0398ec6c-5197-4347-9046-ddac7145d281",
@@ -7305,7 +7569,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566235677.142500",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f7d41f23-e821-4748-b8ba-fb59abc30dc2",
@@ -7338,7 +7603,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "fa5577fc-f6a6-42ce-a5f0-d5821988d52e",
@@ -7361,7 +7627,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566318408.201400",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8d7dc197-5d76-46a5-b094-d1c93f3eeda2",
@@ -7397,7 +7664,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "88d9d3ca-2a3f-4fe9-a8fa-f079a5c5a909",
@@ -7420,7 +7688,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566318408.201400",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -7486,7 +7755,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f2d18a57-3b9d-43c6-bece-f1797dfb62ee",
@@ -7537,7 +7807,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ed88b5f1-9b66-4c86-940c-ecfce088c034",
@@ -7625,7 +7896,8 @@
         "ts": "1566587418.242200"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1709421c-9975-4bf7-8c03-86d38a76da5e",
@@ -7674,7 +7946,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2f6ec11d-c3a8-41dc-8657-d5da6b7e439e",
@@ -7697,7 +7970,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566376919.228100",
-    "parent_user_id": "UJ6LDMMN0"
+    "parent_user_id": "UJ6LDMMN0",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b41ec3f0-18e4-4ead-9d97-414b4834a4f9",
@@ -7720,7 +7994,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566372771.219400",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "757981ac-78ed-4183-bfc4-1cb60ae618cc",
@@ -7809,7 +8084,8 @@
         ],
         "count": 6
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1f0c413b-b8bc-44c5-963c-7e9f141d9adb",
@@ -7843,7 +8119,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8ec3fe34-b8b4-43c5-8a48-96d379b5f47e",
@@ -7870,7 +8147,8 @@
       "ts": "1566413804.000000"
     },
     "thread_ts": "1566407663.231600",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "7C1D18AF-A946-4A4C-996A-C58343C8F898",
@@ -7893,7 +8171,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566376919.228100",
-    "parent_user_id": "UJ6LDMMN0"
+    "parent_user_id": "UJ6LDMMN0",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a6a8d0d8-0848-48a7-b467-a86dd5711123",
@@ -7916,7 +8195,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566376919.228100",
-    "parent_user_id": "UJ6LDMMN0"
+    "parent_user_id": "UJ6LDMMN0",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "dbf2366d-cecf-43c0-af29-e6cbfd2a30dd",
@@ -7939,7 +8219,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566376919.228100",
-    "parent_user_id": "UJ6LDMMN0"
+    "parent_user_id": "UJ6LDMMN0",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "22929da9-ca5e-4e1b-b1ff-3f787d1f6fef",
@@ -7971,7 +8252,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "56d4c814-a80b-4a6a-8903-4e5b332a3df2",
@@ -8003,7 +8285,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b0e06f74-ac83-4e83-952e-0a5379955c65",
@@ -8052,7 +8335,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "5ecd7f17-ed99-480a-8568-26f4c58208a0",
@@ -8075,7 +8359,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566326016.206300",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8897f0b8-7205-424a-b35d-8c2ee4200b6c",
@@ -8108,7 +8393,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "36899fcf-5935-4ae8-8ba3-c63e1993d03e",
@@ -8131,7 +8417,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566407663.231600",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "e291b3b2-6837-4dad-ab0e-bf9709e5f7fd",
@@ -8154,7 +8441,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566326016.206300",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "c36862c9-4a2b-4e0d-b36e-e0d01a74d7bb",
@@ -8177,7 +8465,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566326016.206300",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2e687e35-f17a-4e58-a55e-59c76e3f161a",
@@ -8200,7 +8489,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566376919.228100",
-    "parent_user_id": "UJ6LDMMN0"
+    "parent_user_id": "UJ6LDMMN0",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1e48eeae-8e63-470f-a26a-a28cdd2aabb3",
@@ -8223,7 +8513,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566407663.231600",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "86324766-0480-414b-9f5f-0f274fa6d9db",
@@ -8258,7 +8549,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "83633017-3926-4c6a-a0d2-2858112f2a7d",
@@ -8285,7 +8577,8 @@
       "ts": "1566464850.000000"
     },
     "thread_ts": "1566376919.228100",
-    "parent_user_id": "UJ6LDMMN0"
+    "parent_user_id": "UJ6LDMMN0",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1a59e07b-8c62-434c-bce1-58b21fd173e7",
@@ -8308,7 +8601,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566376919.228100",
-    "parent_user_id": "UJ6LDMMN0"
+    "parent_user_id": "UJ6LDMMN0",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "e1b95c5e-0596-4dda-9b25-bc9834efb43e",
@@ -8331,7 +8625,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566376919.228100",
-    "parent_user_id": "UJ6LDMMN0"
+    "parent_user_id": "UJ6LDMMN0",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "74ee3384-b465-4143-9f0f-875ea426dbb5",
@@ -8354,7 +8649,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566376919.228100",
-    "parent_user_id": "UJ6LDMMN0"
+    "parent_user_id": "UJ6LDMMN0",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "5a462514-4679-433f-9a79-d5f361e65e87",
@@ -8388,7 +8684,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3a9c97b6-e38c-45fa-8387-a26ac972dc1b",
@@ -8415,7 +8712,8 @@
       "ts": "1566494017.000000"
     },
     "thread_ts": "1566326016.206300",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "cdf5085a-fd1f-4618-9f03-f6101cbfcce8",
@@ -8438,7 +8736,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566376919.228100",
-    "parent_user_id": "UJ6LDMMN0"
+    "parent_user_id": "UJ6LDMMN0",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "7b36895b-5bd7-42d0-8683-6e102e67848e",
@@ -8461,7 +8760,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566376919.228100",
-    "parent_user_id": "UJ6LDMMN0"
+    "parent_user_id": "UJ6LDMMN0",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "eed584b9-0df6-4138-9407-61cb9427715d",
@@ -8494,7 +8794,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "561d1460-7e41-4867-a741-d8bb81a72290",
@@ -8517,7 +8818,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566376919.228100",
-    "parent_user_id": "UJ6LDMMN0"
+    "parent_user_id": "UJ6LDMMN0",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "5df43a48-897a-4f8c-ad19-a17774785440",
@@ -8540,7 +8842,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566326016.206300",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "835f940c-6393-4b5a-8584-ad3b44b30352",
@@ -8563,7 +8866,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566326016.206300",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "e4c37823-c70d-4836-86f6-d1596dfa6798",
@@ -8586,7 +8890,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566326016.206300",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3327ad64-40eb-47bb-a003-e6c3f7f92111",
@@ -8609,7 +8914,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566326016.206300",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "aa189ba3-5aec-41d9-a9f4-d7116488b930",
@@ -8632,7 +8938,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566326016.206300",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "EFBDA4D1-0D55-4C20-AA4C-2A7BC107EC56",
@@ -8683,7 +8990,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8F8A9E9B-65F0-41C9-A34B-572CFEC79268",
@@ -8706,7 +9014,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566407663.231600",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ab203789-a3d8-4d6b-a6e6-447eaeb23766",
@@ -8738,7 +9047,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "21a3a010-71be-47ad-b0a2-b28c01a8959e",
@@ -8761,7 +9071,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1566326016.206300",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -8802,7 +9113,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8ab9724c-28a2-487b-9cc3-b879951a423c",
@@ -8835,7 +9147,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f12d4a08-5362-46c8-86d5-21bada8aad46",
@@ -8926,7 +9239,8 @@
         ],
         "count": 7
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "147ba4d7-60a4-498c-b650-d0a69ab80029",
@@ -8949,7 +9263,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1568037884.000800",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "809B9D48-A165-42A8-9DBA-A8A70FA718C2",
@@ -8972,7 +9287,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1568037884.000800",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -9031,7 +9347,8 @@
         ],
         "count": 5
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "9f92ebcf-a4fb-4ddc-8560-838d6bdc3a85",
@@ -9054,7 +9371,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1568037884.000800",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "bb0ff22b-22f9-4fb1-989f-29040a98c59d",
@@ -9126,7 +9444,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "429b5d48-ccb1-4f90-9a99-82e9c9fb1c6a",
@@ -9153,7 +9472,8 @@
       "ts": "1569442364.000000"
     },
     "thread_ts": "1568037884.000800",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "30D9939B-BDCB-443E-94EF-A9745BDD8424",
@@ -9189,7 +9509,8 @@
       }
     ],
     "thread_ts": "1569440043.001000",
-    "parent_user_id": "UGLSY9X3J"
+    "parent_user_id": "UGLSY9X3J",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -9197,7 +9518,8 @@
     "ts": "1569717213.002800",
     "user": "UEZQXJK9V",
     "text": "<@UEZQXJK9V> has joined the channel",
-    "inviter": "U71PMQ1V0"
+    "inviter": "U71PMQ1V0",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "9ff835ad-3875-41d0-a9c6-895fabb26086",
@@ -9282,7 +9604,8 @@
         "ts": "1574350573.152700"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -9304,7 +9627,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570469769.009800",
-    "parent_user_id": "UG0EL18H3"
+    "parent_user_id": "UG0EL18H3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2fd7be98-f7b5-4da5-9856-6885a25d82be",
@@ -9327,7 +9651,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570469769.009800",
-    "parent_user_id": "UG0EL18H3"
+    "parent_user_id": "UG0EL18H3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8699f983-74c5-4dc0-9437-569bc7b8f575",
@@ -9365,7 +9690,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "7637939d-9071-4b23-aff7-0de35c2ab389",
@@ -9388,7 +9714,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570469769.009800",
-    "parent_user_id": "UG0EL18H3"
+    "parent_user_id": "UG0EL18H3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "6F390889-CDFE-46A7-8830-E8A665E472BD",
@@ -9411,7 +9738,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570469769.009800",
-    "parent_user_id": "UG0EL18H3"
+    "parent_user_id": "UG0EL18H3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f3415c80-ed8c-4018-97d7-e36c55984012",
@@ -9451,7 +9779,8 @@
       }
     ],
     "thread_ts": "1570469769.009800",
-    "parent_user_id": "UG0EL18H3"
+    "parent_user_id": "UG0EL18H3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "d2632794-1baf-4ac8-bbc6-b152042e3cfa",
@@ -9474,7 +9803,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570469769.009800",
-    "parent_user_id": "UG0EL18H3"
+    "parent_user_id": "UG0EL18H3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "346c7549-5970-4dd8-9d58-0e39e337622a",
@@ -9522,7 +9852,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3603a199-2ed9-4d53-ac20-5b4d2e55199e",
@@ -9559,7 +9890,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "cac44876-e218-4ece-aedd-29f4a3117ad4",
@@ -9580,7 +9912,8 @@
       "name": "donabrams",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "7cec0cf4-8595-4be2-9595-cb365130579b",
@@ -9605,7 +9938,8 @@
     "edited": {
       "user": "UN57U8V53",
       "ts": "1570523007.000000"
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "69AA9295-1188-4257-A905-5187E977784E",
@@ -9628,7 +9962,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570469769.009800",
-    "parent_user_id": "UG0EL18H3"
+    "parent_user_id": "UG0EL18H3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "15D5FB70-D852-49EF-9DDC-2672F16B5A39",
@@ -9651,7 +9986,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570469769.009800",
-    "parent_user_id": "UG0EL18H3"
+    "parent_user_id": "UG0EL18H3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "d9b99a95-9295-4470-9df7-53023c8cb65d",
@@ -9674,7 +10010,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570469769.009800",
-    "parent_user_id": "UG0EL18H3"
+    "parent_user_id": "UG0EL18H3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "fa0b8751-cbb9-449a-b7dc-9d7790ff9f3d",
@@ -9728,7 +10065,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ef2173ac-eec6-4d48-a56f-47f46739b762",
@@ -9778,7 +10116,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "d9f4ea56-d22a-4b40-87e8-8b6cabe8345e",
@@ -9803,7 +10142,8 @@
     "edited": {
       "user": "UNBPP291C",
       "ts": "1570714570.000000"
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "426d63a6-6ee4-4834-b7c8-a1757dc2ea6f",
@@ -9824,7 +10164,8 @@
       "name": "ian.rumac",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2117ee71-a78b-4ab6-9838-2e925e795dc9",
@@ -9847,7 +10188,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570696245.001700",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "d390fac7-b23b-4457-913f-7ac128b875a3",
@@ -9890,7 +10232,8 @@
         "original_url": "https://futureofcoding.slack.com/archives/C5T9GPWFL/p1570306524283800",
         "footer": "Posted in #general"
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "5913254c-779e-4f74-80a4-3970772edb64",
@@ -9943,7 +10286,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2b9fee2f-6fdc-4a58-a71b-3e302179b900",
@@ -10112,7 +10456,8 @@
         "ts": "1570831100.024500"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "87b22b8c-49c8-4bcd-b306-784c7f8fa212",
@@ -10135,7 +10480,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8403fad5-99a3-4690-a480-144b2ea57b34",
@@ -10158,7 +10504,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "7b64dbc9-424e-421e-88cb-e5d4aace3bac",
@@ -10190,7 +10537,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2fa08fdf-98e4-4887-a78c-d23b4e534e97",
@@ -10213,7 +10561,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ae1dde50-4be4-4e4f-bb38-77e487715579",
@@ -10252,7 +10601,8 @@
       }
     ],
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "216a7e3e-2215-4370-a12b-270450feaf6b",
@@ -10275,7 +10625,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "7cf917d1-7a07-423b-8804-bbbae4aa19fb",
@@ -10298,7 +10649,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f25ed2e4-56da-49d2-8fd6-91a861d71df7",
@@ -10330,7 +10682,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a7123e3c-9b00-472d-9c4d-a2a0b7391e3a",
@@ -10353,7 +10706,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8aaa99c7-0016-47f8-909e-e2f46eed3ced",
@@ -10376,7 +10730,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "842d508a-9873-4e3c-b377-39c1ea75f8ee",
@@ -10399,7 +10754,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "c7212fd0-00a0-4621-8d02-8a58815717d1",
@@ -10431,7 +10787,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3d27347a-dcd8-40f3-ac99-75007fb4dc53",
@@ -10464,7 +10821,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ab50abd4-d51a-417a-a1be-9cd9db702735",
@@ -10512,7 +10870,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "5eee0be8-4497-4a08-abe4-5cebd7eb6b7e",
@@ -10544,7 +10903,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "27bce02e-4c14-4496-80eb-9bb470fd0813",
@@ -10567,7 +10927,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1eea4ac8-b952-47fa-b7d2-708fe05de5cb",
@@ -10590,7 +10951,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8d315cd7-8670-449a-87cc-555f508baed7",
@@ -10613,7 +10975,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "34db12dc-1446-4d19-adfc-3350875fd851",
@@ -10636,7 +10999,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "098f5939-2572-4d47-8a5a-7c5f5ace81a5",
@@ -10659,7 +11023,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "4dd3f6d2-ab57-493c-aec4-808b875c8408",
@@ -10682,7 +11047,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "5d1ba7fa-fb04-4bea-89c7-ec6ed3bd0ba0",
@@ -10705,7 +11071,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "9023d0b6-30ac-4ed2-9f2d-d4d35a473027",
@@ -10732,7 +11099,8 @@
       "ts": "1570726923.000000"
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b67ccae3-0f9d-408a-947e-5ca262d1d371",
@@ -10755,7 +11123,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ad2a367d-0e8a-4e89-8479-9f2137010497",
@@ -10805,7 +11174,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8d1cbcae-b918-403c-8a54-65b803b914f1",
@@ -10828,7 +11198,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "33ef3e6a-3b4d-4c6c-8e9b-634bc15a18e7",
@@ -10873,7 +11244,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "7256d6a4-0d78-4785-8d38-0a0482c6229f",
@@ -10900,7 +11272,8 @@
       "ts": "1570782822.000000"
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "6736c6a4-bc75-4aa3-b8ee-a8ce9db124a3",
@@ -10923,7 +11296,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "af832f5b-0aae-4b92-a562-12628cf152b1",
@@ -10950,7 +11324,8 @@
       "ts": "1570784289.000000"
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "24af4e76-e3af-4fc1-a9da-ad8bffa4e8f4",
@@ -10973,7 +11348,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ae150990-e69e-4d86-9220-5c8b8b5c7c96",
@@ -10996,7 +11372,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570723053.012600",
-    "parent_user_id": "UN89MTTML"
+    "parent_user_id": "UN89MTTML",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ed9bbc51-ec4f-4fef-bea9-f1ab1f527ed7",
@@ -11030,7 +11407,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "69a9ca4f-009f-425d-b677-ad47934e7964",
@@ -11123,7 +11501,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a8b20c2a-ca0b-4dc4-a5fd-24e6c057db22",
@@ -11146,7 +11525,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571077405.026300",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "fe96f15f-0ce1-413d-8371-d7c1ef219905",
@@ -11169,7 +11549,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571077405.026300",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "922068a3-4c3c-4989-aa89-49047a125ba4",
@@ -11192,7 +11573,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571077405.026300",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "428c0784-9f5b-4a74-9406-4e9b581aa758",
@@ -11215,7 +11597,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571077405.026300",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "426ddece-e5ad-4eb9-bbf0-bc3a731a0d1b",
@@ -11238,7 +11621,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571077405.026300",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "5c2fd366-7afa-461d-ae98-1dea6073416c",
@@ -11362,7 +11746,8 @@
         "ts": "1578071781.006600"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "5ffbed44-9355-4491-b598-6806c5107bf3",
@@ -11408,7 +11793,8 @@
       }
     ],
     "thread_ts": "1571468673.034400",
-    "parent_user_id": "UJKKBAMLL"
+    "parent_user_id": "UJKKBAMLL",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1e4cf366-0e22-48db-b24b-be882fb79ca6",
@@ -11431,7 +11817,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571468673.034400",
-    "parent_user_id": "UJKKBAMLL"
+    "parent_user_id": "UJKKBAMLL",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b536fcf8-9484-4a1a-bbd8-8e89e747df8f",
@@ -11454,7 +11841,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571468673.034400",
-    "parent_user_id": "UJKKBAMLL"
+    "parent_user_id": "UJKKBAMLL",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "4f328ab9-ee0b-4240-8d8e-ff982ea2fb96",
@@ -11477,7 +11865,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571468673.034400",
-    "parent_user_id": "UJKKBAMLL"
+    "parent_user_id": "UJKKBAMLL",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "87ee3b0f-1aa0-4023-9fe5-bb647bdbe1f1",
@@ -11504,7 +11893,8 @@
       "ts": "1571470127.000000"
     },
     "thread_ts": "1571468673.034400",
-    "parent_user_id": "UJKKBAMLL"
+    "parent_user_id": "UJKKBAMLL",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ff3e9241-2aac-4cae-967b-f84d9137fea0",
@@ -11527,7 +11917,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571468673.034400",
-    "parent_user_id": "UJKKBAMLL"
+    "parent_user_id": "UJKKBAMLL",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "54C98023-18D2-4D18-8D8F-00BAE0622B0D",
@@ -11554,7 +11945,8 @@
       "ts": "1571470960.000000"
     },
     "thread_ts": "1571468673.034400",
-    "parent_user_id": "UJKKBAMLL"
+    "parent_user_id": "UJKKBAMLL",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "370724BA-1BE4-4AD3-AA27-2EE5DE748159",
@@ -11577,7 +11969,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571468673.034400",
-    "parent_user_id": "UJKKBAMLL"
+    "parent_user_id": "UJKKBAMLL",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "6795A582-3739-4DC7-9F6A-00088AE307ED",
@@ -11600,7 +11993,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571077405.026300",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "c0bfe3a1-ed29-4374-926a-f86f5132cdde",
@@ -11634,7 +12028,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "08cce5b2-42ff-46dd-8d8a-04e2e3ddcfd1",
@@ -11657,7 +12052,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571468673.034400",
-    "parent_user_id": "UJKKBAMLL"
+    "parent_user_id": "UJKKBAMLL",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "5c3c1444-6388-4526-a833-d05de822e236",
@@ -11678,7 +12074,8 @@
       "name": "jonathoda",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "959449f5-a40e-4da6-b984-56c95fc261ad",
@@ -11699,7 +12096,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "4af746a2-36e6-4a46-931d-9a5ba5efc206",
@@ -11724,7 +12122,8 @@
     "edited": {
       "user": "UAVCC2X70",
       "ts": "1571630580.000000"
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "4cfb67a4-2ac9-45e3-b678-776c47bc920e",
@@ -11745,7 +12144,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f802066a-d247-4f6b-8624-5571d7ab5c31",
@@ -11768,7 +12168,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571468673.034400",
-    "parent_user_id": "UJKKBAMLL"
+    "parent_user_id": "UJKKBAMLL",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "53c7a8bd-8a50-41c8-b7f7-01a9f80db5e4",
@@ -11826,7 +12227,8 @@
         "ts": "1571818061.053200"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "879dfae7-5a69-4e4b-8cfb-f2e1aa4050a6",
@@ -11872,7 +12274,8 @@
       }
     ],
     "thread_ts": "1571720814.051400",
-    "parent_user_id": "UC21F8Q48"
+    "parent_user_id": "UC21F8Q48",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "089D09B4-DAA0-42CE-BF35-A7B27A6B8DD2",
@@ -11895,7 +12298,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571720814.051400",
-    "parent_user_id": "UC21F8Q48"
+    "parent_user_id": "UC21F8Q48",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -11936,7 +12340,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "5e2ebf70-5df9-4d2b-9b3d-f52b8b42b999",
@@ -11959,7 +12364,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571720814.051400",
-    "parent_user_id": "UC21F8Q48"
+    "parent_user_id": "UC21F8Q48",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f31b9d4e-3a0c-41a3-88d8-1c44078d8fa5",
@@ -11982,7 +12388,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571720814.051400",
-    "parent_user_id": "UC21F8Q48"
+    "parent_user_id": "UC21F8Q48",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ad4eb7c2-47fa-40ab-b22a-9ee4e14191c8",
@@ -12090,7 +12497,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "049b75e1-4d09-494c-906d-358dc50e567a",
@@ -12131,7 +12539,8 @@
       }
     ],
     "thread_ts": "1571828720.053600",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "fbc21435-f6d7-4ee5-861e-4f50fba1d195",
@@ -12154,7 +12563,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571828720.053600",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "e7b82158-f01e-4f9d-a83a-8ae80c8e2be2",
@@ -12177,7 +12587,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571828720.053600",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "86c969a6-73c2-44c9-9751-b827fdfbd4e1",
@@ -12200,7 +12611,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571828720.053600",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "e74471d3-f47c-4d0e-803d-333670713f07",
@@ -12223,7 +12635,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571828720.053600",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b0cf52be-c43b-472c-a7c8-7d8bc9980e78",
@@ -12250,7 +12663,8 @@
       "ts": "1571847705.000000"
     },
     "thread_ts": "1571828720.053600",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a55f5a0a-d97b-43d3-a2f4-9e6b369a6e19",
@@ -12273,7 +12687,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571828720.053600",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "38e9c989-28c2-497b-81df-6c4f03bc8380",
@@ -12296,7 +12711,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571828720.053600",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "0b52493e-da19-4be4-ada8-6a1ec38bb861",
@@ -12319,7 +12735,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571828720.053600",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "46b19628-66c8-4a11-80d3-8c1591a68428",
@@ -12346,7 +12763,8 @@
       "ts": "1571848616.000000"
     },
     "thread_ts": "1571828720.053600",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "48a9b982-707b-49c3-8685-54a189ba4cf0",
@@ -12369,7 +12787,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571828720.053600",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "84ba1749-9198-4a4e-8b8b-2bfef9c2e793",
@@ -12450,7 +12869,8 @@
         "ts": "1572554456.000400"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "35c8ee90-77d4-453e-881e-21163977854d",
@@ -12504,7 +12924,8 @@
         "ts": "1573090543.018600"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "78696378-40da-4d38-bd92-fe832de3baec",
@@ -12543,7 +12964,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "846EA432-A3D6-4EA0-9B89-D9AA348809DD",
@@ -12584,7 +13006,8 @@
       }
     ],
     "thread_ts": "1572002424.061800",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "afba7e22-e09a-4c2b-bb73-8f13d6315554",
@@ -12611,7 +13034,8 @@
       "ts": "1572042966.000000"
     },
     "thread_ts": "1572002424.061800",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2efa0f12-5367-4b7b-93b9-1ff1e03febf6",
@@ -12634,7 +13058,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572035777.066000",
-    "parent_user_id": "UEQ6M68H0"
+    "parent_user_id": "UEQ6M68H0",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "CF5E5908-5FB7-4A45-A5BB-67E0AAB93AA8",
@@ -12657,7 +13082,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572035777.066000",
-    "parent_user_id": "UEQ6M68H0"
+    "parent_user_id": "UEQ6M68H0",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8F776DAD-BFB9-47C5-A91E-5A3F1C21C8F6",
@@ -12689,7 +13115,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3fe706d6-21ce-4268-a33d-75ec73bc36c0",
@@ -12716,7 +13143,8 @@
       "ts": "1572447451.000000"
     },
     "thread_ts": "1572002424.061800",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "25F2704C-7AB3-4E2D-8F43-40E94DBC9DB0",
@@ -12739,7 +13167,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572002424.061800",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3a310ffd-6abd-465a-bf43-e96a02d7bdf4",
@@ -12787,7 +13216,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a7358c65-0777-45b3-9f31-7421e5e228fb",
@@ -12810,7 +13240,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572002424.061800",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3284418b-605f-4d24-9d76-2e95b82aba47",
@@ -12833,7 +13264,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572002424.061800",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "be2e254f-2d0a-4d02-bd08-4da13212507b",
@@ -12856,7 +13288,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572002424.061800",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "c7e63eb9-5d9e-4dfd-ba3e-145b9698c4c0",
@@ -12879,7 +13312,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572002424.061800",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "61A13DE3-C2A3-4773-A053-0A789FF3D830",
@@ -12902,7 +13336,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572002424.061800",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "111114ae-9059-4bc8-8d92-874d63755b5c",
@@ -12925,7 +13360,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572002424.061800",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "bd47a6e3-4f5f-4dfa-9573-dc68b314fffa",
@@ -12965,7 +13401,8 @@
       }
     ],
     "thread_ts": "1572002424.061800",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "6c48c41d-7a2e-48d6-85b5-9d6f4a435603",
@@ -12988,7 +13425,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572425867.133200",
-    "parent_user_id": "UJBAJNFLK"
+    "parent_user_id": "UJBAJNFLK",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3a50d0be-0c1d-470f-b9e5-0ce2947d19d3",
@@ -13011,7 +13449,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572035777.066000",
-    "parent_user_id": "UEQ6M68H0"
+    "parent_user_id": "UEQ6M68H0",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "4d4171cf-72a1-47d8-a203-939e34ad03ae",
@@ -13146,7 +13585,8 @@
         "ts": "1573102302.028800"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -13154,7 +13594,8 @@
     "ts": "1572960853.013100",
     "user": "UDCLA1HU4",
     "text": "<@UDCLA1HU4> has joined the channel",
-    "inviter": "UEP7RL0HX"
+    "inviter": "UEP7RL0HX",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "12d7be38-1a88-4085-adf3-69dd87407fb3",
@@ -13177,7 +13618,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572960836.012800",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "6c13b289-7404-49b6-b36f-fd2404eea86b",
@@ -13200,7 +13642,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572960836.012800",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "36289e05-4030-4f16-a5d2-b0274e46b008",
@@ -13240,7 +13683,8 @@
       }
     ],
     "thread_ts": "1572960836.012800",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "bcc1f285-4eec-4e3c-a1c5-b445eb3fdb3b",
@@ -13263,7 +13707,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572960836.012800",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a9f74dba-9152-427b-915c-f3c6f69ebca6",
@@ -13286,7 +13731,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572960836.012800",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b20eabe8-4742-4810-869d-7a155de70a13",
@@ -13323,7 +13769,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "38a63fce-6606-4f24-bf15-13aa9afcd2b5",
@@ -13346,7 +13793,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572960836.012800",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8770b2d2-c6ef-4dee-aa67-2f67ebcc9c55",
@@ -13369,7 +13817,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572960836.012800",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8f319048-9a62-4633-8e02-7fa1649c5104",
@@ -13392,7 +13841,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572960836.012800",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "05dd0865-d66f-4bf7-ac15-d9c005d8f920",
@@ -13415,7 +13865,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572960836.012800",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a6e4621a-a9cb-450c-a499-da7fa64fc407",
@@ -13438,7 +13889,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572960836.012800",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "0e9eaa59-0544-45bb-8677-28f4127fe771",
@@ -13474,7 +13926,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "4b87004e-c7d9-465b-a272-cfb2fdcb9022",
@@ -13497,7 +13950,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572960836.012800",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "e4b31106-e24c-46a0-b629-67acdc086d7d",
@@ -13530,7 +13984,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "27af53d5-886f-4376-bee8-e515375a21ce",
@@ -13553,7 +14008,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572960836.012800",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1a2a95b5-2410-4bf7-815e-0b773f5d8e04",
@@ -13576,7 +14032,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572960836.012800",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b4a8b00c-f735-4c27-9771-0912c9141149",
@@ -13608,7 +14065,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b4c1e106-1924-40be-aa08-479aebcdbc5b",
@@ -13635,7 +14093,8 @@
       "ts": "1573031715.000000"
     },
     "thread_ts": "1572960836.012800",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "d054523e-3d99-4948-b360-b39f16cc8dda",
@@ -13675,7 +14134,8 @@
       }
     ],
     "thread_ts": "1572035777.066000",
-    "parent_user_id": "UEQ6M68H0"
+    "parent_user_id": "UEQ6M68H0",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "139AAB35-2B14-46CC-BADC-B159087BA01B",
@@ -13708,7 +14168,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "e019f38e-49b0-4882-99be-9a110c3dbae0",
@@ -13731,7 +14192,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571077405.026300",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "c864969c-180d-43ec-878e-68eaae039dc7",
@@ -13756,7 +14218,8 @@
     "edited": {
       "user": "UE6EFEPTQ",
       "ts": "1573635241.000000"
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2d34f369-2c52-4e5a-8863-edd007e88c3b",
@@ -13777,7 +14240,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "e900c194-8197-4877-aac6-25e1bcf27809",
@@ -13798,7 +14262,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b8631731-3ee6-4382-962a-d29a9d92ad97",
@@ -13819,7 +14284,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "423bd2cb-0d13-4ecb-9737-696cf9368339",
@@ -13840,7 +14306,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "521ba287-5bf6-409f-a3a3-b95a464ac682",
@@ -13861,7 +14328,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1ad4e464-a98f-4dd5-831f-662a782c7c21",
@@ -13882,7 +14350,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "fe151874-c00c-43e5-a14f-933e45b6dd60",
@@ -13912,7 +14381,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1230f481-e896-40ab-9921-09e7482e292a",
@@ -13933,7 +14403,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8dcb9f8f-48e4-4e7d-9159-429b27d62482",
@@ -13954,7 +14425,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f43c1446-7673-4a69-802f-9c331c58d758",
@@ -13975,7 +14447,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b5be533a-b8fd-4d37-9957-ad8aaf3927d0",
@@ -13996,7 +14469,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "842b256a-bc35-4361-88d6-c76f51aa737d",
@@ -14017,7 +14491,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "c076bf7a-e37f-4562-9190-05190079e6d5",
@@ -14038,7 +14513,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "9cebb034-d16f-4379-a284-5ca53b0ae381",
@@ -14059,7 +14535,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "de71484e-6296-44fc-9cc3-47076bba41de",
@@ -14080,7 +14557,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "830f6011-eaa2-4e36-819f-db44dc4a0c5f",
@@ -14101,7 +14579,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "245e77e1-46aa-4198-b5cd-badd7452e840",
@@ -14122,7 +14601,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3802b4ec-b84f-4748-870b-0fff7e96c89c",
@@ -14143,7 +14623,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "cd7be988-8730-49bd-80a3-d2cd85773864",
@@ -14173,7 +14654,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2c82b689-822a-49ae-b93a-55b65e83121f",
@@ -14194,7 +14676,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "649f3530-af1d-4b0e-b25f-e967ae548637",
@@ -14215,7 +14698,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "92b57384-0379-4e99-b840-1f532ace3661",
@@ -14236,7 +14720,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "82f926a1-f9f0-49dc-8cc2-d3830d007568",
@@ -14257,7 +14742,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8005e87d-cf51-4fb2-87c4-46adc3f154ff",
@@ -14278,7 +14764,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "24b8536d-6fb4-4d40-a16e-998edb8760c3",
@@ -14299,7 +14786,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2489b0a0-e235-41c0-922f-45ade7ad1d0a",
@@ -14320,7 +14808,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "95436bd8-2125-4609-ab76-790ce2a97124",
@@ -14341,7 +14830,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "e3dee261-bda1-4f23-bf88-5301f0613807",
@@ -14362,7 +14852,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "34d59bd9-5d3f-4054-9238-f92d96d08762",
@@ -14387,7 +14878,8 @@
     "edited": {
       "user": "UE6EFEPTQ",
       "ts": "1573638518.000000"
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "24f019c6-2ce7-4431-b8cf-fd5f1cdef4e5",
@@ -14408,7 +14900,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a254bd30-6d02-4150-b48a-5f6bc9ba473e",
@@ -14429,7 +14922,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b58280b7-a294-4231-ad94-8fbd44bf6eab",
@@ -14450,7 +14944,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "fd20510a-c56d-4c14-93a8-ee21fc52680b",
@@ -14471,7 +14966,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "603a6836-b1a9-44bc-a53e-9c5f50d9f2bc",
@@ -14492,7 +14988,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "e41767af-45da-46ad-9b27-9c93d58383e9",
@@ -14513,7 +15010,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -14575,7 +15073,8 @@
     "user": "UBN9AFS0N",
     "display_as_bot": false,
     "ts": "1573638679.056400",
-    "client_msg_id": "d7f6c55c-6a2d-430d-b9d9-65a7a66be9a5"
+    "client_msg_id": "d7f6c55c-6a2d-430d-b9d9-65a7a66be9a5",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "49b5e7e0-bc72-4b65-b2f9-d54b545e597a",
@@ -14605,7 +15104,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "139bf7ef-17fb-411d-84ef-a119f3096f2a",
@@ -14626,7 +15126,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "6c12b05b-45bc-4c42-9ef1-78cb2c8cdd16",
@@ -14651,7 +15152,8 @@
     "edited": {
       "user": "UE6EFEPTQ",
       "ts": "1573638779.000000"
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1e8d7d57-bb45-4a9a-a262-bb01a5c9580d",
@@ -14672,7 +15174,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "d3fe4c8a-9f9a-4258-90d5-931222dedece",
@@ -14693,7 +15196,8 @@
       "name": "mariano",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2884B258-82CC-4C86-8852-5A6FA999E318",
@@ -14714,7 +15218,8 @@
       "name": "garth",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "D76C1959-106D-423F-955D-12E86E38FF47",
@@ -14735,7 +15240,8 @@
       "name": "garth",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "7F7FE1B6-6769-4605-AE4F-9E36909743FD",
@@ -14766,7 +15272,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b2f03703-1c2e-445c-88b1-bb094455591f",
@@ -14820,7 +15327,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "5868EB5A-E46F-4B9D-9712-BBC67D23DF87",
@@ -14841,7 +15349,8 @@
       "name": "steve447",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "671B4799-04A5-49FD-8EF2-E45B93BE44D0",
@@ -14862,7 +15371,8 @@
       "name": "garth",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "71C834E7-98E3-457F-A3EA-9021850FDD3E",
@@ -14883,7 +15393,8 @@
       "name": "garth",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8EC2C458-0B80-4D68-B890-FB5D6CDF24F0",
@@ -14938,7 +15449,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "23EF6BD9-42DE-46F8-9FC6-5680BBADBC2C",
@@ -14972,7 +15484,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "c65bbdf4-5abe-4aad-929c-b889f4154074",
@@ -15006,7 +15519,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "F251D5B5-9A67-44D5-BBAC-65020AD43764",
@@ -15029,7 +15543,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1573696725.072800",
-    "parent_user_id": "UEQ6M68H0"
+    "parent_user_id": "UEQ6M68H0",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "6a39c0dd-70a1-4bf2-b5f0-2667ebd76e40",
@@ -15061,7 +15576,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "59338CCB-1900-4696-9E27-C0F068205763",
@@ -15084,7 +15600,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1573703587.087300",
-    "parent_user_id": "UEBG0NPDK"
+    "parent_user_id": "UEBG0NPDK",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "08d690d2-0a82-40be-925c-015d515e1672",
@@ -15184,7 +15701,8 @@
         "ts": "1574226325.144700"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "897a4fea-858f-4cf5-83e5-809411710765",
@@ -15205,7 +15723,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "e7a3fa0e-a91c-4b37-a4b8-dfa6ccc9b02b",
@@ -15230,7 +15749,8 @@
     "edited": {
       "user": "UE6EFEPTQ",
       "ts": "1573949125.000000"
-    }
+    },
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "A4DA142B-784F-4934-AD08-7ABBE4DEDE81",
@@ -15253,7 +15773,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1573942666.111300",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2E941233-6941-4513-90A8-27243962DD04",
@@ -15276,7 +15797,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1573942666.111300",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8183b0cc-b6a4-4f77-a898-b84c72d6271d",
@@ -15299,7 +15821,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1573942666.111300",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "EE4B7B68-CA93-4388-AFDC-CB0AFC02E20E",
@@ -15322,7 +15845,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1573942666.111300",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "c3a27b13-974c-410e-8849-0de40a41f647",
@@ -15345,7 +15869,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1573942666.111300",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "0001DF27-EA11-48D8-8F33-6DE34563A62C",
@@ -15368,7 +15893,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1573942666.111300",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "57766804-66b9-473f-8c69-50fb9f0ae42b",
@@ -15391,7 +15917,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1573942666.111300",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "bac056a4-d071-4d63-bad0-c005744ed2da",
@@ -15414,7 +15941,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1573942666.111300",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "35C7F5F5-7DFC-41D9-80E3-80C5E2B1AD6A",
@@ -15437,7 +15965,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1573942666.111300",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3e219b82-350a-4e79-80e8-24069b357b1f",
@@ -15460,7 +15989,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1573942666.111300",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "0f8074db-3fe2-4ca7-b7bd-0192e881b816",
@@ -15499,7 +16029,8 @@
         ],
         "count": 6
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3EC9BB76-C880-4D8F-88E9-BB3FD356B80A",
@@ -15531,7 +16062,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "DF518075-B773-47D6-82A4-32FD0E646E6F",
@@ -15563,7 +16095,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "F1059016-D304-40B2-9140-6023C641563B",
@@ -15586,7 +16119,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1573942666.111300",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2EC00A45-EFC5-4845-B871-E8634D584697",
@@ -15609,7 +16143,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1573942666.111300",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "cd420bb0-9be3-405e-bdf3-0fc125a3c242",
@@ -15647,7 +16182,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "9372bd3c-ffc2-44f5-83e0-29da3f207a3b",
@@ -15706,7 +16242,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3f141cc2-9f63-4c0e-a436-453dcbfa0879",
@@ -15750,7 +16287,8 @@
       }
     ],
     "thread_ts": "1568037884.000800",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "fc1ac1e2-705b-4118-9131-b9d2c0b34670",
@@ -15790,7 +16328,8 @@
       }
     ],
     "thread_ts": "1570469769.009800",
-    "parent_user_id": "UG0EL18H3"
+    "parent_user_id": "UG0EL18H3",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "bba80037-d680-4b68-b006-269d676331ab",
@@ -15821,7 +16360,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "be5f6ff4-93b6-43de-a4e8-47789a64cb70",
@@ -15867,7 +16407,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "A67E1687-9520-4844-9D69-D2BB3FF4CA99",
@@ -15911,7 +16452,8 @@
       }
     ],
     "thread_ts": "1571468673.034400",
-    "parent_user_id": "UJKKBAMLL"
+    "parent_user_id": "UJKKBAMLL",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "bc2cbe72-417d-473b-8dae-e1fc14ec6c7d",
@@ -15972,7 +16514,8 @@
       }
     ],
     "thread_ts": "1571468673.034400",
-    "parent_user_id": "UJKKBAMLL"
+    "parent_user_id": "UJKKBAMLL",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "adeed7b4-672c-40c5-8887-25a95fc9802a",
@@ -16020,7 +16563,8 @@
       }
     ],
     "thread_ts": "1571468673.034400",
-    "parent_user_id": "UJKKBAMLL"
+    "parent_user_id": "UJKKBAMLL",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "c7777b6a-c815-41ac-8fa7-ed55a55eaf9e",
@@ -16064,7 +16608,8 @@
       }
     ],
     "thread_ts": "1571468673.034400",
-    "parent_user_id": "UJKKBAMLL"
+    "parent_user_id": "UJKKBAMLL",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "524b01ad-35b2-48a6-9e9b-6503724e7f26",
@@ -16112,7 +16657,8 @@
       }
     ],
     "thread_ts": "1571468673.034400",
-    "parent_user_id": "UJKKBAMLL"
+    "parent_user_id": "UJKKBAMLL",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2d37504e-811c-4729-b54e-e66a99a53bba",
@@ -16152,7 +16698,8 @@
       }
     ],
     "thread_ts": "1571468673.034400",
-    "parent_user_id": "UJKKBAMLL"
+    "parent_user_id": "UJKKBAMLL",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "dffb79c1-bce9-47e2-a8d0-f2c2b7192894",
@@ -16196,7 +16743,8 @@
       }
     ],
     "thread_ts": "1571468673.034400",
-    "parent_user_id": "UJKKBAMLL"
+    "parent_user_id": "UJKKBAMLL",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f29179f5-da00-4ad4-a419-ee66d95ffd78",
@@ -16240,7 +16788,8 @@
       }
     ],
     "thread_ts": "1571468673.034400",
-    "parent_user_id": "UJKKBAMLL"
+    "parent_user_id": "UJKKBAMLL",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "747f6f31-aad7-418d-9bbc-e1d87c68ce21",
@@ -16291,7 +16840,8 @@
       }
     ],
     "thread_ts": "1571468673.034400",
-    "parent_user_id": "UJKKBAMLL"
+    "parent_user_id": "UJKKBAMLL",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "87251b31-1c83-4e28-9187-b1c548e3c501",
@@ -16344,7 +16894,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3ee4446f-32dd-476f-938e-d3e99dbcabff",
@@ -16414,7 +16965,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "53e4a856-c0a9-4e72-9c9c-f90df97ded60",
@@ -16537,7 +17089,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "A0DE77A7-3EED-4D17-BA3E-E448BBCF2108",
@@ -16577,7 +17130,8 @@
       }
     ],
     "thread_ts": "1578507356.001500",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "dfac3c95-ce6f-471b-b456-5bf3caacfbcd",
@@ -16638,7 +17192,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "d66f11db-90e5-4aea-a4c2-cd1fa1f0d479",
@@ -16687,7 +17242,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f0e646a9-4958-4a67-b883-96c550c1487a",
@@ -16744,7 +17300,8 @@
         "ts": "1579120068.015100"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3a9dfc98-8911-4479-b3aa-411f8ed00790",
@@ -16798,7 +17355,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8f57311c-26d6-4c7d-afd0-35e61eec3f4b",
@@ -16857,7 +17415,8 @@
       }
     ],
     "thread_ts": "1579111887.002300",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "E7DBC3A7-FD66-4EA5-92D4-E62699E8EAA1",
@@ -17000,7 +17559,8 @@
         ],
         "count": 8
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "59c66e3a-2b88-4428-8cb8-1794bb53800e",
@@ -17040,7 +17600,8 @@
       }
     ],
     "thread_ts": "1579116473.013100",
-    "parent_user_id": "ULM3U6275"
+    "parent_user_id": "ULM3U6275",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "91261c96-01f3-4b09-9d2f-eb3871a72eaa",
@@ -17080,7 +17641,8 @@
       }
     ],
     "thread_ts": "1579116473.013100",
-    "parent_user_id": "ULM3U6275"
+    "parent_user_id": "ULM3U6275",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "222717CB-D849-418B-8F3C-B28BA38D97A8",
@@ -17120,7 +17682,8 @@
       }
     ],
     "thread_ts": "1579116473.013100",
-    "parent_user_id": "ULM3U6275"
+    "parent_user_id": "ULM3U6275",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3b181b8c-0a93-4000-996a-05ceef4fad36",
@@ -17160,7 +17723,8 @@
       }
     ],
     "thread_ts": "1579111887.002300",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "B334BFB3-9F9F-4765-9718-F18111B54037",
@@ -17209,7 +17773,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "30564F39-292D-4826-BB90-B6C84F7D7CCE",
@@ -17249,7 +17814,8 @@
       }
     ],
     "thread_ts": "1579116473.013100",
-    "parent_user_id": "ULM3U6275"
+    "parent_user_id": "ULM3U6275",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "4A8231E1-890D-408A-923B-42A970622A2B",
@@ -17304,7 +17870,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "c7c9d484-90b3-4e93-9c61-649899bc42cc",
@@ -17353,7 +17920,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "27DB6501-F897-4821-BB3D-C6EF0554C98F",
@@ -17405,7 +17973,8 @@
       }
     ],
     "thread_ts": "1579116473.013100",
-    "parent_user_id": "ULM3U6275"
+    "parent_user_id": "ULM3U6275",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1a889de5-6b65-4dc5-bfd9-e96cb71b354b",
@@ -17449,7 +18018,8 @@
       }
     ],
     "thread_ts": "1579116473.013100",
-    "parent_user_id": "ULM3U6275"
+    "parent_user_id": "ULM3U6275",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "5EDC7060-5675-404C-A669-77826D7278B8",
@@ -17489,7 +18059,8 @@
       }
     ],
     "thread_ts": "1579116473.013100",
-    "parent_user_id": "ULM3U6275"
+    "parent_user_id": "ULM3U6275",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "D4F5A2C3-026C-41CD-AE4A-D02593EFAE84",
@@ -17533,7 +18104,8 @@
       }
     ],
     "thread_ts": "1579116473.013100",
-    "parent_user_id": "ULM3U6275"
+    "parent_user_id": "ULM3U6275",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3D448905-712B-4648-AA12-35442B837F21",
@@ -17573,7 +18145,8 @@
       }
     ],
     "thread_ts": "1579116473.013100",
-    "parent_user_id": "ULM3U6275"
+    "parent_user_id": "ULM3U6275",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "e6af653f-215d-419d-bb16-d76a1e682b95",
@@ -17652,7 +18225,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "87A2CE6F-D5A2-4336-BAB4-78135C524E59",
@@ -17696,7 +18270,8 @@
       }
     ],
     "thread_ts": "1579116473.013100",
-    "parent_user_id": "ULM3U6275"
+    "parent_user_id": "ULM3U6275",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "6ec99d03-17e8-4274-89ca-724a05fd6a22",
@@ -17745,7 +18320,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -17821,7 +18397,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "82e79997-86e4-4619-a321-f0ba3998bb15",
@@ -17879,7 +18456,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "8149d10c-7aa5-4e6f-906a-28b13c039082",
@@ -17919,7 +18497,8 @@
       }
     ],
     "thread_ts": "1579116473.013100",
-    "parent_user_id": "ULM3U6275"
+    "parent_user_id": "ULM3U6275",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -17937,7 +18516,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "96e70e02-9ef9-498a-9f3a-f1583f045353",
@@ -17979,7 +18559,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "c8f94c0e-6574-4381-8ef3-47caea6a7427",
@@ -18021,7 +18602,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "cba7efe1-78eb-46eb-bef2-a5dd85cff248",
@@ -18099,7 +18681,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "44c9ff2f-9e00-47d0-9ed1-cc37f1cde77b",
@@ -18141,7 +18724,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "C3262EDA-8EDB-4870-81FF-0993F3EF5303",
@@ -18181,7 +18765,8 @@
       }
     ],
     "thread_ts": "1579409023.003100",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "4db25f59-3cfe-440e-8673-cff27048ea65",
@@ -18229,7 +18814,8 @@
       }
     ],
     "thread_ts": "1579409023.003100",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3eb80f85-4681-492b-903b-2fd3bf9b6b7a",
@@ -18277,7 +18863,8 @@
       }
     ],
     "thread_ts": "1579409023.003100",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "4392c009-6fe3-4647-903b-e093ab517381",
@@ -18368,7 +18955,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "98356009-d043-472a-b2a8-2bfc1b2b3041",
@@ -18500,7 +19088,8 @@
       }
     ],
     "thread_ts": "1580086606.006200",
-    "parent_user_id": "UJM9NG84Q"
+    "parent_user_id": "UJM9NG84Q",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a673b0cb-8ed8-4ac0-9046-784bd5376418",
@@ -18536,7 +19125,8 @@
       }
     ],
     "thread_ts": "1580086606.006200",
-    "parent_user_id": "UJM9NG84Q"
+    "parent_user_id": "UJM9NG84Q",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f3963620-5bba-4024-93fd-5310fd52fdcb",
@@ -18597,7 +19187,8 @@
       }
     ],
     "thread_ts": "1580086606.006200",
-    "parent_user_id": "UJM9NG84Q"
+    "parent_user_id": "UJM9NG84Q",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "981f59b5-a3c3-4af7-8b11-b991ea095791",
@@ -18646,7 +19237,8 @@
       }
     ],
     "thread_ts": "1580086606.006200",
-    "parent_user_id": "UJM9NG84Q"
+    "parent_user_id": "UJM9NG84Q",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "efd180b5-5ddc-4142-aeef-2c32c3d0dca6",
@@ -18686,7 +19278,8 @@
       }
     ],
     "thread_ts": "1580086606.006200",
-    "parent_user_id": "UJM9NG84Q"
+    "parent_user_id": "UJM9NG84Q",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "68043a30-f998-4679-af20-7443c8753636",
@@ -18757,7 +19350,8 @@
         "ts": "1580312573.011800"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "35AFB255-B56A-4898-BA4A-CD15EE5ACCAD",
@@ -18801,7 +19395,8 @@
       }
     ],
     "thread_ts": "1580173382.009400",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "42870b5a-5f7d-4b6e-888c-09c0d5dd55f2",
@@ -18841,7 +19436,8 @@
       }
     ],
     "thread_ts": "1580173382.009400",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "64fae96f-ded5-46e5-a2f5-d4cabfced40d",
@@ -18881,7 +19477,8 @@
       }
     ],
     "thread_ts": "1580173382.009400",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ebc05319-e0b6-4982-b74a-182a9389f51f",
@@ -18921,7 +19518,8 @@
       }
     ],
     "thread_ts": "1580173382.009400",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "26579b53-892a-45e3-931d-519a173f62f2",
@@ -18987,7 +19585,8 @@
         "ts": "1588969755.005400"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "606a0877-e7ed-4933-a9f2-c0d082d28f10",
@@ -19027,7 +19626,8 @@
       }
     ],
     "thread_ts": "1580421958.019000",
-    "parent_user_id": "UT60XSVCN"
+    "parent_user_id": "UT60XSVCN",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "EB85B734-A7FA-4C6F-A082-AC1534493A20",
@@ -19067,7 +19667,8 @@
       }
     ],
     "thread_ts": "1580086606.006200",
-    "parent_user_id": "UJM9NG84Q"
+    "parent_user_id": "UJM9NG84Q",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f2183338-7884-4833-a9a2-c77758e1cf6e",
@@ -19107,7 +19708,8 @@
       }
     ],
     "thread_ts": "1580086606.006200",
-    "parent_user_id": "UJM9NG84Q"
+    "parent_user_id": "UJM9NG84Q",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1aab0783-eb0a-4412-b26b-dbf372465bba",
@@ -19189,7 +19791,8 @@
         ],
         "count": 5
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "692a20f4-1c4b-407f-b2e5-e7fda41d1949",
@@ -19290,7 +19893,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3fb0480e-a0c0-4eae-b005-ab3f5cbe4fa9",
@@ -19346,7 +19950,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "2914564a-a164-405e-9917-caef2ff48d22",
@@ -19386,7 +19991,8 @@
       }
     ],
     "thread_ts": "1581783530.026500",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "56a869be-4403-4c49-860d-96135c255205",
@@ -19430,7 +20036,8 @@
       }
     ],
     "thread_ts": "1581783530.026500",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b95da5a8-9a55-403d-b864-95f40de758f5",
@@ -19470,7 +20077,8 @@
       }
     ],
     "thread_ts": "1581783530.026500",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "bd1f3b7f-baa0-46db-9f84-a424a6953b02",
@@ -19527,7 +20135,8 @@
       }
     ],
     "thread_ts": "1581750492.026200",
-    "parent_user_id": "UH85W1ML1"
+    "parent_user_id": "UH85W1ML1",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "de933480-f1af-488c-9d52-4cbb065e892b",
@@ -19689,7 +20298,8 @@
         "ts": "1584267682.016700"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "4cf9a3ee-ff8b-468e-a22e-a548644329fe",
@@ -19739,7 +20349,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "69c0956c-81ba-4b6a-9f09-481df394c1aa",
@@ -19779,7 +20390,8 @@
       }
     ],
     "thread_ts": "1583291579.002300",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b0eb4045-6e18-476a-9e7d-908a1d2e8b5c",
@@ -19831,7 +20443,8 @@
       }
     ],
     "thread_ts": "1583291579.002300",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "78ff3384-af87-4064-96f1-50ea03fc8991",
@@ -19871,7 +20484,8 @@
       }
     ],
     "thread_ts": "1583291579.002300",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "23720dc2-d547-44a3-b4d1-9c39c5137dd7",
@@ -19915,7 +20529,8 @@
       }
     ],
     "thread_ts": "1583291579.002300",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "9d2b4c86-a3aa-4774-9f2d-2e2ced308001",
@@ -19959,7 +20574,8 @@
       }
     ],
     "thread_ts": "1580421958.019000",
-    "parent_user_id": "UT60XSVCN"
+    "parent_user_id": "UT60XSVCN",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "4155d0f9-f76b-4343-bba9-eb3ecd02da87",
@@ -19999,7 +20615,8 @@
       }
     ],
     "thread_ts": "1583291579.002300",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "65a1106b-f2a5-4ddd-a19b-06be736d6c88",
@@ -20039,7 +20656,8 @@
       }
     ],
     "thread_ts": "1583291579.002300",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "5fe48b4c-9274-4842-9313-ad1cd8fd80c7",
@@ -20100,7 +20718,8 @@
       }
     ],
     "thread_ts": "1583291579.002300",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "838625ac-d8f7-4391-b6d1-e6085bd9fc3f",
@@ -20149,7 +20768,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "cdd7e0e4-01a7-455e-a6ee-0dfa0dffe8d7",
@@ -20204,7 +20824,8 @@
       }
     ],
     "thread_ts": "1583291579.002300",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "09c4dce1-4c4e-45ce-92c4-d9e6006effbd",
@@ -20248,7 +20869,8 @@
       }
     ],
     "thread_ts": "1583291579.002300",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1585a250-d830-4336-92c5-890d8cb7a1c9",
@@ -20288,7 +20910,8 @@
       }
     ],
     "thread_ts": "1583291579.002300",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "a502c20b-bb35-4f2d-9ef6-294bbf53000a",
@@ -20332,7 +20955,8 @@
       }
     ],
     "thread_ts": "1583291579.002300",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -20401,7 +21025,8 @@
         ]
       }
     ],
-    "client_msg_id": "C2356695-88FF-4E77-9490-6AF7E5D6E49C"
+    "client_msg_id": "C2356695-88FF-4E77-9490-6AF7E5D6E49C",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "fbf328a2-5321-4061-93f1-532cc2ef5fe3",
@@ -20441,7 +21066,8 @@
       }
     ],
     "thread_ts": "1583291579.002300",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1d8267ab-ac4c-4181-9c32-1b0cc425a228",
@@ -20511,7 +21137,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "c76a52e6-d3e1-4047-8e33-9dcef14d2362",
@@ -20555,7 +21182,8 @@
       }
     ],
     "thread_ts": "1583291579.002300",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "c2f0a5de-15fe-40ee-a1a2-a333d5581171",
@@ -20604,7 +21232,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "type": "message",
@@ -20626,7 +21255,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1583291579.002300",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "023feb16-2ad2-4d27-80c9-972eeca66385",
@@ -20670,7 +21300,8 @@
       }
     ],
     "thread_ts": "1583291579.002300",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "1789935B-2098-4417-8C1E-0ADB9409B1B6",
@@ -20710,7 +21341,8 @@
       }
     ],
     "thread_ts": "1583291579.002300",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ec7af284-df3c-4024-a7ad-dd851105a697",
@@ -20758,7 +21390,8 @@
       }
     ],
     "thread_ts": "1583291579.002300",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "0e39145d-62c5-4c94-9f22-dea83bbe064e",
@@ -20798,7 +21431,8 @@
       }
     ],
     "thread_ts": "1583291579.002300",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "11559080-011f-42e5-af38-0da73a6e2ea8",
@@ -20846,7 +21480,8 @@
       }
     ],
     "thread_ts": "1583291579.002300",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "94496d04-31e7-4285-901d-0a9dcf960b0d",
@@ -20897,7 +21532,8 @@
         ],
         "count": 5
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "589887BF-3F70-4544-AF98-ECD7A5149B1A",
@@ -20920,7 +21556,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1583291579.002300",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "71107EA4-B37A-4A9E-88E6-BB81CCD141ED",
@@ -20943,7 +21580,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1583291579.002300",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "095cf6d9-3c79-4b33-abcb-c71763457dd8",
@@ -20987,7 +21625,8 @@
       }
     ],
     "thread_ts": "1580421958.019000",
-    "parent_user_id": "UT60XSVCN"
+    "parent_user_id": "UT60XSVCN",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "cef9e96f-e9ca-43be-a547-37cc618656d5",
@@ -21182,7 +21821,8 @@
         ],
         "count": 5
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ff30cb40-496c-4676-a90e-a6a61e788988",
@@ -21232,7 +21872,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "dd8b0ad2-f1cd-42c1-b6c7-16c978b3daec",
@@ -21281,7 +21922,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "ac1c5ded-3c5b-4e89-aa44-c66b42d62d3f",
@@ -21359,7 +22001,8 @@
       }
     ],
     "thread_ts": "1591504281.010200",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "d2c6178e-65fb-498f-b612-12faac824990",
@@ -21403,7 +22046,8 @@
       }
     ],
     "thread_ts": "1591504281.010200",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "7ebb27c2-1330-42fd-a190-8a66e1141e47",
@@ -21443,7 +22087,8 @@
       }
     ],
     "thread_ts": "1591504281.010200",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "3da87ef5-e8e6-4423-bcab-94137a438c93",
@@ -21483,7 +22128,8 @@
       }
     ],
     "thread_ts": "1591504281.010200",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "f1a36de5-708a-4b6e-a866-0e83263421bc",
@@ -21523,7 +22169,8 @@
       }
     ],
     "thread_ts": "1591504281.010200",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "64dcb765-6b8c-4e1d-9e63-320c5b93b6c7",
@@ -21563,7 +22210,8 @@
       }
     ],
     "thread_ts": "1591504281.010200",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "42f82a44-619a-40b7-aa8e-7979a95f9458",
@@ -21607,7 +22255,8 @@
       }
     ],
     "thread_ts": "1591504281.010200",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "c30d8f1d-f344-404d-9f59-6c20f44189b4",
@@ -21647,7 +22296,8 @@
       }
     ],
     "thread_ts": "1591504281.010200",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "b49cfd88-2fe2-4ece-9907-489bc7986c75",
@@ -21698,7 +22348,8 @@
       }
     ],
     "thread_ts": "1591504281.010200",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "aeaede99-8bc5-4c69-b2ab-aed76efce455",
@@ -21758,7 +22409,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "81ccf7da-e2a8-4fb0-8900-ee71c56167f8",
@@ -21802,7 +22454,8 @@
       }
     ],
     "thread_ts": "1591504281.010200",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "dec86f4f-070d-48cc-a16d-b9118054c5f7",
@@ -21846,7 +22499,8 @@
       }
     ],
     "thread_ts": "1591504281.010200",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   },
   {
     "client_msg_id": "9fe7e5ac-de8b-40eb-97f1-97c16e1ceb65",
@@ -21894,6 +22548,7 @@
       }
     ],
     "thread_ts": "1591504281.010200",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "end-user-programming"
   }
 ]

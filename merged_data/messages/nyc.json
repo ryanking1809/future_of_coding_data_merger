@@ -4,7 +4,8 @@
     "subtype": "channel_join",
     "ts": "1529529416.000513",
     "user": "U5TCAFTD3",
-    "text": "<@U5TCAFTD3> has joined the channel"
+    "text": "<@U5TCAFTD3> has joined the channel",
+    "channel": "nyc"
   },
   {
     "type": "message",
@@ -12,7 +13,8 @@
     "ts": "1529529417.000128",
     "user": "U6FBH9H26",
     "text": "<@U6FBH9H26> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "nyc"
   },
   {
     "type": "message",
@@ -20,7 +22,8 @@
     "ts": "1529529417.000174",
     "user": "U5T9JLUAE",
     "text": "<@U5T9JLUAE> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "nyc"
   },
   {
     "type": "message",
@@ -28,7 +31,8 @@
     "ts": "1529529417.000212",
     "user": "UB57GEDGC",
     "text": "<@UB57GEDGC> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "nyc"
   },
   {
     "type": "message",
@@ -36,7 +40,8 @@
     "ts": "1529529417.000266",
     "user": "U6S1R1M6K",
     "text": "<@U6S1R1M6K> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "nyc"
   },
   {
     "type": "message",
@@ -44,7 +49,8 @@
     "ts": "1529529417.000299",
     "user": "U5ZBLAKN1",
     "text": "<@U5ZBLAKN1> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "nyc"
   },
   {
     "type": "message",
@@ -52,7 +58,8 @@
     "ts": "1529529417.000341",
     "user": "U5U4S45HC",
     "text": "<@U5U4S45HC> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "nyc"
   },
   {
     "type": "message",
@@ -60,7 +67,8 @@
     "ts": "1529529535.000161",
     "user": "U5YTP98TT",
     "text": "<@U5YTP98TT> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "nyc"
   },
   {
     "type": "message",
@@ -68,7 +76,8 @@
     "ts": "1529529557.000472",
     "user": "U6R16B5NY",
     "text": "<@U6R16B5NY> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "nyc"
   },
   {
     "type": "message",
@@ -76,7 +85,8 @@
     "ts": "1529529689.000247",
     "user": "U7PH857FB",
     "text": "<@U7PH857FB> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "nyc"
   },
   {
     "type": "message",
@@ -84,7 +94,8 @@
     "ts": "1529529689.000287",
     "user": "U89NPJGEA",
     "text": "<@U89NPJGEA> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "nyc"
   },
   {
     "type": "message",
@@ -92,7 +103,8 @@
     "ts": "1529529689.000323",
     "user": "UASNE4JBG",
     "text": "<@UASNE4JBG> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "nyc"
   },
   {
     "type": "message",
@@ -100,14 +112,16 @@
     "ts": "1529529689.000359",
     "user": "U7LSWT76G",
     "text": "<@U7LSWT76G> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "nyc"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1529529773.000408",
     "user": "U9ULPG0UA",
-    "text": "<@U9ULPG0UA> has joined the channel"
+    "text": "<@U9ULPG0UA> has joined the channel",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "95cd4886-1d9c-49ac-be5c-e2371600437f",
@@ -144,7 +158,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "be00068a-e10b-464c-9918-99a697910481",
@@ -165,7 +180,8 @@
       "name": "caleb.helbling",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "d2227fa2-4de0-45be-a6db-713ac6c4e5ef",
@@ -186,7 +202,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "f90714e4-fa09-4f78-af4d-18f100bdd072",
@@ -207,7 +224,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "f4c2f573-c94a-4eb4-b224-8d7063ad6b00",
@@ -228,7 +246,8 @@
       "name": "caleb.helbling",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "618e7055-3f85-45ed-9a32-f8079a09cfba",
@@ -249,7 +268,8 @@
       "name": "caleb.helbling",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "9a371889-1a0b-490f-b480-e013572a6923",
@@ -270,14 +290,16 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1529530917.000370",
     "user": "UAVBSJGG5",
-    "text": "<@UAVBSJGG5> has joined the channel"
+    "text": "<@UAVBSJGG5> has joined the channel",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "2c5db31f-cfe9-4254-bfb7-534770be626b",
@@ -298,14 +320,16 @@
       "name": "nicolaerusan",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1529680571.000138",
     "user": "U9F8M41AM",
-    "text": "<@U9F8M41AM> has joined the channel"
+    "text": "<@U9F8M41AM> has joined the channel",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "77c61fb4-de24-493e-bbe7-9ce17ddd1f40",
@@ -326,7 +350,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "12f529b4-a87b-4268-aa34-cfb57af9a13f",
@@ -356,7 +381,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "b67c8535-ef6e-4b61-927f-3f5fe88d7e3d",
@@ -403,7 +429,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "46d84de1-3150-4d93-a402-bf807395fe39",
@@ -426,7 +453,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1529857657.000066",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "0ff44276-faf3-4251-9060-f4041fca860b",
@@ -447,7 +475,8 @@
       "name": "caleb.helbling",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "c7578ce0-28f9-40f4-9237-4f322a03cdaa",
@@ -468,21 +497,24 @@
       "name": "caleb.helbling",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1530281329.000291",
     "user": "UAV037WKC",
-    "text": "<@UAV037WKC> has joined the channel"
+    "text": "<@UAV037WKC> has joined the channel",
+    "channel": "nyc"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1531255916.000147",
     "user": "UBN1G4C1J",
-    "text": "<@UBN1G4C1J> has joined the channel"
+    "text": "<@UBN1G4C1J> has joined the channel",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "7d4b91c8-8876-4ad3-8e4c-a00c5d138937",
@@ -503,7 +535,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "31614f0b-61cb-49a2-8f68-d8a45a6db2fa",
@@ -524,7 +557,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "126643ac-34fb-4625-a4de-e915496f4871",
@@ -545,7 +579,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "63ce2d82-af8d-4b1a-a19c-089d65c3b8a1",
@@ -575,7 +610,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "type": "message",
@@ -583,7 +619,8 @@
     "ts": "1531862819.000324",
     "user": "U7TJ8PRDW",
     "text": "<@U7TJ8PRDW> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "81A13D14-734C-4EBD-A220-5BC73D337ACC",
@@ -604,7 +641,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "E27E2AF1-E3DC-43EA-999F-B6FADDDF81CF",
@@ -634,7 +672,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "52e84cae-583b-4efb-b7a2-004a87c2e2f1",
@@ -664,14 +703,16 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1532099346.000414",
     "user": "U85HCL7JP",
-    "text": "<@U85HCL7JP> has joined the channel"
+    "text": "<@U85HCL7JP> has joined the channel",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "3dca1417-ab58-4f4c-9ed2-d5d529b1f619",
@@ -692,7 +733,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "b12079db-4f1c-45e6-9a79-d23cd562ed6a",
@@ -723,7 +765,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "15d51d8e-e1fc-4bb4-8bb5-774f980a9f4f",
@@ -753,7 +796,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "bb54842e-fe88-4c84-81bb-bc92b6addb17",
@@ -774,7 +818,8 @@
       "name": "daniel.garcia.carmona",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "57bb8117-8bf4-4bff-bce5-8df8d4faf88f",
@@ -795,7 +840,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "2D039538-18FF-4453-82E8-9326EC776F60",
@@ -816,7 +862,8 @@
       "name": "tehgeekmeister",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "72fd7e6f-1d99-4235-b044-09ae02175c77",
@@ -837,7 +884,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "a3a7e1a8-9be6-451f-bf02-cb517bd6bbea",
@@ -858,7 +906,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "9E8931F1-D02A-4F86-AEB9-37847BB91A45",
@@ -879,7 +928,8 @@
       "name": "tehgeekmeister",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "565f9644-01b2-4902-9552-922bfc26aa12",
@@ -900,7 +950,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "eeb6003b-afad-491b-b783-38479cf2d40f",
@@ -921,7 +972,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "E6AA7460-A8B1-48EA-96AA-411153E71E1C",
@@ -942,7 +994,8 @@
       "name": "tehgeekmeister",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "F8A7E3FB-3FED-4BD9-9A34-45F1851733E6",
@@ -972,7 +1025,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "5D824994-7CED-4134-BF2E-B610BEF9C679",
@@ -993,7 +1047,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "AB57F727-F3BC-4976-BA36-43E73820BF53",
@@ -1023,7 +1078,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "e29af3c5-4c53-4382-bb2c-20fadb16e957",
@@ -1067,7 +1123,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "4e3609db-7b3e-4caf-ac43-40c046ba17c2",
@@ -1088,7 +1145,8 @@
       "name": "josephmco",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "type": "message",
@@ -1096,7 +1154,8 @@
     "ts": "1535983036.000200",
     "user": "UCGR73CAY",
     "text": "<@UCGR73CAY> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "092A80F8-8A6A-44F6-900C-A3CF3D179C9A",
@@ -1149,7 +1208,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "7D6B4AA3-FA56-43B7-89B4-6C036063D8FF",
@@ -1170,7 +1230,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "cbaebbba-8c1e-4c3c-9710-28a9e92b0f38",
@@ -1191,7 +1252,8 @@
       "name": "nicolaerusan",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "9e05939b-fa24-409d-bb62-08739ef3870c",
@@ -1212,7 +1274,8 @@
       "name": "nicolaerusan",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "D556DA1E-493A-4226-ADFD-EF3ECF8DD35F",
@@ -1233,7 +1296,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "90a0a991-0df4-4195-b518-cf961e4afd3d",
@@ -1254,7 +1318,8 @@
       "name": "cmontella",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "3e688d64-58e5-42b8-a0ac-3f6850749db5",
@@ -1275,7 +1340,8 @@
       "name": "public",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "a5018008-b08c-4fef-a749-e7c5cac332ba",
@@ -1296,7 +1362,8 @@
       "name": "emmanuel",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "BB5D6085-D2B4-41F6-8C58-39DF746AC770",
@@ -1326,7 +1393,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "4e6684b5-050f-466a-8d7a-16cf8151c3de",
@@ -1364,7 +1432,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "719899e7-8446-4203-8453-8eec2b7059bd",
@@ -1398,7 +1467,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "30ff5c35-f10c-4076-881b-99ca8fef7514",
@@ -1428,7 +1498,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "44764e55-c2d0-455b-9519-3907e78d43db",
@@ -1458,7 +1529,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "e6fbc872-69fe-4fc3-8dda-baaa8251dbda",
@@ -1488,7 +1560,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "15ba4ea6-a6be-4c6e-80cf-7e5c9b24fed5",
@@ -1518,7 +1591,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "53503DDE-5925-45DF-9B05-88F2BECF334C",
@@ -1549,7 +1623,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "e0773cf4-c124-4205-a203-271a66409532",
@@ -1570,7 +1645,8 @@
       "name": "cmontella",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "17c1e76e-03a8-460e-ba4b-36c2665479eb",
@@ -1591,7 +1667,8 @@
       "name": "cmontella",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "9376937b-1360-4eae-92e5-9050940d2f67",
@@ -1612,7 +1689,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "888cb4f0-e45e-4a7f-879a-7f82678b11b4",
@@ -1633,7 +1711,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "eb8a01b8-13e2-4c23-8903-1f0743ce0d15",
@@ -1654,7 +1733,8 @@
       "name": "cmontella",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "type": "message",
@@ -1674,7 +1754,8 @@
       "name": "cmontella",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "type": "message",
@@ -1694,7 +1775,8 @@
       "name": "cmontella",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "type": "message",
@@ -1728,7 +1810,8 @@
         "ts": "1537220276.000100"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "nyc"
   },
   {
     "client_msg_id": "32B305CD-0D8E-40B4-8227-9E6F1BD78A77",
@@ -1749,7 +1832,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "C736D6CC-D4B4-4B4A-9BB4-77DEEAC0964D",
@@ -1770,7 +1854,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "047b9df7-f873-42d2-9c80-02a7439f6862",
@@ -1791,7 +1876,8 @@
       "name": "joshuah",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "7E5DCBF8-AB03-4EE1-A11B-D161AFA371D8",
@@ -1812,7 +1898,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "05A9E785-C861-44DB-832C-9E8BBCAFC334",
@@ -1833,7 +1920,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "83b3ad74-aba3-431e-9d2d-7225201a5534",
@@ -1854,7 +1942,8 @@
       "name": "me1",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "732FE64B-0BC6-4F34-8088-61D1C3CD0DA3",
@@ -1875,7 +1964,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "7892AA46-DBB3-428E-AD75-A5049E152B1C",
@@ -1896,7 +1986,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "212AC05C-F126-434F-8EF9-057D6354427A",
@@ -1917,7 +2008,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "392a861d-3e11-484c-a819-b30bb703d64b",
@@ -1938,7 +2030,8 @@
       "name": "me1",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "37bdbf2e-2391-4b79-8647-de3aa817ef8c",
@@ -1959,7 +2052,8 @@
       "name": "theildar",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "type": "message",
@@ -1979,7 +2073,8 @@
       "name": "cmontella",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "7C1285EA-70F1-4FDB-AACA-12DAD5B37416",
@@ -2000,7 +2095,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "b320b359-dd12-428b-82cb-609c0eedac90",
@@ -2023,7 +2119,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1537213604.000100",
-    "parent_user_id": "UCGR73CAY"
+    "parent_user_id": "UCGR73CAY",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "d30fd323-175a-4caa-895c-3b5590be67f4",
@@ -2044,7 +2141,8 @@
       "name": "joshuah",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "ff1591ff-4095-40bb-8c61-f292ebd68de8",
@@ -2078,7 +2176,8 @@
         "id": 1,
         "original_url": "http://incidentalcomplexity.com/2016/06/03/oct-nov/"
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "6aa3f6f1-38ee-4d36-a5e1-edbb025565ac",
@@ -2115,7 +2214,8 @@
         "id": 1,
         "original_url": "https://gitlab.com/cmontella/hivemind"
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "f5d30d3f-9632-4475-a311-307b7620def4",
@@ -2145,7 +2245,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "bc6cf574-d4bf-4a31-b09f-e81406dae676",
@@ -2166,7 +2267,8 @@
       "name": "me1",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "2421be15-1bbc-4323-8f29-6d3ef0595fa2",
@@ -2187,7 +2289,8 @@
       "name": "nick",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "04619e8f-5c28-497b-85f1-28ad3288e2d5",
@@ -2229,7 +2332,8 @@
         "id": 1,
         "original_url": "https://www.youtube.com/watch?v=r_LPqaxXvaA"
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "1988c0b6-5a05-4ab0-82ef-70ff1e01050d",
@@ -2266,7 +2370,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "77781209-2b51-4a4d-816a-dd0f5ba77355",
@@ -2304,7 +2409,8 @@
         "id": 1,
         "original_url": "http://offline.onuniverse.com"
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "d138af20-36da-4128-a9fe-3fe1d19a891d",
@@ -2325,7 +2431,8 @@
       "name": "josephmco",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "47423efd-e669-402c-840a-c29d30c7c042",
@@ -2365,7 +2472,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1544893877.000800"
+    "last_read": "1544893877.000800",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "fcb5eb21-491f-49e0-ab33-21b84c8e0768",
@@ -2388,7 +2496,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1544893833.000500",
-    "parent_user_id": "UAVBSJGG5"
+    "parent_user_id": "UAVBSJGG5",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "273876aa-86b4-4f32-b3fd-c92014fd4c92",
@@ -2411,7 +2520,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1544893833.000500",
-    "parent_user_id": "UAVBSJGG5"
+    "parent_user_id": "UAVBSJGG5",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "43e24665-81c2-4f2f-bf37-7dad83da4870",
@@ -2443,7 +2553,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "80234f37-52af-4e12-bc45-bf0451238abd",
@@ -2475,7 +2586,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "7dd2c506-c295-493b-b297-abed0a959508",
@@ -2496,7 +2608,8 @@
       "name": "colelawr",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "8b40b9c0-f8ea-4883-a1d9-75668521fa2b",
@@ -2545,7 +2658,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1549360520.000387"
+    "last_read": "1549360520.000387",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "040106b1-06c5-4452-aaef-38191665320b",
@@ -2580,7 +2694,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "92ff01b5-3e7e-4d4b-87d5-9885f3bf31d8",
@@ -2603,7 +2718,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1549145931.013100",
-    "parent_user_id": "UAVBSJGG5"
+    "parent_user_id": "UAVBSJGG5",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "c78ed0fd-d0e5-45e2-8c5b-8e84f4561a60",
@@ -2626,7 +2742,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1549145931.013100",
-    "parent_user_id": "UAVBSJGG5"
+    "parent_user_id": "UAVBSJGG5",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "33997f03-2b27-4d73-81b6-64d06c68502c",
@@ -2674,7 +2791,8 @@
         "ts": "1551997538.002100"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "nyc"
   },
   {
     "client_msg_id": "e9297d04-f6fa-4fce-a71d-77ebebe1fb57",
@@ -2697,7 +2815,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551987002.000800",
-    "parent_user_id": "UAVBSJGG5"
+    "parent_user_id": "UAVBSJGG5",
+    "channel": "nyc"
   },
   {
     "type": "message",
@@ -2759,7 +2878,8 @@
     "display_as_bot": false,
     "ts": "1551987150.001400",
     "thread_ts": "1551987002.000800",
-    "parent_user_id": "UAVBSJGG5"
+    "parent_user_id": "UAVBSJGG5",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "11d93d18-a97e-487b-8f92-34d987a0775c",
@@ -2782,7 +2902,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551987002.000800",
-    "parent_user_id": "UAVBSJGG5"
+    "parent_user_id": "UAVBSJGG5",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "fbad5d51-6c02-474b-93b3-0c082cf828a1",
@@ -2805,7 +2926,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551987002.000800",
-    "parent_user_id": "UAVBSJGG5"
+    "parent_user_id": "UAVBSJGG5",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "C9877B6C-2063-4F2F-B4B7-4BBC5B1AEAD5",
@@ -2859,7 +2981,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "6d2c2cf9-e0ad-4b54-a295-a543b3842278",
@@ -2886,7 +3009,8 @@
       "ts": "1552674603.000000"
     },
     "thread_ts": "1552674041.002100",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "091cd8fc-de3b-471f-88e9-1f27349e90c1",
@@ -2909,7 +3033,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552674041.002100",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "aea561af-04e6-40e2-ae88-e4b5444560e9",
@@ -2932,7 +3057,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552674041.002100",
-    "parent_user_id": "UD3AK9JRF"
+    "parent_user_id": "UD3AK9JRF",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "3f55d209-fe9c-4dff-83c9-d5ae4331c637",
@@ -2984,7 +3110,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "cce528c0-7fec-4181-927a-808c670eafad",
@@ -3007,7 +3134,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1555488055.001300",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "d736f5fa-d7f4-4c79-b7b2-c0278a5925b7",
@@ -3054,7 +3182,8 @@
         ],
         "count": 14
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "00fcb855-20fd-48c1-a8d7-e6b38f5f9a15",
@@ -3075,7 +3204,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "dbbe9a3b-eb2b-4f95-8001-dea95a2f6943",
@@ -3110,7 +3240,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "fc95e7bb-db1d-4da5-847d-648d712f834e",
@@ -3148,7 +3279,8 @@
         ],
         "count": 5
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "19a38755-ceb2-4de8-8d69-0db9a2e8a9f9",
@@ -3178,7 +3310,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "f2c43090-d518-41d9-b566-ed862a688b6d",
@@ -3257,7 +3390,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "ce3fdaea-f78f-4ac6-8498-9afac4786ef0",
@@ -3292,7 +3426,8 @@
         ],
         "count": 6
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "C7565E66-4408-4699-A941-55CCD609BF95",
@@ -3315,7 +3450,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1557450875.006600",
-    "parent_user_id": "UD2UVTDNU"
+    "parent_user_id": "UD2UVTDNU",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "88ff4b20-4f4c-4fd0-bb6f-cd27b8266512",
@@ -3338,7 +3474,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1557450875.006600",
-    "parent_user_id": "UD2UVTDNU"
+    "parent_user_id": "UD2UVTDNU",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "543b92ea-c161-47f1-b0d8-918aa748b4b1",
@@ -3361,7 +3498,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1557450875.006600",
-    "parent_user_id": "UD2UVTDNU"
+    "parent_user_id": "UD2UVTDNU",
+    "channel": "nyc"
   },
   {
     "type": "message",
@@ -3435,7 +3573,8 @@
         ],
         "count": 5
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "ccacbc8b-9982-405c-92f6-d1c3582efeab",
@@ -3458,7 +3597,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1557450875.006600",
-    "parent_user_id": "UD2UVTDNU"
+    "parent_user_id": "UD2UVTDNU",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "8680e03a-972a-47aa-a5c4-86b767c35f1b",
@@ -3481,7 +3621,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1557450875.006600",
-    "parent_user_id": "UD2UVTDNU"
+    "parent_user_id": "UD2UVTDNU",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "044132fe-1f90-4606-8123-a4de7a512116",
@@ -3538,7 +3679,8 @@
         "ts": "1557773300.006800"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "nyc"
   },
   {
     "client_msg_id": "bf260025-4120-404b-96f8-fb43448beb38",
@@ -3561,7 +3703,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1557588698.006400",
-    "parent_user_id": "UFPPABQ7P"
+    "parent_user_id": "UFPPABQ7P",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "35a5c843-c194-4ec4-b27a-dccddc1e77f2",
@@ -3584,7 +3727,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1557588698.006400",
-    "parent_user_id": "UFPPABQ7P"
+    "parent_user_id": "UFPPABQ7P",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "5ce753f0-e923-4b8b-9a74-bf8625566c11",
@@ -3619,7 +3763,8 @@
         "ts": "1558727848.000500"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "nyc"
   },
   {
     "client_msg_id": "e2abb98d-55c4-43d2-8e93-39098fcd8863",
@@ -3671,7 +3816,8 @@
       }
     ],
     "thread_ts": "1558726291.000400",
-    "parent_user_id": "UJTD11MQR"
+    "parent_user_id": "UJTD11MQR",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "72843a78-fc2b-4bb8-ad29-6250ffcd5ab9",
@@ -3732,7 +3878,8 @@
         ],
         "count": 5
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "b913ebb9-3016-4d43-808e-67ba121eaa34",
@@ -3753,7 +3900,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "nyc"
   },
   {
     "client_msg_id": "2295a79b-8c98-470b-9aa5-4fb49b71a1ef",
@@ -3785,7 +3933,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "a1c514f9-23c7-44ac-aed1-85079513117e",
@@ -3825,7 +3974,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1559492385.003900"
+    "last_read": "1559492385.003900",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "5d68a5e7-ca7d-445d-bfe5-23b903b195e2",
@@ -3848,7 +3998,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1559492301.003600",
-    "parent_user_id": "UGLSY9X3J"
+    "parent_user_id": "UGLSY9X3J",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "9027bb0d-edee-418d-9159-956cad9b67e2",
@@ -3871,7 +4022,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1559492301.003600",
-    "parent_user_id": "UGLSY9X3J"
+    "parent_user_id": "UGLSY9X3J",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "bc23d9be-90c5-420f-a13b-61f7cd164eed",
@@ -3930,7 +4082,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "d60e653b-c1e8-4f74-bd8f-493f6dfcf6d2",
@@ -3953,7 +4106,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1559828772.001900",
-    "parent_user_id": "UHZNB3HRP"
+    "parent_user_id": "UHZNB3HRP",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "42f52a14-f860-448e-b31d-dbc008908685",
@@ -3976,7 +4130,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1559828772.001900",
-    "parent_user_id": "UHZNB3HRP"
+    "parent_user_id": "UHZNB3HRP",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "522e98d6-1944-4ce5-ab42-9f2fa8842fa1",
@@ -4028,7 +4183,8 @@
         "ts": "1560272481.005000"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "nyc"
   },
   {
     "client_msg_id": "ff7a3722-bd73-4082-9632-ffd527145323",
@@ -4066,7 +4222,8 @@
       }
     ],
     "thread_ts": "1560054849.003600",
-    "parent_user_id": "UHZNB3HRP"
+    "parent_user_id": "UHZNB3HRP",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "1349f689-2dac-479b-a755-30a6fc6d5fe9",
@@ -4101,7 +4258,8 @@
       }
     ],
     "thread_ts": "1560054849.003600",
-    "parent_user_id": "UHZNB3HRP"
+    "parent_user_id": "UHZNB3HRP",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "d0bad411-5fad-499a-bc15-b5d999a7ca2a",
@@ -4124,7 +4282,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1560054849.003600",
-    "parent_user_id": "UHZNB3HRP"
+    "parent_user_id": "UHZNB3HRP",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "7534d404-2cd7-43bf-96e0-074ea40b0a1f",
@@ -4147,7 +4306,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1560054849.003600",
-    "parent_user_id": "UHZNB3HRP"
+    "parent_user_id": "UHZNB3HRP",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "8b2cdcfb-4135-4153-b313-4b129cbba2ce",
@@ -4170,7 +4330,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1560054849.003600",
-    "parent_user_id": "UHZNB3HRP"
+    "parent_user_id": "UHZNB3HRP",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "ae99b25a-907a-46cc-82a9-3fc1806a5cb7",
@@ -4202,7 +4363,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "bb434180-b5bb-4359-be88-68ace889f971",
@@ -4241,7 +4403,8 @@
       }
     ],
     "thread_ts": "1559407896.002600",
-    "parent_user_id": "UFPPABQ7P"
+    "parent_user_id": "UFPPABQ7P",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "4164158f-7f6b-4c3e-ac55-627a31cd699a",
@@ -4268,7 +4431,8 @@
       "ts": "1571965686.000000"
     },
     "thread_ts": "1559828772.001900",
-    "parent_user_id": "UHZNB3HRP"
+    "parent_user_id": "UHZNB3HRP",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "4490e134-ec4c-4ff6-81ed-d3b03d4b5106",
@@ -4291,7 +4455,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1559407896.002600",
-    "parent_user_id": "UFPPABQ7P"
+    "parent_user_id": "UFPPABQ7P",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "813b3ab3-133a-45d3-aa5e-07837af74c44",
@@ -4348,7 +4513,8 @@
         "ts": "1579277793.000600"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "nyc"
   },
   {
     "client_msg_id": "4a0a698a-04b2-42b6-ab66-78c7c33a6c45",
@@ -4462,7 +4628,8 @@
         "ts": "1582242237.003900"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "nyc"
   },
   {
     "client_msg_id": "404b463e-1aa3-4ceb-a211-606444be8ebd",
@@ -4515,7 +4682,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "23f83320-777e-4594-bb56-5798465c280b",
@@ -4555,7 +4723,8 @@
       }
     ],
     "thread_ts": "1579104451.002200",
-    "parent_user_id": "UR482RFPY"
+    "parent_user_id": "UR482RFPY",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "d3b81117-077f-4aeb-ac28-ef113beaeaa6",
@@ -4625,7 +4794,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "671eefe7-1a9e-4546-a394-c37bec55b140",
@@ -4665,7 +4835,8 @@
       }
     ],
     "thread_ts": "1578332977.001400",
-    "parent_user_id": "UFPPABQ7P"
+    "parent_user_id": "UFPPABQ7P",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "2e69e372-92f9-4006-a03f-9ba43090e0ca",
@@ -4714,7 +4885,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "be18e157-c290-4139-8126-6d0a3bcf35ec",
@@ -4766,7 +4938,8 @@
       }
     ],
     "thread_ts": "1579104451.002200",
-    "parent_user_id": "UR482RFPY"
+    "parent_user_id": "UR482RFPY",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "942bb7e9-9ba9-4ff3-b684-48adcefedbb4",
@@ -4806,7 +4979,8 @@
       }
     ],
     "thread_ts": "1579104451.002200",
-    "parent_user_id": "UR482RFPY"
+    "parent_user_id": "UR482RFPY",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "2e467e1b-a060-4928-92c9-bd663bff2ff4",
@@ -4846,7 +5020,8 @@
       }
     ],
     "thread_ts": "1579104451.002200",
-    "parent_user_id": "UR482RFPY"
+    "parent_user_id": "UR482RFPY",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "789a3434-f2f9-445f-8ab0-28757ad4d596",
@@ -4886,7 +5061,8 @@
       }
     ],
     "thread_ts": "1579104451.002200",
-    "parent_user_id": "UR482RFPY"
+    "parent_user_id": "UR482RFPY",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "79da02f8-c4ad-47f7-9132-c9369b061a7c",
@@ -4926,7 +5102,8 @@
       }
     ],
     "thread_ts": "1579104451.002200",
-    "parent_user_id": "UR482RFPY"
+    "parent_user_id": "UR482RFPY",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "e1885aed-242d-4722-b87c-ddf4b4970164",
@@ -4966,7 +5143,8 @@
       }
     ],
     "thread_ts": "1579104451.002200",
-    "parent_user_id": "UR482RFPY"
+    "parent_user_id": "UR482RFPY",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "50eb9e62-3c98-4f0c-8510-31ff743847e5",
@@ -5006,7 +5184,8 @@
       }
     ],
     "thread_ts": "1579104451.002200",
-    "parent_user_id": "UR482RFPY"
+    "parent_user_id": "UR482RFPY",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "b68f3433-b09b-4b5e-807d-05a525885a32",
@@ -5046,7 +5225,8 @@
       }
     ],
     "thread_ts": "1579104451.002200",
-    "parent_user_id": "UR482RFPY"
+    "parent_user_id": "UR482RFPY",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "ab1bad03-075b-4593-8b68-9d0108a90d4d",
@@ -5086,7 +5266,8 @@
       }
     ],
     "thread_ts": "1579104451.002200",
-    "parent_user_id": "UR482RFPY"
+    "parent_user_id": "UR482RFPY",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "4a269753-750f-4661-af7d-22f00b2d576c",
@@ -5130,7 +5311,8 @@
       }
     ],
     "thread_ts": "1579104451.002200",
-    "parent_user_id": "UR482RFPY"
+    "parent_user_id": "UR482RFPY",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "5c552113-0504-427a-8612-b3dc2980f9ce",
@@ -5170,7 +5352,8 @@
       }
     ],
     "thread_ts": "1579104451.002200",
-    "parent_user_id": "UR482RFPY"
+    "parent_user_id": "UR482RFPY",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "089eb05b-5ac1-40ea-8c06-3641c12a0fa2",
@@ -5230,7 +5413,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "a4217b7e-e957-492d-9510-acd00de15c65",
@@ -5280,7 +5464,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "0accee8b-450a-4f4c-b71e-2a9158cc57c4",
@@ -5367,7 +5552,8 @@
         ],
         "count": 6
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "7a29be63-33cf-4e7d-b23b-0ff45f598e02",
@@ -5425,7 +5611,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "adf939fd-51a2-41b3-8edb-24de9b3324a4",
@@ -5477,7 +5664,8 @@
       }
     ],
     "thread_ts": "1582729209.001900",
-    "parent_user_id": "UJKKBAMLL"
+    "parent_user_id": "UJKKBAMLL",
+    "channel": "nyc"
   },
   {
     "client_msg_id": "6f396c22-eff5-4548-a8af-85365e04442a",
@@ -5534,7 +5722,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "nyc"
   },
   {
     "client_msg_id": "beb15426-119a-4418-8ff3-210ab89e4e35",
@@ -5582,6 +5771,7 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "nyc"
   }
 ]

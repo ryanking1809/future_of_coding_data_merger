@@ -5,7 +5,8 @@
     "ts": "1588700419.000600",
     "user": "UC2A2ARPT",
     "text": "<@UC2A2ARPT> set the channel topic: Discussion of all types of FP, Category Theory, Denotational Design, and related work.",
-    "topic": "Discussion of all types of FP, Category Theory, Denotational Design, and related work."
+    "topic": "Discussion of all types of FP, Category Theory, Denotational Design, and related work.",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "59e84285-f732-49c5-b9db-2f45cc8b8c53",
@@ -174,7 +175,8 @@
         "ts": "1588856960.020700"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "219e926c-c186-4e62-9ed1-c8d023595244",
@@ -226,7 +228,8 @@
       }
     ],
     "thread_ts": "1588813244.019700",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "f0573478-13fd-491e-aaf2-539b5deb807f",
@@ -266,7 +269,8 @@
       }
     ],
     "thread_ts": "1588813244.019700",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "cb05f601-01f5-4918-b24a-f08db5c93a66",
@@ -314,7 +318,8 @@
       }
     ],
     "thread_ts": "1588813244.019700",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "a244770a-24b9-41e2-98cf-60d667b47f11",
@@ -415,7 +420,8 @@
         "ts": "1592502105.031300"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "40f9f29c-23d1-4581-b57d-a844064ae676",
@@ -459,7 +465,8 @@
       }
     ],
     "thread_ts": "1589940714.024800",
-    "parent_user_id": "UT60XSVCN"
+    "parent_user_id": "UT60XSVCN",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "e81c0622-3cb7-4138-b0a4-8decb9465509",
@@ -511,7 +518,8 @@
       }
     ],
     "thread_ts": "1589940714.024800",
-    "parent_user_id": "UT60XSVCN"
+    "parent_user_id": "UT60XSVCN",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "5eca530e-98f2-4183-a8b6-1a4633f66977",
@@ -555,7 +563,8 @@
       }
     ],
     "thread_ts": "1589940714.024800",
-    "parent_user_id": "UT60XSVCN"
+    "parent_user_id": "UT60XSVCN",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "35de1cd2-de7c-4aa7-b001-9d2c08418cde",
@@ -635,7 +644,8 @@
       }
     ],
     "thread_ts": "1589940714.024800",
-    "parent_user_id": "UT60XSVCN"
+    "parent_user_id": "UT60XSVCN",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "46e49398-7976-4085-93a6-33cc613a104a",
@@ -675,7 +685,8 @@
       }
     ],
     "thread_ts": "1589940714.024800",
-    "parent_user_id": "UT60XSVCN"
+    "parent_user_id": "UT60XSVCN",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "b73bc745-a711-4d37-b957-ce7b98d82780",
@@ -749,7 +760,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "9908d8ac-179e-48bc-bac9-a462b2f10493",
@@ -793,7 +805,8 @@
       }
     ],
     "thread_ts": "1589940714.024800",
-    "parent_user_id": "UT60XSVCN"
+    "parent_user_id": "UT60XSVCN",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "1cc80492-e327-4f84-812f-8b112e3dfe86",
@@ -901,7 +914,8 @@
       }
     ],
     "thread_ts": "1589940714.024800",
-    "parent_user_id": "UT60XSVCN"
+    "parent_user_id": "UT60XSVCN",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "6d7138b8-493c-436b-9902-09ed368e8381",
@@ -941,7 +955,8 @@
       }
     ],
     "thread_ts": "1589940714.024800",
-    "parent_user_id": "UT60XSVCN"
+    "parent_user_id": "UT60XSVCN",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "38c11b23-5a32-42d0-b54a-d6b7394fbc54",
@@ -986,7 +1001,8 @@
       }
     ],
     "thread_ts": "1589940714.024800",
-    "parent_user_id": "UT60XSVCN"
+    "parent_user_id": "UT60XSVCN",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "a4fe373b-c7ed-4e7e-ac26-1802caac497c",
@@ -1026,7 +1042,8 @@
       }
     ],
     "thread_ts": "1589940714.024800",
-    "parent_user_id": "UT60XSVCN"
+    "parent_user_id": "UT60XSVCN",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "abf8df98-74cf-41c9-b0e9-fdb25a6de575",
@@ -1112,7 +1129,8 @@
         "ts": "1591097607.030700"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "4ae9679c-4715-4067-b79a-71c233f687cf",
@@ -1161,7 +1179,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "ae699aba-2a36-4d89-8bca-8f75038cdcbe",
@@ -1218,7 +1237,8 @@
       }
     ],
     "thread_ts": "1591010264.028900",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "528f36f5-e143-443a-b7ce-c64eb8359c60",
@@ -1258,7 +1278,8 @@
       }
     ],
     "thread_ts": "1591010264.028900",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "6f3c11d2-abbc-4b79-9ce7-eef935d95429",
@@ -1298,7 +1319,8 @@
       }
     ],
     "thread_ts": "1591010264.028900",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "da5241c2-f094-4210-acd8-4c58cff8c3f1",
@@ -1338,7 +1360,8 @@
       }
     ],
     "thread_ts": "1591010264.028900",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "859ab4fc-308b-40f3-bde8-c1adc5b51e67",
@@ -1390,7 +1413,8 @@
       }
     ],
     "thread_ts": "1591010264.028900",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "469ea067-8dda-4361-9f6f-9027686b1127",
@@ -1430,7 +1454,8 @@
       }
     ],
     "thread_ts": "1591010264.028900",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "9c5d6e98-6a31-4514-b070-951fb6545a4a",
@@ -1478,7 +1503,8 @@
       }
     ],
     "thread_ts": "1591010264.028900",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "2af19a79-a3db-4129-9802-b5a05c34ef0c",
@@ -1518,7 +1544,8 @@
       }
     ],
     "thread_ts": "1591010264.028900",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "functional-programming"
   },
   {
     "client_msg_id": "bb6d93e3-e081-4ec4-adba-fc1273abeab3",
@@ -1558,6 +1585,7 @@
       }
     ],
     "thread_ts": "1589940714.024800",
-    "parent_user_id": "UT60XSVCN"
+    "parent_user_id": "UT60XSVCN",
+    "channel": "functional-programming"
   }
 ]

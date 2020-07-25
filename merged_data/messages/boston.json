@@ -4,7 +4,8 @@
     "subtype": "channel_join",
     "ts": "1541690730.000200",
     "user": "U9ULPG0UA",
-    "text": "<@U9ULPG0UA> has joined the channel"
+    "text": "<@U9ULPG0UA> has joined the channel",
+    "channel": "boston"
   },
   {
     "type": "message",
@@ -12,7 +13,8 @@
     "ts": "1541690730.000300",
     "user": "U9ULPG0UA",
     "text": "<@U9ULPG0UA> set the channel purpose: Discussion for getting a Boston branch started",
-    "purpose": "Discussion for getting a Boston branch started"
+    "purpose": "Discussion for getting a Boston branch started",
+    "channel": "boston"
   },
   {
     "type": "message",
@@ -20,14 +22,16 @@
     "ts": "1541690730.000500",
     "user": "U5TCAFTD3",
     "text": "<@U5TCAFTD3> has joined the channel",
-    "inviter": "U9ULPG0UA"
+    "inviter": "U9ULPG0UA",
+    "channel": "boston"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1541691228.001100",
     "user": "UBN1G4C1J",
-    "text": "<@UBN1G4C1J> has joined the channel"
+    "text": "<@UBN1G4C1J> has joined the channel",
+    "channel": "boston"
   },
   {
     "client_msg_id": "f77547a3-ce02-4f5a-b85d-5c8ec73f414e",
@@ -48,28 +52,32 @@
       "name": "caleb.helbling",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1541692795.002800",
     "user": "U6KQ2S410",
-    "text": "<@U6KQ2S410> has joined the channel"
+    "text": "<@U6KQ2S410> has joined the channel",
+    "channel": "boston"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1541734779.000200",
     "user": "UE0H4170F",
-    "text": "<@UE0H4170F> has joined the channel"
+    "text": "<@UE0H4170F> has joined the channel",
+    "channel": "boston"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1542237153.000200",
     "user": "UCZ68HXUL",
-    "text": "<@UCZ68HXUL> has joined the channel"
+    "text": "<@UCZ68HXUL> has joined the channel",
+    "channel": "boston"
   },
   {
     "client_msg_id": "3ba7b5d3-78b4-4190-bc26-64ae506a520f",
@@ -107,28 +115,32 @@
         "id": 1,
         "original_url": "https://www.meetup.com/Boston-Future-of-Coding/"
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1543119543.000800",
     "user": "UDJ8A6RNH",
-    "text": "<@UDJ8A6RNH> has joined the channel"
+    "text": "<@UDJ8A6RNH> has joined the channel",
+    "channel": "boston"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1543254065.000200",
     "user": "UEBETN2E4",
-    "text": "<@UEBETN2E4> has joined the channel"
+    "text": "<@UEBETN2E4> has joined the channel",
+    "channel": "boston"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1543341782.000400",
     "user": "UEDJ8KK3R",
-    "text": "<@UEDJ8KK3R> has joined the channel"
+    "text": "<@UEDJ8KK3R> has joined the channel",
+    "channel": "boston"
   },
   {
     "client_msg_id": "bc92dd59-583c-464e-9a7f-39d2b5eb1499",
@@ -149,7 +161,8 @@
       "name": "caleb.helbling",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "9f6ffec8-8725-4c82-8375-a48bd11b7056",
@@ -170,7 +183,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "27B218F1-A8F9-4475-B4EF-59F9EB2A0D3F",
@@ -191,7 +205,8 @@
       "name": "jonathoda",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "ac4787a9-a6ba-4c67-8673-71ed7bc715d5",
@@ -212,7 +227,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "21f4cfd2-0af2-41ed-a2b8-bda5973aec20",
@@ -233,7 +249,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "f97563f8-d8fa-44a2-9b35-736ba7939f5c",
@@ -269,7 +286,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1543868362.009200"
+    "last_read": "1543868362.009200",
+    "channel": "boston"
   },
   {
     "client_msg_id": "35bdf9be-3626-4b88-83fb-5806ce96b40e",
@@ -307,7 +325,8 @@
         "id": 1,
         "original_url": "https://www.wpi.edu/about/locations/seaport-303-congress-street-boston"
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "de64a33a-3155-4b8a-811e-c54658b5ed3d",
@@ -328,7 +347,8 @@
       "name": "charlie",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "type": "message",
@@ -354,7 +374,8 @@
       "subscribed": true,
       "last_read": "1543868362.009200"
     },
-    "client_msg_id": "ac25af10-ba82-4d2a-94c7-d3764c7d6002"
+    "client_msg_id": "ac25af10-ba82-4d2a-94c7-d3764c7d6002",
+    "channel": "boston"
   },
   {
     "client_msg_id": "c00da60b-c61b-4f71-a990-d84365dd1d60",
@@ -375,14 +396,16 @@
       "name": "charlie",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1544924741.000200",
     "user": "UEU81R2GH",
-    "text": "<@UEU81R2GH> has joined the channel"
+    "text": "<@UEU81R2GH> has joined the channel",
+    "channel": "boston"
   },
   {
     "client_msg_id": "f4f7d56e-96d2-481c-854a-16a43f0144ce",
@@ -441,7 +464,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "735ec3a8-a58f-4c79-8d62-cc1e971dd0d2",
@@ -462,7 +486,8 @@
       "name": "caleb.helbling",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "9c91569e-d7c8-4644-bacc-d3072944b717",
@@ -483,7 +508,8 @@
       "name": "caleb.helbling",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "1e7d8728-b984-4e35-887e-fb44434bb0e9",
@@ -504,7 +530,8 @@
       "name": "caleb.helbling",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "5515b548-c418-49f8-90c3-6fe71202ece3",
@@ -525,7 +552,8 @@
       "name": "caleb.helbling",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "884936b5-7666-4192-8a61-fa2a24175b45",
@@ -546,28 +574,32 @@
       "name": "charlie",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1548220735.000200",
     "user": "UFLN9JFRT",
-    "text": "<@UFLN9JFRT> has joined the channel"
+    "text": "<@UFLN9JFRT> has joined the channel",
+    "channel": "boston"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1549576201.000200",
     "user": "UG16MBDQV",
-    "text": "<@UG16MBDQV> has joined the channel"
+    "text": "<@UG16MBDQV> has joined the channel",
+    "channel": "boston"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551561444.000200",
     "user": "UGMH4H202",
-    "text": "<@UGMH4H202> has joined the channel"
+    "text": "<@UGMH4H202> has joined the channel",
+    "channel": "boston"
   },
   {
     "client_msg_id": "7ec0d8e8-1df7-42cd-bae1-467348632b30",
@@ -610,14 +642,16 @@
         "original_url": "https://futureofcoding.slack.com/archives/CC2JRGVLK/p1551561431002000",
         "footer": "Posted in #introductions"
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551584939.000200",
     "user": "UGLSY9X3J",
-    "text": "<@UGLSY9X3J> has joined the channel"
+    "text": "<@UGLSY9X3J> has joined the channel",
+    "channel": "boston"
   },
   {
     "client_msg_id": "214b5f55-a4ea-4c4e-9fdd-13617fc95b06",
@@ -654,7 +688,8 @@
         "id": 1,
         "original_url": "https://www.facebook.com/events/250326762560224/"
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "type": "message",
@@ -671,7 +706,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "20b242da-649c-4b21-97b6-7150b9f79999",
@@ -692,21 +728,24 @@
       "name": "srini",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1557325264.000200",
     "user": "UJ5HRQEH0",
-    "text": "<@UJ5HRQEH0> has joined the channel"
+    "text": "<@UJ5HRQEH0> has joined the channel",
+    "channel": "boston"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1557591044.000200",
     "user": "UHWC9PXBL",
-    "text": "<@UHWC9PXBL> has joined the channel"
+    "text": "<@UHWC9PXBL> has joined the channel",
+    "channel": "boston"
   },
   {
     "client_msg_id": "3a5cfef5-4bd3-4bea-8155-141dabd3ea4b",
@@ -727,7 +766,8 @@
       "name": "srini",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "DEB209A5-4B7B-43F5-AFF8-AEC9EE379F7D",
@@ -748,7 +788,8 @@
       "name": "garth",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "4D4A480A-9558-41DA-9897-93D84CBCB671",
@@ -769,7 +810,8 @@
       "name": "garth",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "8c1574a6-2730-449a-a18d-ab687e52fc2e",
@@ -790,7 +832,8 @@
       "name": "srini",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "53eb68ab-69ee-4040-a436-15651d442607",
@@ -824,14 +867,16 @@
         ],
         "count": 5
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1560355823.002600",
     "user": "UGWUJUZHT",
-    "text": "<@UGWUJUZHT> has joined the channel"
+    "text": "<@UGWUJUZHT> has joined the channel",
+    "channel": "boston"
   },
   {
     "client_msg_id": "8c06854a-b701-47db-9108-81847643cc1f",
@@ -869,7 +914,8 @@
         "id": 1,
         "original_url": "https://www.meetup.com/Weekly-Functional-Programming-Meetup/"
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "32d68cc0-567c-4d75-afa4-5262fe9613d6",
@@ -890,7 +936,8 @@
       "name": "lawler145",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "63b25f02-a2cb-43c4-b384-80e14495dbf4",
@@ -911,7 +958,8 @@
       "name": "lawler145",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "08CC94C3-65BD-4D02-B7C2-6F3233190596",
@@ -932,7 +980,8 @@
       "name": "garth",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "681AD129-354D-45C9-AA6D-42A4B8E3C552",
@@ -953,7 +1002,8 @@
       "name": "garth",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "8b0c857a-aa18-497f-9c69-69e9d28beec4",
@@ -974,7 +1024,8 @@
       "name": "srini",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "c1a7a93f-d4de-4b0a-a077-9015ff01a4d3",
@@ -995,21 +1046,24 @@
       "name": "lawler145",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1560986614.000200",
     "user": "UKJ75RMFT",
-    "text": "<@UKJ75RMFT> has joined the channel"
+    "text": "<@UKJ75RMFT> has joined the channel",
+    "channel": "boston"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1562699466.000200",
     "user": "UKXLUEA59",
-    "text": "<@UKXLUEA59> has joined the channel"
+    "text": "<@UKXLUEA59> has joined the channel",
+    "channel": "boston"
   },
   {
     "client_msg_id": "c4a96ae1-dff3-4648-9e4f-efaecb86b8be",
@@ -1076,7 +1130,8 @@
         "ts": "1562806881.005000"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "boston"
   },
   {
     "client_msg_id": "14c87d4a-b51d-43fe-9d1d-4de11a559b19",
@@ -1108,7 +1163,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "6098108b-c3d8-4a5a-a144-341af501b9c8",
@@ -1131,7 +1187,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562790902.003500",
-    "parent_user_id": "UGLSY9X3J"
+    "parent_user_id": "UGLSY9X3J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "8ae48792-b9b6-4d99-8c16-6ba2e1357621",
@@ -1154,7 +1211,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562790902.003500",
-    "parent_user_id": "UGLSY9X3J"
+    "parent_user_id": "UGLSY9X3J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "9ca9a420-ff51-4db3-b75c-68cb5fc0f0ee",
@@ -1177,7 +1235,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562790902.003500",
-    "parent_user_id": "UGLSY9X3J"
+    "parent_user_id": "UGLSY9X3J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "6d26d5b3-ed43-4b41-9277-a21f5fd1544f",
@@ -1200,7 +1259,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562790902.003500",
-    "parent_user_id": "UGLSY9X3J"
+    "parent_user_id": "UGLSY9X3J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "e419027a-4041-4c26-b364-9d2b20ba95d4",
@@ -1223,7 +1283,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562790902.003500",
-    "parent_user_id": "UGLSY9X3J"
+    "parent_user_id": "UGLSY9X3J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "26de01a0-76ab-42f6-a97a-1109961c4217",
@@ -1255,7 +1316,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "0967cac9-f858-4edd-9c2f-69ad5fb630b0",
@@ -1318,7 +1380,8 @@
         "ts": "1563935033.000200"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "boston"
   },
   {
     "client_msg_id": "5aa0f530-6278-474e-972f-105533962718",
@@ -1350,7 +1413,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "9F2D20ED-5009-46EF-ADC4-CAF232B58697",
@@ -1373,7 +1437,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1563418446.002000",
-    "parent_user_id": "UGLSY9X3J"
+    "parent_user_id": "UGLSY9X3J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "84e1c8a8-2b40-45cf-8bc6-8c088e04f10a",
@@ -1396,7 +1461,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1563418446.002000",
-    "parent_user_id": "UGLSY9X3J"
+    "parent_user_id": "UGLSY9X3J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "d7974499-5229-4147-be0d-25c9c3bea930",
@@ -1419,7 +1485,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1563418446.002000",
-    "parent_user_id": "UGLSY9X3J"
+    "parent_user_id": "UGLSY9X3J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "66221e09-0d93-4439-a274-0a5fc0ab65eb",
@@ -1442,7 +1509,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1563418446.002000",
-    "parent_user_id": "UGLSY9X3J"
+    "parent_user_id": "UGLSY9X3J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "12dc2fe1-0d0e-4125-bbb9-befd6c8baac2",
@@ -1465,7 +1533,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1563418446.002000",
-    "parent_user_id": "UGLSY9X3J"
+    "parent_user_id": "UGLSY9X3J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "a94dd046-06b2-4eb9-9482-ea25ad9ee2a7",
@@ -1490,7 +1559,8 @@
     "edited": {
       "user": "UGLSY9X3J",
       "ts": "1563918719.000000"
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "46e616b8-4bb7-4ed4-9ef2-ce281b8f467e",
@@ -1513,7 +1583,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1563418446.002000",
-    "parent_user_id": "UGLSY9X3J"
+    "parent_user_id": "UGLSY9X3J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "61e2bcfe-b78f-4edb-933a-09f7e657e658",
@@ -1548,7 +1619,8 @@
         "ts": "1565715898.000200"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "boston"
   },
   {
     "client_msg_id": "98f74450-9e21-4521-8d0c-6a04529c5255",
@@ -1575,7 +1647,8 @@
       "ts": "1565716235.000000"
     },
     "thread_ts": "1565275838.003200",
-    "parent_user_id": "UGLSY9X3J"
+    "parent_user_id": "UGLSY9X3J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "92674f45-7550-4665-858f-cb438ae191fe",
@@ -1619,7 +1692,8 @@
         "ts": "1568132179.001000"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "boston"
   },
   {
     "client_msg_id": "68477a99-191d-499c-9131-6efd1cc6ba57",
@@ -1642,7 +1716,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1567196414.000300",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "boston"
   },
   {
     "client_msg_id": "68A623A6-E792-4B3E-8443-45B4973CC5BD",
@@ -1665,7 +1740,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1567196414.000300",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "boston"
   },
   {
     "client_msg_id": "7f6f83ea-f78b-416a-84e2-20326d863538",
@@ -1688,7 +1764,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1567196414.000300",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "boston"
   },
   {
     "client_msg_id": "0b1d89b1-7263-4d08-85f1-5070fb045156",
@@ -1739,7 +1816,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "FEC1122D-0493-4CE7-935F-E5CFB433F5F4",
@@ -1762,7 +1840,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1569262038.000200",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "boston"
   },
   {
     "client_msg_id": "b63c5632-4ba3-407a-a3f3-0aedd941f88b",
@@ -1800,7 +1879,8 @@
         "id": 1,
         "original_url": "https://www.meetup.com/meetup-group-IuKTqorA/"
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "18ea5ecd-f391-483a-b87c-8200bdeeede2",
@@ -1836,7 +1916,8 @@
         "id": 1,
         "original_url": "https://www.geoffreylitt.com/"
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "type": "message",
@@ -1844,7 +1925,8 @@
     "ts": "1570028457.007700",
     "user": "UCDBW1H26",
     "text": "<@UCDBW1H26> has joined the channel",
-    "inviter": "UGLSY9X3J"
+    "inviter": "UGLSY9X3J",
+    "channel": "boston"
   },
   {
     "type": "message",
@@ -1852,7 +1934,8 @@
     "ts": "1570028457.007900",
     "user": "UBJGA440K",
     "text": "<@UBJGA440K> has joined the channel",
-    "inviter": "UGLSY9X3J"
+    "inviter": "UGLSY9X3J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "c3666bc5-ff13-4527-bf69-9a54fcb6659d",
@@ -1882,7 +1965,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "type": "message",
@@ -1890,7 +1974,8 @@
     "ts": "1570031745.009600",
     "user": "UN78S5KPW",
     "text": "<@UN78S5KPW> has joined the channel",
-    "inviter": "UN1A64FR7"
+    "inviter": "UN1A64FR7",
+    "channel": "boston"
   },
   {
     "client_msg_id": "9d103b6c-209d-4b91-8b40-c994cae39f95",
@@ -1911,7 +1996,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "C4926EBA-EDAE-44F2-B13C-CE926496FDF0",
@@ -1936,7 +2022,8 @@
     "edited": {
       "user": "UHWC9PXBL",
       "ts": "1570064713.000000"
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "57F636D2-F857-4093-BF06-A58B58EAFEA0",
@@ -1957,7 +2044,8 @@
       "name": "garth",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "4013a34a-39f7-4385-a3b0-a69e28f9800f",
@@ -1978,7 +2066,8 @@
       "name": "srini",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "180b08ed-51f1-4a27-86c6-cb29cf0d544d",
@@ -1999,7 +2088,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "f2de546e-1aca-435d-a140-28b9e459678f",
@@ -2020,7 +2110,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "4270b54f-a408-4691-b1ad-401dc3672b9c",
@@ -2056,7 +2147,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1571014886.269200"
+    "last_read": "1571014886.269200",
+    "channel": "boston"
   },
   {
     "client_msg_id": "9a8be783-7ee4-4aed-8031-432221081ae9",
@@ -2087,7 +2179,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "2a78fe97-0cf4-45d5-a4c0-8d9e2c8ce0c0",
@@ -2112,7 +2205,8 @@
     "edited": {
       "user": "UGLSY9X3J",
       "ts": "1570629487.000000"
-    }
+    },
+    "channel": "boston"
   },
   {
     "client_msg_id": "3833bcdb-37fc-4278-aa6b-6210f21894fd",
@@ -2135,7 +2229,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570116081.015200",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "boston"
   },
   {
     "client_msg_id": "ca8f61c4-4a54-49ee-adf8-683de1351499",
@@ -2166,7 +2261,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "740b87bc-fd82-47cf-a870-c932ffb19237",
@@ -2235,7 +2331,8 @@
         "ts": "1576641169.001500"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "boston"
   },
   {
     "client_msg_id": "d1c95810-0813-4cec-b74b-dcb9d415a6de",
@@ -2275,7 +2372,8 @@
       }
     ],
     "thread_ts": "1576541772.000600",
-    "parent_user_id": "UFQQ3P867"
+    "parent_user_id": "UFQQ3P867",
+    "channel": "boston"
   },
   {
     "client_msg_id": "708613e2-44b6-4318-a6fd-b5ae8f7a9a3c",
@@ -2302,7 +2400,8 @@
       "ts": "1576614237.000000"
     },
     "thread_ts": "1576541772.000600",
-    "parent_user_id": "UFQQ3P867"
+    "parent_user_id": "UFQQ3P867",
+    "channel": "boston"
   },
   {
     "client_msg_id": "7722ce67-46ef-41ce-9217-2e3e57666619",
@@ -2342,7 +2441,8 @@
       }
     ],
     "thread_ts": "1576541772.000600",
-    "parent_user_id": "UFQQ3P867"
+    "parent_user_id": "UFQQ3P867",
+    "channel": "boston"
   },
   {
     "client_msg_id": "8ba04a4b-504f-4c4b-805e-e2533433de09",
@@ -2390,7 +2490,8 @@
       }
     ],
     "thread_ts": "1576541772.000600",
-    "parent_user_id": "UFQQ3P867"
+    "parent_user_id": "UFQQ3P867",
+    "channel": "boston"
   },
   {
     "client_msg_id": "fa8bf86b-656f-4d71-83f9-f0d54ed24c08",
@@ -2509,7 +2610,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "0ccb137f-9d72-4fdc-ba42-d02c42053dc4",
@@ -2547,7 +2649,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "350f35f0-372a-40b2-ac9a-d947eeb72910",
@@ -2608,7 +2711,8 @@
         "ts": "1578676985.005000"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "boston"
   },
   {
     "client_msg_id": "fe24a5e5-6b37-4e23-9f78-6d566b33a9e5",
@@ -2648,7 +2752,8 @@
       }
     ],
     "thread_ts": "1578676849.004700",
-    "parent_user_id": "UBN1G4C1J"
+    "parent_user_id": "UBN1G4C1J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "97573f09-8a63-4970-ac78-caecb68516e3",
@@ -2688,7 +2793,8 @@
       }
     ],
     "thread_ts": "1578676849.004700",
-    "parent_user_id": "UBN1G4C1J"
+    "parent_user_id": "UBN1G4C1J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "35dcbdd7-3eee-4ff4-aed6-4fa1c79c8100",
@@ -2739,7 +2845,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "97b1781b-a143-40d9-bac8-35ca02e56d29",
@@ -2789,7 +2896,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "7BEEA794-3183-440B-BF87-822ABFA987F8",
@@ -2827,7 +2935,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "8b1ffe5f-2dfc-4232-9b72-fb100fe378b6",
@@ -2865,7 +2974,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "76f0bdd9-7c22-435d-92fc-178cd45e1ff7",
@@ -2916,7 +3026,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "7ce61257-214d-4153-aa09-ed2280692be3",
@@ -2968,7 +3079,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "a6a4bfb7-4f5c-4d51-a84c-c0199d0f5323",
@@ -3010,7 +3122,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "a5d2019b-e66a-4537-851b-5df04526feb3",
@@ -3079,7 +3192,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "85a767c0-3786-4560-870c-4ca2a8b68612",
@@ -3117,7 +3231,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "FCC7C31D-3D0E-4138-9D7F-500784BD42CB",
@@ -3155,7 +3270,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "92448ba8-5a55-445f-b7f4-99b7e762669b",
@@ -3255,7 +3371,8 @@
         "ts": "1582905799.006100"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "boston"
   },
   {
     "client_msg_id": "5021a629-3cb2-42c2-8e50-fe7179039851",
@@ -3295,7 +3412,8 @@
       }
     ],
     "thread_ts": "1581875875.005200",
-    "parent_user_id": "UBN1G4C1J"
+    "parent_user_id": "UBN1G4C1J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "FC01EFBB-53C0-42A7-9D24-2A32862E6C53",
@@ -3335,7 +3453,8 @@
       }
     ],
     "thread_ts": "1581875875.005200",
-    "parent_user_id": "UBN1G4C1J"
+    "parent_user_id": "UBN1G4C1J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "629db30c-a665-428b-90dd-f76aba467bc8",
@@ -3383,7 +3502,8 @@
       }
     ],
     "thread_ts": "1581875875.005200",
-    "parent_user_id": "UBN1G4C1J"
+    "parent_user_id": "UBN1G4C1J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "efda8c28-2a70-4bb1-85c5-3305dfced276",
@@ -3423,7 +3543,8 @@
       }
     ],
     "thread_ts": "1581875875.005200",
-    "parent_user_id": "UBN1G4C1J"
+    "parent_user_id": "UBN1G4C1J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "feb035c7-465e-4ed9-b1fe-737cc119a92b",
@@ -3463,7 +3584,8 @@
       }
     ],
     "thread_ts": "1581875875.005200",
-    "parent_user_id": "UBN1G4C1J"
+    "parent_user_id": "UBN1G4C1J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "2e9aa53f-c3c6-441a-a944-ea66663c3299",
@@ -3501,7 +3623,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "2ECCD667-3A20-453E-B007-B66F1F3C941D",
@@ -3545,7 +3668,8 @@
       }
     ],
     "thread_ts": "1581875875.005200",
-    "parent_user_id": "UBN1G4C1J"
+    "parent_user_id": "UBN1G4C1J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "F22E7220-F81B-4DC0-AB9D-502480C1F305",
@@ -3585,7 +3709,8 @@
       }
     ],
     "thread_ts": "1581875875.005200",
-    "parent_user_id": "UBN1G4C1J"
+    "parent_user_id": "UBN1G4C1J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "8576984c-ce12-4bc8-8515-105302ce1c43",
@@ -3625,7 +3750,8 @@
       }
     ],
     "thread_ts": "1581875875.005200",
-    "parent_user_id": "UBN1G4C1J"
+    "parent_user_id": "UBN1G4C1J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "BF8F9FCF-DDE0-479C-B6E4-B4BE7CA5F688",
@@ -3665,7 +3791,8 @@
       }
     ],
     "thread_ts": "1581875875.005200",
-    "parent_user_id": "UBN1G4C1J"
+    "parent_user_id": "UBN1G4C1J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "B53063B1-C740-4272-8D77-F2753E9E6A49",
@@ -3705,7 +3832,8 @@
       }
     ],
     "thread_ts": "1581875875.005200",
-    "parent_user_id": "UBN1G4C1J"
+    "parent_user_id": "UBN1G4C1J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "dd026856-0506-44d4-b264-eb0ea4cb053e",
@@ -3745,7 +3873,8 @@
       }
     ],
     "thread_ts": "1581875875.005200",
-    "parent_user_id": "UBN1G4C1J"
+    "parent_user_id": "UBN1G4C1J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "a20832b5-5a10-45fe-8256-02440da17cd9",
@@ -3785,7 +3914,8 @@
       }
     ],
     "thread_ts": "1581875875.005200",
-    "parent_user_id": "UBN1G4C1J"
+    "parent_user_id": "UBN1G4C1J",
+    "channel": "boston"
   },
   {
     "client_msg_id": "70ee90ca-44cf-4dda-a031-f111b6cd503f",
@@ -3836,7 +3966,8 @@
         ],
         "count": 5
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "435d5279-3b88-4f2b-a9e1-efa005a4d073",
@@ -3891,7 +4022,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "b02c431c-9bab-485d-ac8a-fd71517f02f8",
@@ -3942,7 +4074,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "6a477e37-007f-439b-a968-7905f8a427c3",
@@ -4052,7 +4185,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "a745f937-65df-4411-8bdb-523febb41103",
@@ -4189,7 +4323,8 @@
         "ts": "1585105477.000100"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "boston"
   },
   {
     "client_msg_id": "1350c68f-577c-4b8b-8e8b-1bd59ba1c631",
@@ -4229,7 +4364,8 @@
       }
     ],
     "thread_ts": "1583268619.016300",
-    "parent_user_id": "UFQQ3P867"
+    "parent_user_id": "UFQQ3P867",
+    "channel": "boston"
   },
   {
     "client_msg_id": "40565772-20b3-4496-b72b-30ab11c75e51",
@@ -4269,7 +4405,8 @@
       }
     ],
     "thread_ts": "1583268619.016300",
-    "parent_user_id": "UFQQ3P867"
+    "parent_user_id": "UFQQ3P867",
+    "channel": "boston"
   },
   {
     "client_msg_id": "e05d328d-2854-4248-aabd-a9b5cd7752d4",
@@ -4337,7 +4474,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "5631828d-af3a-4610-a806-bc6df7cb432a",
@@ -4391,7 +4529,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "e28c4b79-49b5-4a63-a468-95a6a0293a28",
@@ -4431,7 +4570,8 @@
       }
     ],
     "thread_ts": "1583268619.016300",
-    "parent_user_id": "UFQQ3P867"
+    "parent_user_id": "UFQQ3P867",
+    "channel": "boston"
   },
   {
     "client_msg_id": "9f4c59bb-4791-47aa-84ca-0d0f11a4429d",
@@ -4478,7 +4618,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "674634f0-5ae7-483c-bbf3-a588ecfd708c",
@@ -4534,7 +4675,8 @@
         "ts": "1583355017.021700"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "boston"
   },
   {
     "client_msg_id": "fac108bb-c948-4507-9f02-d8befc952b02",
@@ -4601,7 +4743,8 @@
       }
     ],
     "thread_ts": "1583354092.021600",
-    "parent_user_id": "USJSN30NN"
+    "parent_user_id": "USJSN30NN",
+    "channel": "boston"
   },
   {
     "client_msg_id": "2a4833d4-98fb-47ab-92ad-188bd0fe4584",
@@ -4641,7 +4784,8 @@
       }
     ],
     "thread_ts": "1583268619.016300",
-    "parent_user_id": "UFQQ3P867"
+    "parent_user_id": "UFQQ3P867",
+    "channel": "boston"
   },
   {
     "client_msg_id": "254b9d33-7047-4190-b2a1-54c7e3f317f0",
@@ -4681,7 +4825,8 @@
       }
     ],
     "thread_ts": "1583268619.016300",
-    "parent_user_id": "UFQQ3P867"
+    "parent_user_id": "UFQQ3P867",
+    "channel": "boston"
   },
   {
     "client_msg_id": "b78caffa-a29d-4ccf-84f9-3052704677a7",
@@ -4725,7 +4870,8 @@
       }
     ],
     "thread_ts": "1583268619.016300",
-    "parent_user_id": "UFQQ3P867"
+    "parent_user_id": "UFQQ3P867",
+    "channel": "boston"
   },
   {
     "type": "message",
@@ -4816,7 +4962,8 @@
       "user": "UAJKEBGP8",
       "ts": "1583417744.000000"
     },
-    "client_msg_id": "4dcc8339-654e-4c12-bc4d-50cbf82797bd"
+    "client_msg_id": "4dcc8339-654e-4c12-bc4d-50cbf82797bd",
+    "channel": "boston"
   },
   {
     "type": "message",
@@ -4878,7 +5025,8 @@
     "user": "UAJKEBGP8",
     "display_as_bot": false,
     "ts": "1583417532.023300",
-    "client_msg_id": "be05ade5-ca50-4e76-a30b-cfcaf0c7fc32"
+    "client_msg_id": "be05ade5-ca50-4e76-a30b-cfcaf0c7fc32",
+    "channel": "boston"
   },
   {
     "client_msg_id": "1fec02fe-25be-4579-b594-b0d9e47c71b2",
@@ -4938,7 +5086,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "ed9ed601-0547-411c-b657-43c9627c75d8",
@@ -4982,7 +5131,8 @@
       }
     ],
     "thread_ts": "1583268619.016300",
-    "parent_user_id": "UFQQ3P867"
+    "parent_user_id": "UFQQ3P867",
+    "channel": "boston"
   },
   {
     "client_msg_id": "e8ef35ce-7f8d-4618-a9f2-9d79123b9945",
@@ -5022,7 +5172,8 @@
       }
     ],
     "thread_ts": "1583268619.016300",
-    "parent_user_id": "UFQQ3P867"
+    "parent_user_id": "UFQQ3P867",
+    "channel": "boston"
   },
   {
     "client_msg_id": "b1db577c-9a76-4c02-a8c5-be34c2b67ac8",
@@ -5062,7 +5213,8 @@
       }
     ],
     "thread_ts": "1583268619.016300",
-    "parent_user_id": "UFQQ3P867"
+    "parent_user_id": "UFQQ3P867",
+    "channel": "boston"
   },
   {
     "client_msg_id": "b230f1e3-afd5-4117-a3de-671bfab566d8",
@@ -5176,7 +5328,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "4c0e404a-20a4-4b9c-b6d4-122343659925",
@@ -5216,7 +5369,8 @@
       }
     ],
     "thread_ts": "1583268619.016300",
-    "parent_user_id": "UFQQ3P867"
+    "parent_user_id": "UFQQ3P867",
+    "channel": "boston"
   },
   {
     "client_msg_id": "d71ba136-70e9-4d6d-b9ba-2aee91bdf372",
@@ -5266,7 +5420,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "51e442a4-213c-4d7a-a120-a83226d5fdbf",
@@ -5306,7 +5461,8 @@
       }
     ],
     "thread_ts": "1583268619.016300",
-    "parent_user_id": "UFQQ3P867"
+    "parent_user_id": "UFQQ3P867",
+    "channel": "boston"
   },
   {
     "client_msg_id": "7684c954-ae30-43b6-b7e6-bd49f0af396f",
@@ -5377,7 +5533,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "a5ca33eb-14db-4e0d-b96f-ce934d24286d",
@@ -5417,7 +5574,8 @@
       }
     ],
     "thread_ts": "1583268619.016300",
-    "parent_user_id": "UFQQ3P867"
+    "parent_user_id": "UFQQ3P867",
+    "channel": "boston"
   },
   {
     "client_msg_id": "0ce90e57-51e6-4e07-b8e2-f3a313898bf9",
@@ -5457,7 +5615,8 @@
       }
     ],
     "thread_ts": "1583268619.016300",
-    "parent_user_id": "UFQQ3P867"
+    "parent_user_id": "UFQQ3P867",
+    "channel": "boston"
   },
   {
     "client_msg_id": "58636527-5fe7-4813-bd03-e60c5303f161",
@@ -5523,7 +5682,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "f0a3924d-228c-49a6-9c0d-c57facccf33c",
@@ -5570,7 +5730,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "63C70E09-0334-4BF7-9C07-C1299141082D",
@@ -5608,7 +5769,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "AF607C85-A4C0-4F37-9A7E-3970898A925E",
@@ -5650,7 +5812,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "250e83c0-4c77-47a7-9c4f-400c09fc2b1c",
@@ -5708,7 +5871,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "1DFBACC2-5E55-40E1-8AEA-04E4B9E0B9B9",
@@ -5755,7 +5919,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "5a586f4c-d95b-451a-a016-35e56db4892d",
@@ -5793,7 +5958,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "54FE458D-1227-4B43-8BD9-E6257FCE8F2D",
@@ -5842,7 +6008,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "2a5bddc0-3eb1-4306-a8eb-a5286e442c97",
@@ -5880,7 +6047,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "8378F4F7-84EF-4C44-8012-665596C72319",
@@ -5918,7 +6086,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "40F89095-11DF-49B1-BBDB-9E1592AE540E",
@@ -5956,7 +6125,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "CDE3640E-B9A4-45ED-8111-92F92FEC9B68",
@@ -5994,7 +6164,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "4A00A287-BE93-46FC-8454-F72132178CD5",
@@ -6032,7 +6203,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "3639E739-514D-401C-946A-B91BB2821A02",
@@ -6070,7 +6242,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "45f31cdd-cff5-4151-80f9-62afcba98f38",
@@ -6119,7 +6292,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "1b89941d-2a99-48e0-bc93-73628286f6c7",
@@ -6159,7 +6333,8 @@
       }
     ],
     "thread_ts": "1583268619.016300",
-    "parent_user_id": "UFQQ3P867"
+    "parent_user_id": "UFQQ3P867",
+    "channel": "boston"
   },
   {
     "client_msg_id": "e5f510de-34b2-4940-ad0a-b6390adf0173",
@@ -6208,7 +6383,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "boston"
   },
   {
     "client_msg_id": "2754e22b-354c-40c5-bb1c-02b2439340bf",
@@ -6256,6 +6432,7 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "boston"
   }
 ]

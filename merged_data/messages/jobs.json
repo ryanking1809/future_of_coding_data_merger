@@ -4,56 +4,64 @@
     "subtype": "channel_join",
     "ts": "1551440222.000200",
     "user": "U5TCAFTD3",
-    "text": "<@U5TCAFTD3> has joined the channel"
+    "text": "<@U5TCAFTD3> has joined the channel",
+    "channel": "jobs"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551441015.000400",
     "user": "UF6RLAL7J",
-    "text": "<@UF6RLAL7J> has joined the channel"
+    "text": "<@UF6RLAL7J> has joined the channel",
+    "channel": "jobs"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551441024.000600",
     "user": "UFW3LB2KA",
-    "text": "<@UFW3LB2KA> has joined the channel"
+    "text": "<@UFW3LB2KA> has joined the channel",
+    "channel": "jobs"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551441046.000800",
     "user": "UBRS4E6B1",
-    "text": "<@UBRS4E6B1> has joined the channel"
+    "text": "<@UBRS4E6B1> has joined the channel",
+    "channel": "jobs"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551441049.001100",
     "user": "UEKEQGB9C",
-    "text": "<@UEKEQGB9C> has joined the channel"
+    "text": "<@UEKEQGB9C> has joined the channel",
+    "channel": "jobs"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551441077.001700",
     "user": "UEGFXUK3M",
-    "text": "<@UEGFXUK3M> has joined the channel"
+    "text": "<@UEGFXUK3M> has joined the channel",
+    "channel": "jobs"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551441219.001900",
     "user": "UBN9AFS0N",
-    "text": "<@UBN9AFS0N> has joined the channel"
+    "text": "<@UBN9AFS0N> has joined the channel",
+    "channel": "jobs"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551441242.002100",
     "user": "UEG9ECNSU",
-    "text": "<@UEG9ECNSU> has joined the channel"
+    "text": "<@UEG9ECNSU> has joined the channel",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "8e3ac5a6-836e-4ec2-8abf-0439aadd2e59",
@@ -122,91 +130,104 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551441283.002700",
     "user": "UCKRZS3DZ",
-    "text": "<@UCKRZS3DZ> has joined the channel"
+    "text": "<@UCKRZS3DZ> has joined the channel",
+    "channel": "jobs"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551441639.003000",
     "user": "UDRQ4V0CT",
-    "text": "<@UDRQ4V0CT> has joined the channel"
+    "text": "<@UDRQ4V0CT> has joined the channel",
+    "channel": "jobs"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551441693.003200",
     "user": "UF71PR58X",
-    "text": "<@UF71PR58X> has joined the channel"
+    "text": "<@UF71PR58X> has joined the channel",
+    "channel": "jobs"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551441749.003400",
     "user": "UE1JQM9HQ",
-    "text": "<@UE1JQM9HQ> has joined the channel"
+    "text": "<@UE1JQM9HQ> has joined the channel",
+    "channel": "jobs"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551443882.004000",
     "user": "UF5PAGQQ4",
-    "text": "<@UF5PAGQQ4> has joined the channel"
+    "text": "<@UF5PAGQQ4> has joined the channel",
+    "channel": "jobs"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551445686.004300",
     "user": "UC25BN0RW",
-    "text": "<@UC25BN0RW> has joined the channel"
+    "text": "<@UC25BN0RW> has joined the channel",
+    "channel": "jobs"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551451556.004500",
     "user": "U8KUK98QP",
-    "text": "<@U8KUK98QP> has joined the channel"
+    "text": "<@U8KUK98QP> has joined the channel",
+    "channel": "jobs"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551451820.004700",
     "user": "UG91ZQ26P",
-    "text": "<@UG91ZQ26P> has joined the channel"
+    "text": "<@UG91ZQ26P> has joined the channel",
+    "channel": "jobs"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551452047.004900",
     "user": "UBWT66AGN",
-    "text": "<@UBWT66AGN> has joined the channel"
+    "text": "<@UBWT66AGN> has joined the channel",
+    "channel": "jobs"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551453221.005100",
     "user": "U85HCL7JP",
-    "text": "<@U85HCL7JP> has joined the channel"
+    "text": "<@U85HCL7JP> has joined the channel",
+    "channel": "jobs"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551455285.005300",
     "user": "UC21F8Q48",
-    "text": "<@UC21F8Q48> has joined the channel"
+    "text": "<@UC21F8Q48> has joined the channel",
+    "channel": "jobs"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1551457130.005500",
     "user": "UEQG5HC1W",
-    "text": "<@UEQG5HC1W> has joined the channel"
+    "text": "<@UEQG5HC1W> has joined the channel",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "76350e92-7687-457e-b95d-be7902aab917",
@@ -244,7 +265,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "06debb41-a56f-4ea8-a219-35510090de95",
@@ -267,7 +289,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551441260.002300",
-    "parent_user_id": "UBRS4E6B1"
+    "parent_user_id": "UBRS4E6B1",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "96a3d8b6-eb8a-495d-af23-19125ebdb00c",
@@ -326,7 +349,8 @@
       }
     ],
     "thread_ts": "1551441260.002300",
-    "parent_user_id": "UBRS4E6B1"
+    "parent_user_id": "UBRS4E6B1",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "8c562dd8-5fd3-403e-b388-cc149c3e40f0",
@@ -347,7 +371,8 @@
       "name": "steve727",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "jobs"
   },
   {
     "client_msg_id": "daf85520-f488-43b0-ac42-85241146d471",
@@ -378,7 +403,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "a58f10e6-ccea-44ca-bb45-23efcf6f2fa9",
@@ -403,7 +429,8 @@
     "edited": {
       "user": "U5TCAFTD3",
       "ts": "1559226597.000000"
-    }
+    },
+    "channel": "jobs"
   },
   {
     "client_msg_id": "70B43983-47DD-44AE-9C28-656519E768A4",
@@ -448,7 +475,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1562506058.022800"
+    "last_read": "1562506058.022800",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "5e2e8d28-5bd6-474e-86de-5088887249f4",
@@ -487,7 +515,8 @@
         "footer": "Twitter",
         "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "1d85e658-1f5d-46a1-98f8-d5f1cc4e7cdc",
@@ -522,7 +551,8 @@
         "ts": "1560374091.020200"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "jobs"
   },
   {
     "client_msg_id": "2eda991c-9b7f-4491-900e-a91c0f0189cd",
@@ -572,7 +602,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "985C9EFE-6D6A-4CC9-A096-D1C326B61B64",
@@ -595,7 +626,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1559575711.007300",
-    "parent_user_id": "U7PH857FB"
+    "parent_user_id": "U7PH857FB",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "8e82ffe0-c01f-4871-b751-654c4640c5f4",
@@ -618,7 +650,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1559292170.005800",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "a99ea3e9-47f5-438b-8c08-326f796b87ed",
@@ -641,7 +674,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1559292170.005800",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "916476df-87fc-4b13-a548-3fc6f16f0933",
@@ -673,7 +707,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "7e4dffce-eb55-4c94-bb83-536438d38e90",
@@ -727,7 +762,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1563653757.000100"
+    "last_read": "1563653757.000100",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "09dac6d5-cb6a-4bee-b7aa-c457976e1daa",
@@ -750,7 +786,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1563295343.025600",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "D6B4CB6C-F263-4D27-A752-D5098915D76D",
@@ -773,7 +810,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1563295343.025600",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "328a2758-4321-4a34-b72d-f204c4074bf4",
@@ -805,7 +843,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "ccb95c64-52ea-4595-9995-6f03dfc38ed4",
@@ -828,7 +867,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1563295343.025600",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "94313512-d98f-46b0-98c0-9defd4645afd",
@@ -872,7 +912,8 @@
         "ts": "1566863975.009400"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "jobs"
   },
   {
     "client_msg_id": "efcb59eb-aed5-47d5-83d2-2a947d610af0",
@@ -910,7 +951,8 @@
         "id": 1,
         "original_url": "https://www.facebook.com/careers/jobs?q=compiler"
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "28db482c-31b7-4adf-a631-d11fd41303f1",
@@ -931,7 +973,8 @@
       "name": "scottan",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "jobs"
   },
   {
     "client_msg_id": "05f00af2-af6c-479c-a38a-9097b39ad5fb",
@@ -952,7 +995,8 @@
       "name": "scottan",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "jobs"
   },
   {
     "client_msg_id": "60573290-9664-4582-95ab-45140d878a96",
@@ -975,7 +1019,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1564606174.003700",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "C06B0C9E-4E75-4E2D-AAE4-2A24E03AEEB5",
@@ -998,7 +1043,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1564606174.003700",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "4c6b8d0f-b733-43fb-90da-58177d1a68d6",
@@ -1036,7 +1082,8 @@
         "id": 1,
         "original_url": "https://www.keyvalues.com/airtable"
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "318482d3-860e-4eb8-a2fe-59dd1b77edae",
@@ -1074,7 +1121,8 @@
         "id": 1,
         "original_url": "https://idealist.applytojob.com/apply/LsZ3X1EV22/FrontEnd-Developer"
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "15572de9-c18e-4f44-a34c-6b243390f5e7",
@@ -1110,7 +1158,8 @@
         "id": 1,
         "original_url": "https://angel.co/company/appsheet/jobs/360190-software-developer-data-machine-learning"
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "afa692b6-af13-4086-97bb-026f26fdeeba",
@@ -1131,7 +1180,8 @@
       "name": "afader",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "jobs"
   },
   {
     "client_msg_id": "5312c87f-b0f1-4e03-abaa-00a31fad8339",
@@ -1185,7 +1235,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "61796C1C-2D6A-452B-BF1D-96CF75529ED3",
@@ -1208,7 +1259,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571786704.008800",
-    "parent_user_id": "UHYC3BA4X"
+    "parent_user_id": "UHYC3BA4X",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "20375A90-2490-49E3-A2CA-D790191A96B3",
@@ -1240,7 +1292,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "1b3db911-f269-4a01-ad61-11d556fdae4c",
@@ -1263,7 +1316,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571786704.008800",
-    "parent_user_id": "UHYC3BA4X"
+    "parent_user_id": "UHYC3BA4X",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "3619f7ca-6b24-4b48-b4e3-190b6c262634",
@@ -1490,7 +1544,8 @@
         ],
         "count": 5
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "5c17a667-bb96-4029-afdc-ffdffa5dcced",
@@ -1530,7 +1585,8 @@
       }
     ],
     "thread_ts": "1575859605.026500",
-    "parent_user_id": "U85HCL7JP"
+    "parent_user_id": "U85HCL7JP",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "4db9fa57-128f-4464-b5a1-187ab32234bc",
@@ -1574,7 +1630,8 @@
       }
     ],
     "thread_ts": "1575859605.026500",
-    "parent_user_id": "U85HCL7JP"
+    "parent_user_id": "U85HCL7JP",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "0E34BD7C-5D13-4C8B-A788-CACF46E75888",
@@ -1597,7 +1654,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1575859605.026500",
-    "parent_user_id": "U85HCL7JP"
+    "parent_user_id": "U85HCL7JP",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "06877490-691a-4afd-8e34-a4e2a462f68a",
@@ -1653,7 +1711,8 @@
       }
     ],
     "thread_ts": "1575859605.026500",
-    "parent_user_id": "U85HCL7JP"
+    "parent_user_id": "U85HCL7JP",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "82fe7a88-1499-47b6-9ab5-2caf6f1bb859",
@@ -1728,7 +1787,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "E81D6EE0-0F4B-4AE4-B072-587983930A1F",
@@ -1751,7 +1811,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1575859605.026500",
-    "parent_user_id": "U85HCL7JP"
+    "parent_user_id": "U85HCL7JP",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "8a4b61eb-0fb1-4cb3-b470-f885fdb2be87",
@@ -1813,7 +1874,8 @@
       }
     ],
     "thread_ts": "1575859605.026500",
-    "parent_user_id": "U85HCL7JP"
+    "parent_user_id": "U85HCL7JP",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "54955a13-ad5f-4b15-9468-9d10aa41e235",
@@ -1857,7 +1919,8 @@
       }
     ],
     "thread_ts": "1575859605.026500",
-    "parent_user_id": "U85HCL7JP"
+    "parent_user_id": "U85HCL7JP",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "79217b43-60b5-4ff9-ac35-6167ccd4f969",
@@ -1914,7 +1977,8 @@
         "ts": "1576553218.001800"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "jobs"
   },
   {
     "client_msg_id": "8483916e-f858-4430-be04-d890cb5f99f2",
@@ -1954,7 +2018,8 @@
       }
     ],
     "thread_ts": "1576175335.032000",
-    "parent_user_id": "UE3KC0VK6"
+    "parent_user_id": "UE3KC0VK6",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "B8F2BF7D-8F6D-4FF2-BBAE-B2FE97D4DF91",
@@ -1994,7 +2059,8 @@
       }
     ],
     "thread_ts": "1576175335.032000",
-    "parent_user_id": "UE3KC0VK6"
+    "parent_user_id": "UE3KC0VK6",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "0F6486A8-D675-473D-A369-2250AB492645",
@@ -2070,7 +2136,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "915a7cf0-8d3a-4c4e-a3c6-d8bc7c17ce00",
@@ -2110,7 +2177,8 @@
       }
     ],
     "thread_ts": "1578001619.001900",
-    "parent_user_id": "UJUGB1XGD"
+    "parent_user_id": "UJUGB1XGD",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "c3154a06-f305-4e6e-a590-44532cdff545",
@@ -2172,7 +2240,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "a3ab6b1a-ef8f-4454-9e70-977808ffb0be",
@@ -2227,7 +2296,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "de518f74-55de-4cab-8196-261b651284bc",
@@ -2330,7 +2400,8 @@
         "ts": "1579287833.000300"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "jobs"
   },
   {
     "client_msg_id": "9e8d84ba-e8bf-49ca-993e-6f6ec57f7d22",
@@ -2374,7 +2445,8 @@
       }
     ],
     "thread_ts": "1579129118.004600",
-    "parent_user_id": "UGMH4H202"
+    "parent_user_id": "UGMH4H202",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "bece29cf-005a-4580-a45e-0929159c596b",
@@ -2424,7 +2496,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "1D9DCF1C-F73B-4BE5-839A-963DF1045576",
@@ -2473,7 +2546,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "21360091-5359-47fa-8f94-99d279e459da",
@@ -2517,7 +2591,8 @@
       }
     ],
     "thread_ts": "1579129118.004600",
-    "parent_user_id": "UGMH4H202"
+    "parent_user_id": "UGMH4H202",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "98df3b5c-9c7f-412b-b999-21fb74421474",
@@ -2565,7 +2640,8 @@
       }
     ],
     "thread_ts": "1579129118.004600",
-    "parent_user_id": "UGMH4H202"
+    "parent_user_id": "UGMH4H202",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "6ed4d39b-2cb7-4b13-a298-9243f50fadec",
@@ -2618,7 +2694,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "0ece1a75-af1a-40b7-8a72-eacfdec4c19a",
@@ -2667,7 +2744,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "69140d31-89b1-4f1c-8545-fb99ffc8e4a2",
@@ -2734,7 +2812,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "6689cee0-ad53-48e5-9b68-d91e0014257c",
@@ -2780,7 +2859,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "638a27f7-7bc1-45b2-a3b2-6ca229e54f97",
@@ -2846,7 +2926,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "6c739526-768d-4851-aff9-4fc697fe4b45",
@@ -2925,7 +3006,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "6bb05070-fe5a-460b-8ea7-fe1354d4705b",
@@ -3022,7 +3104,8 @@
         ],
         "count": 20
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "b6e09826-1769-4cb2-884f-122d06a9bab7",
@@ -3066,7 +3149,8 @@
       }
     ],
     "thread_ts": "1582329424.011600",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "192c90c8-a167-4e05-9ec2-4215c6c8e6b2",
@@ -3110,7 +3194,8 @@
       }
     ],
     "thread_ts": "1582329424.011600",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "cda930b8-a178-4d8e-b398-a810f7369797",
@@ -3167,7 +3252,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "185a1ea2-2aa2-4dfd-9c7d-38f2b9a9c0b2",
@@ -3236,7 +3322,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "d1124cef-0401-4fe6-a952-cfb3b271039a",
@@ -3348,7 +3435,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "31b7ce05-33a8-4ab3-b34a-b002c728bbaa",
@@ -3396,7 +3484,8 @@
       }
     ],
     "thread_ts": "1583958621.004700",
-    "parent_user_id": "UMLAFGFH6"
+    "parent_user_id": "UMLAFGFH6",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "598D49ED-67F5-48F7-862F-47F650B650CF",
@@ -3452,7 +3541,8 @@
       }
     ],
     "thread_ts": "1583958621.004700",
-    "parent_user_id": "UMLAFGFH6"
+    "parent_user_id": "UMLAFGFH6",
+    "channel": "jobs"
   },
   {
     "type": "message",
@@ -3532,7 +3622,8 @@
         "ts": "1587403021.002200"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "jobs"
   },
   {
     "client_msg_id": "3497eff6-a94f-4e35-aac6-7202541adf8f",
@@ -3648,7 +3739,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "24a831d9-d7f5-4ea9-91fe-7f69bb5130b8",
@@ -3688,7 +3780,8 @@
       }
     ],
     "thread_ts": "1583958621.004700",
-    "parent_user_id": "UMLAFGFH6"
+    "parent_user_id": "UMLAFGFH6",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "24e6f17c-c8e7-4b5f-8f40-5a0bbab4bfef",
@@ -3728,7 +3821,8 @@
       }
     ],
     "thread_ts": "1584496538.009200",
-    "parent_user_id": "UN96FUF39"
+    "parent_user_id": "UN96FUF39",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "e1cde7f6-2e56-4b29-8de2-d149ea32f901",
@@ -3768,7 +3862,8 @@
       }
     ],
     "thread_ts": "1584496538.009200",
-    "parent_user_id": "UN96FUF39"
+    "parent_user_id": "UN96FUF39",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "00520e99-0419-49f9-80f4-949fa6798693",
@@ -3860,7 +3955,8 @@
         "ts": "1587682347.003300"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "jobs"
   },
   {
     "client_msg_id": "9f8a6ca0-19cc-485b-b1ec-922d90fee18f",
@@ -3900,7 +3996,8 @@
       }
     ],
     "thread_ts": "1587656763.002500",
-    "parent_user_id": "UMLAFGFH6"
+    "parent_user_id": "UMLAFGFH6",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "336e964f-f1f8-4ff3-b273-f70a299c8d9d",
@@ -3948,7 +4045,8 @@
       }
     ],
     "thread_ts": "1587656763.002500",
-    "parent_user_id": "UMLAFGFH6"
+    "parent_user_id": "UMLAFGFH6",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "48c1a01c-0238-4a39-8618-cf465df0ba7d",
@@ -3988,7 +4086,8 @@
       }
     ],
     "thread_ts": "1587656763.002500",
-    "parent_user_id": "UMLAFGFH6"
+    "parent_user_id": "UMLAFGFH6",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "4a3d5323-d0eb-466d-abe8-7cc4c8bded24",
@@ -4028,7 +4127,8 @@
       }
     ],
     "thread_ts": "1587656763.002500",
-    "parent_user_id": "UMLAFGFH6"
+    "parent_user_id": "UMLAFGFH6",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "a9cbc034-e600-488e-bf98-e29de8d02c94",
@@ -4123,7 +4223,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "591e2d51-cecc-4414-81e7-b37f07a15da2",
@@ -4179,7 +4280,8 @@
         "ts": "1591145526.007700"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "jobs"
   },
   {
     "client_msg_id": "4769c4c3-a460-49b5-8662-2ec951df8972",
@@ -4219,7 +4321,8 @@
       }
     ],
     "thread_ts": "1591116468.007600",
-    "parent_user_id": "U013HU44GLS"
+    "parent_user_id": "U013HU44GLS",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "22427fa4-a606-4716-b623-ac6b963b6827",
@@ -4318,7 +4421,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "821b899b-5bba-4d85-89ca-5ee8b259dea3",
@@ -4358,7 +4462,8 @@
       }
     ],
     "thread_ts": "1591641291.008400",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "f5b8aedc-06c7-4db0-a543-b02f98a03a34",
@@ -4398,7 +4503,8 @@
       }
     ],
     "thread_ts": "1591641291.008400",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "41DBB4E2-8CC8-4318-BFE7-1C59815D0239",
@@ -4447,7 +4553,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "3a06b124-711c-4086-bf41-2cb71bcba423",
@@ -4487,7 +4594,8 @@
       }
     ],
     "thread_ts": "1591641291.008400",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "e0cc2513-27cd-40ae-b19f-e5c1d56499d8",
@@ -4552,7 +4660,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "399f35f7-abc6-4437-a3db-fdb1a5874686",
@@ -4592,7 +4701,8 @@
       }
     ],
     "thread_ts": "1591641291.008400",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "3668b5f8-41c7-4b2f-b91e-a00ed947d9a8",
@@ -4640,7 +4750,8 @@
       }
     ],
     "thread_ts": "1591641291.008400",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "8674b673-dd64-40c6-91f3-5a62b68cba85",
@@ -4708,7 +4819,8 @@
         "ts": "1592242377.012800"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "jobs"
   },
   {
     "client_msg_id": "03b09bbe-370e-40a7-9bc4-58c6956a3672",
@@ -4748,7 +4860,8 @@
       }
     ],
     "thread_ts": "1592235601.012500",
-    "parent_user_id": "UJK8MKYAZ"
+    "parent_user_id": "UJK8MKYAZ",
+    "channel": "jobs"
   },
   {
     "client_msg_id": "46c941c1-90dc-46b8-8768-2b4f68d517df",
@@ -4797,7 +4910,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "jobs"
   },
   {
     "client_msg_id": "bce5c43b-dbbd-41af-975e-54927d7e9d98",
@@ -4874,6 +4988,7 @@
         ],
         "count": 5
       }
-    ]
+    ],
+    "channel": "jobs"
   }
 ]

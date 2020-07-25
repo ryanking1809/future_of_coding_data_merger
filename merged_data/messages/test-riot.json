@@ -4,7 +4,8 @@
     "subtype": "channel_join",
     "ts": "1545303050.000200",
     "user": "U5TCAFTD3",
-    "text": "<@U5TCAFTD3> has joined the channel"
+    "text": "<@U5TCAFTD3> has joined the channel",
+    "channel": "test-riot"
   },
   {
     "type": "message",
@@ -12,7 +13,8 @@
     "ts": "1545303093.000500",
     "user": "U5U4S45HC",
     "text": "<@U5U4S45HC> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "test-riot"
   },
   {
     "type": "message",
@@ -20,7 +22,8 @@
     "ts": "1545303101.000800",
     "user": "U8A5MS6R1",
     "text": "<@U8A5MS6R1> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "test-riot"
   },
   {
     "type": "message",
@@ -28,7 +31,8 @@
     "text": "can you read me?",
     "ts": "1545303169.000900",
     "username": "stevekrouse",
-    "bot_id": "BEYLABLRH"
+    "bot_id": "BEYLABLRH",
+    "channel": "test-riot"
   },
   {
     "client_msg_id": "842ab69e-45dc-48b9-87fe-1348730edf96",
@@ -49,7 +53,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "test-riot"
   },
   {
     "client_msg_id": "22aca5ee-d4c0-4047-9e26-1977b3425237",
@@ -70,7 +75,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "test-riot"
   },
   {
     "client_msg_id": "36def7d4-a89c-482a-a635-218a73f85b15",
@@ -91,7 +97,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "test-riot"
   },
   {
     "type": "message",
@@ -99,13 +106,15 @@
     "text": "this still work?",
     "ts": "1545303337.001800",
     "username": "stevekrouse",
-    "bot_id": "BEYLABLRH"
+    "bot_id": "BEYLABLRH",
+    "channel": "test-riot"
   },
   {
     "type": "message",
     "subtype": "channel_archive",
     "ts": "1545306325.001900",
     "user": "U5TCAFTD3",
-    "text": "<@U5TCAFTD3> archived the channel"
+    "text": "<@U5TCAFTD3> archived the channel",
+    "channel": "test-riot"
   }
 ]

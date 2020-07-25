@@ -39,7 +39,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "socal"
   },
   {
     "type": "message",
@@ -47,20 +48,23 @@
     "ts": "1588701652.000100",
     "user": "USH01JEDQ",
     "text": "<@USH01JEDQ> set the channel purpose: California Central Coast, LA, San Diego, points in between",
-    "purpose": "California Central Coast, LA, San Diego, points in between"
+    "purpose": "California Central Coast, LA, San Diego, points in between",
+    "channel": "socal"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1589631648.000200",
     "user": "UP3FH4CLU",
-    "text": "<@UP3FH4CLU> has joined the channel"
+    "text": "<@UP3FH4CLU> has joined the channel",
+    "channel": "socal"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1593621401.000200",
     "user": "UMV27D4V9",
-    "text": "<@UMV27D4V9> has joined the channel"
+    "text": "<@UMV27D4V9> has joined the channel",
+    "channel": "socal"
   }
 ]

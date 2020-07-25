@@ -4,7 +4,8 @@
     "subtype": "channel_join",
     "ts": "1562506531.000200",
     "user": "U5TCAFTD3",
-    "text": "<@U5TCAFTD3> has joined the channel"
+    "text": "<@U5TCAFTD3> has joined the channel",
+    "channel": "robust-computation"
   },
   {
     "type": "message",
@@ -12,7 +13,8 @@
     "ts": "1562506531.000400",
     "user": "UJFN50C00",
     "text": "<@UJFN50C00> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "robust-computation"
   },
   {
     "type": "message",
@@ -20,7 +22,8 @@
     "ts": "1562506531.000600",
     "user": "UEGFXUK3M",
     "text": "<@UEGFXUK3M> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "robust-computation"
   },
   {
     "type": "message",
@@ -28,7 +31,8 @@
     "ts": "1562506531.000800",
     "user": "UCUSW7WVD",
     "text": "<@UCUSW7WVD> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "robust-computation"
   },
   {
     "type": "message",
@@ -36,7 +40,8 @@
     "ts": "1562506531.001000",
     "user": "UBSMEUXAA",
     "text": "<@UBSMEUXAA> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "robust-computation"
   },
   {
     "type": "message",
@@ -44,7 +49,8 @@
     "ts": "1562506531.001200",
     "user": "UJUGB1XGD",
     "text": "<@UJUGB1XGD> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "robust-computation"
   },
   {
     "type": "message",
@@ -52,7 +58,8 @@
     "ts": "1562506532.001400",
     "user": "UKVP5FY9J",
     "text": "<@UKVP5FY9J> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "robust-computation"
   },
   {
     "type": "message",
@@ -60,7 +67,8 @@
     "ts": "1562506532.001600",
     "user": "UKLV35EEM",
     "text": "<@UKLV35EEM> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "robust-computation"
   },
   {
     "type": "message",
@@ -68,7 +76,8 @@
     "ts": "1562506532.001800",
     "user": "UE6EFEPTQ",
     "text": "<@UE6EFEPTQ> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "robust-computation"
   },
   {
     "type": "message",
@@ -76,7 +85,8 @@
     "ts": "1562506532.002000",
     "user": "UHWC9PXBL",
     "text": "<@UHWC9PXBL> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "robust-computation"
   },
   {
     "type": "message",
@@ -84,7 +94,8 @@
     "ts": "1562506532.002200",
     "user": "UJCHWTMH6",
     "text": "<@UJCHWTMH6> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "robust-computation"
   },
   {
     "type": "message",
@@ -92,7 +103,8 @@
     "ts": "1562506532.002400",
     "user": "UFV8P4472",
     "text": "<@UFV8P4472> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "7328251e-4e9d-489e-806b-7b86a262c031",
@@ -113,7 +125,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "dd384de3-eada-4e8e-89bd-3e8b631f3ee9",
@@ -176,7 +189,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "B098519A-C2A4-4EAC-9E84-5A9960AC98B1",
@@ -217,14 +231,16 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "robust-computation"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1562579379.005600",
     "user": "UF6RLAL7J",
-    "text": "<@UF6RLAL7J> has joined the channel"
+    "text": "<@UF6RLAL7J> has joined the channel",
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "c1acd929-1384-4b8c-9430-1b7227a87dc0",
@@ -245,7 +261,8 @@
       "name": "walpolea",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "type": "message",
@@ -261,14 +278,16 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "robust-computation"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1562690971.011600",
     "user": "ULAUND92T",
-    "text": "<@ULAUND92T> has joined the channel"
+    "text": "<@ULAUND92T> has joined the channel",
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "A9B98008-C8E1-4A3E-87FA-75AB29DCC2CB",
@@ -299,7 +318,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "04791f5e-e36b-4c6a-b5c3-85905e4e6e8f",
@@ -330,7 +350,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "73522db1-54c5-4a40-aa67-79c8574cde9a",
@@ -351,7 +372,8 @@
       "name": "antoham",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "2B305F74-BE06-4730-AC3B-55A4542078A9",
@@ -376,35 +398,40 @@
     "edited": {
       "user": "UKXLUEA59",
       "ts": "1562693364.000000"
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1562693393.018500",
     "user": "UJK8MKYAZ",
-    "text": "<@UJK8MKYAZ> has joined the channel"
+    "text": "<@UJK8MKYAZ> has joined the channel",
+    "channel": "robust-computation"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1562693411.018700",
     "user": "U5STGTB3J",
-    "text": "<@U5STGTB3J> has joined the channel"
+    "text": "<@U5STGTB3J> has joined the channel",
+    "channel": "robust-computation"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1562696775.018900",
     "user": "UK69SS8LB",
-    "text": "<@UK69SS8LB> has joined the channel"
+    "text": "<@UK69SS8LB> has joined the channel",
+    "channel": "robust-computation"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1562702318.019200",
     "user": "UDHAKT0P3",
-    "text": "<@UDHAKT0P3> has joined the channel"
+    "text": "<@UDHAKT0P3> has joined the channel",
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "395116fe-6b6c-484a-826f-7f05b7675752",
@@ -425,7 +452,8 @@
       "name": "scottan",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "481b2048-d00f-4501-8ff2-0bdcc091d0a3",
@@ -446,7 +474,8 @@
       "name": "antoham",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "35270508-d9b9-4f24-a787-7a8a003c18aa",
@@ -476,14 +505,16 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "robust-computation"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1562721405.021900",
     "user": "UCGAK10LS",
-    "text": "<@UCGAK10LS> has joined the channel"
+    "text": "<@UCGAK10LS> has joined the channel",
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "dc96b7cf-6f0b-42b1-a0c2-20c01b70b92a",
@@ -504,7 +535,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "51856b82-ddb8-4d7c-a595-54354781fdda",
@@ -525,7 +557,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "75dd035e-164a-41c1-8bbc-de440b6b1a9a",
@@ -546,7 +579,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "bdadb8d4-1629-403a-9750-97ada73df40c",
@@ -598,7 +632,8 @@
         "ts": "1563244874.128300"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "75304292-0562-4c39-8194-5a83fbd120c2",
@@ -619,7 +654,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "6e155308-3b75-46d5-afb4-cac4578340e2",
@@ -653,7 +689,8 @@
         "id": 1,
         "original_url": "https://www.reddit.com/r/alife/comments/61nfy2/questions_for_dave_ackley/"
       }
-    ]
+    ],
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "de256d5c-d3c3-4f9d-bba8-af112931e485",
@@ -696,7 +733,8 @@
         "ts": "1562981313.058700"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "044ffc46-2970-495d-a6bc-5c2c3789e684",
@@ -717,7 +755,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "6951855c-724e-4bb1-9ec2-1d6e0db1e483",
@@ -738,7 +777,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "f07937c2-8fec-41d0-ad5d-0324ade4eefb",
@@ -759,7 +799,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "499b8f00-a60a-49c0-a62e-2f7c932129c9",
@@ -780,7 +821,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "48c7c3bb-25a2-4750-aa36-b3805a759298",
@@ -801,7 +843,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "ce3e5550-c08d-4bf6-b4c6-04eb70c737e2",
@@ -822,7 +865,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "03010fed-393c-488b-a2aa-81663203c324",
@@ -847,7 +891,8 @@
     "edited": {
       "user": "UKVP5FY9J",
       "ts": "1562870078.000000"
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "100f6408-1ad7-4a9f-bc14-be4698d57cd3",
@@ -870,7 +915,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562858683.026800",
-    "parent_user_id": "UJFN50C00"
+    "parent_user_id": "UJFN50C00",
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "841682f6-0a88-4c5d-85ae-ea7b849b8d76",
@@ -893,7 +939,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562858683.026800",
-    "parent_user_id": "UJFN50C00"
+    "parent_user_id": "UJFN50C00",
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "cd5816b7-f32b-47ba-b5c5-8044e23961b4",
@@ -916,7 +963,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562858683.026800",
-    "parent_user_id": "UJFN50C00"
+    "parent_user_id": "UJFN50C00",
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "e359023a-7070-4810-94ff-4fd140b48182",
@@ -939,7 +987,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562858504.025000",
-    "parent_user_id": "UJFN50C00"
+    "parent_user_id": "UJFN50C00",
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "0dde2416-6dc8-4c8b-a506-d1711cfcdbd5",
@@ -962,7 +1011,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562858504.025000",
-    "parent_user_id": "UJFN50C00"
+    "parent_user_id": "UJFN50C00",
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "e6f4b188-931b-448c-91f5-60f5e2bc0cb4",
@@ -985,7 +1035,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562858504.025000",
-    "parent_user_id": "UJFN50C00"
+    "parent_user_id": "UJFN50C00",
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "8b234729-bf91-46b5-a70c-e6aa623b1e35",
@@ -1006,7 +1057,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "9a4eb684-203d-4a04-8efd-e28ec4933b88",
@@ -1027,7 +1079,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "c9f9fcc8-d509-4a80-955e-c1d4ee61c087",
@@ -1069,7 +1122,8 @@
         "id": 1,
         "original_url": "https://youtu.be/0j6CEd1tpA8?t=2879"
       }
-    ]
+    ],
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "5f30136c-6a08-4a62-9c9c-46e960f83ba8",
@@ -1090,7 +1144,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "2ac62c98-e442-4002-9885-c740473b279a",
@@ -1111,7 +1166,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "14183fdf-551f-401d-a21a-3d99203c8270",
@@ -1153,7 +1209,8 @@
         "id": 1,
         "original_url": "https://youtu.be/prIwpKL57dM?t=1202"
       }
-    ]
+    ],
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "a7558e54-3eff-4b49-be33-17539a2e3173",
@@ -1174,7 +1231,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "02630258-6c19-43f7-aaa9-03dd8d816407",
@@ -1195,7 +1253,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "34bc8bf8-2e9c-4441-b90a-8fd5369f2a4b",
@@ -1216,7 +1275,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "87712498-7eac-484e-9da1-68c7632e1164",
@@ -1237,7 +1297,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "f02e862e-23cb-4f06-a928-8ee48210a0d2",
@@ -1258,7 +1319,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "afb0139f-17f3-42d9-a02c-8afe3b1b4dd2",
@@ -1300,7 +1362,8 @@
         "id": 1,
         "original_url": "https://youtu.be/YyIQKBzIuBY?t=646"
       }
-    ]
+    ],
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "bdbf1be5-1280-48bf-acb6-78fe458da589",
@@ -1335,7 +1398,8 @@
         "ts": "1563187306.079200"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "178175c8-903b-4c93-97ba-e95d9b5a380d",
@@ -1356,7 +1420,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "b942527a-2cbe-460f-9f9d-91a7567c091d",
@@ -1377,7 +1442,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "3042fb0b-9415-4f9c-bbab-02f678fad138",
@@ -1398,7 +1464,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "420a6d97-2d7c-4a5f-a644-898f9ac1f8a9",
@@ -1419,7 +1486,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "b36a262f-1b96-4467-ae3b-6665f93cdc80",
@@ -1440,7 +1508,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "a4f399fa-4302-4baa-a2ca-09359e0616de",
@@ -1461,7 +1530,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "8ce9976d-4b1b-4dce-aaee-b9c46d983bab",
@@ -1482,7 +1552,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "83ba8d1e-50e2-4489-b41d-52dccd31144d",
@@ -1503,7 +1574,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "35b3841d-c7c0-4185-9fa7-be503863225a",
@@ -1524,7 +1596,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "6762dc65-26ea-4aa8-8ae3-b28591a8ee59",
@@ -1545,7 +1618,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "201a03d8-3511-407b-96fb-58abffd0ce5a",
@@ -1568,7 +1642,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1563187046.072900",
-    "parent_user_id": "UKLV35EEM"
+    "parent_user_id": "UKLV35EEM",
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "9b0f4bcd-c297-478b-9829-fb9a0361c5b3",
@@ -1589,7 +1664,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "496f5fcc-6c7f-401a-b1e0-91177000bebc",
@@ -1610,7 +1686,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "42001756-3a06-49f2-aa7b-29f806af0782",
@@ -1631,7 +1708,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "a82dbf66-f6d2-475e-83cc-44f11140514b",
@@ -1652,7 +1730,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "53f3ee42-6a0f-437c-8d36-0be1c1aa0ea5",
@@ -1673,7 +1752,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "170e64f4-f7fb-4163-a7e4-68dd1b470b6e",
@@ -1694,7 +1774,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "c8079b38-dc5c-4dac-bda3-69feccc712a6",
@@ -1715,7 +1796,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "fd02bda6-e6c1-43ab-a420-2aa01cf90cc1",
@@ -1736,7 +1818,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "c0afad1a-d5bf-4ff6-9648-8cfba7f26d89",
@@ -1757,7 +1840,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "4c0698a9-1c6c-4582-9e76-ae65711eccfe",
@@ -1778,7 +1862,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "87d6076f-f48a-4108-b349-fab5d33d7659",
@@ -1799,7 +1884,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "b8e61c07-a72f-4afd-a365-caa95f1bcffa",
@@ -1820,7 +1906,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "89a49edd-4aa4-4729-9dc4-0376d390a06b",
@@ -1841,7 +1928,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "b0a2699e-f7b1-4bd4-be1e-18f3c307f4f8",
@@ -1862,7 +1950,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "644fdf7a-c4d3-4697-af27-5982efc4a0f0",
@@ -1883,7 +1972,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "bd7dc99b-61ae-4417-9784-2bc0cc06b538",
@@ -1904,7 +1994,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "d6bba6fa-a866-4996-b160-c9a4ae5e277f",
@@ -1925,7 +2016,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "888861aa-16a7-4f31-a1ae-ec0d5d98bdd2",
@@ -1946,7 +2038,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "bcd7f45e-1f8b-474c-8cd9-6d3019527e39",
@@ -1967,7 +2060,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "9bb14bd2-741b-4d11-8ca7-f26125817dad",
@@ -1988,7 +2082,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "ad69d831-6f5a-419d-9e83-e60a9545c776",
@@ -2009,7 +2104,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "a8445476-3799-4470-bd13-16123919c8cd",
@@ -2030,7 +2126,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "298e740f-e935-497b-adf2-007f23a3f91d",
@@ -2051,7 +2148,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "d0864bc8-7f1f-4fa3-bb8f-eab1ce54c5bf",
@@ -2072,7 +2170,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "568e33da-701e-4a4a-9340-7257d8a70fca",
@@ -2093,7 +2192,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "43e631f1-b496-440f-a3e3-ff3373fccb0f",
@@ -2114,7 +2214,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "a3b2720e-0126-47f9-ace1-290d3632744e",
@@ -2144,7 +2245,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "48384993-52dc-4204-97a0-3c05c600235e",
@@ -2165,7 +2267,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "d1879e69-3119-480a-a063-bbdf9f784ede",
@@ -2186,7 +2289,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "7030999b-c142-4197-b56e-5c0e352ed9c3",
@@ -2207,7 +2311,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "9f8155f1-c089-41a4-bad2-9371d01198d3",
@@ -2228,7 +2333,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "907d5125-3da8-4615-b1c7-d2adad4b974a",
@@ -2249,7 +2355,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "b103ab72-b644-4e7f-aa39-2e998f8d5817",
@@ -2270,7 +2377,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "bee6a1e0-450e-4971-89be-61acba7cf61c",
@@ -2291,7 +2399,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "3f757f35-eb63-4b5f-a2e7-d7da39711293",
@@ -2312,7 +2421,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "63d4b030-1196-4477-911b-0ff81e375b51",
@@ -2337,7 +2447,8 @@
     "edited": {
       "user": "UKLV35EEM",
       "ts": "1563187953.000000"
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "3db4bc97-c0e7-441a-985b-d95ec18774af",
@@ -2358,7 +2469,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "d310d950-747c-4909-aaf6-f144575c0593",
@@ -2395,7 +2507,8 @@
         "id": 1,
         "original_url": "https://dynamicland.org/"
       }
-    ]
+    ],
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "a3f45d5a-b239-4928-8158-8617d998e407",
@@ -2416,7 +2529,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "6c2ef56e-6c72-4ce2-980b-9363784cd213",
@@ -2437,7 +2551,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "39f819c8-d371-4ae7-a831-5c4048ad5502",
@@ -2458,7 +2573,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "5c69f0d2-9a25-472a-8c70-370db51d0d76",
@@ -2479,7 +2595,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "c6e8252d-2f76-4954-b89f-36af5ed8e2e4",
@@ -2500,7 +2617,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "9aa20494-2736-4394-906b-f352442b347c",
@@ -2521,7 +2639,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "17a70653-355d-4c36-b2a2-0a56fe299dda",
@@ -2542,7 +2661,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "bfbbb31f-5d09-4776-96f7-67d880667928",
@@ -2563,7 +2683,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "c52b0c17-dc04-40e4-81e1-dae822b94cc4",
@@ -2594,7 +2715,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "6d297859-c49d-4101-b44c-75791bbeb564",
@@ -2615,7 +2737,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "d6e828cf-5f91-46b4-9942-19fd5c90a854",
@@ -2636,7 +2759,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "5a190d8a-e64d-4ec6-8977-fd0cd049b98d",
@@ -2657,7 +2781,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "58614826-4902-4b04-85ed-f3e762e489d9",
@@ -2678,7 +2803,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "53ffc8d9-fba0-4adc-97d2-fe5da6ec5f3a",
@@ -2699,7 +2825,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "1ff426fa-060f-482c-a13f-41782fba420a",
@@ -2720,7 +2847,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "156d6d17-304b-4c37-ae28-be44e61a3cd8",
@@ -2741,7 +2869,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "d059b767-0dbb-4ccc-8c34-0bb6cdd68324",
@@ -2762,7 +2891,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "5bd61626-11d8-46f8-b2cc-e01890206553",
@@ -2783,7 +2913,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "98c4dd98-6ffa-4356-91a1-b0723a346840",
@@ -2804,7 +2935,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "31f751ba-03ca-43f9-a408-80728c67f0a7",
@@ -2825,7 +2957,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "14bcc3d9-4002-4867-8edf-bd4fd318d3e7",
@@ -2846,7 +2979,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "a7831011-a23e-4f86-a905-c8aef654da36",
@@ -2867,7 +3001,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "4656decf-37b4-4aea-a843-78be302c8151",
@@ -2888,7 +3023,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "6d699755-c26c-4539-8420-c6284735ddc1",
@@ -2909,7 +3045,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "7855f41b-fca6-4612-9f01-16f2c772884d",
@@ -2930,7 +3067,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "84879bf1-9081-4244-97dd-990c0a283438",
@@ -2951,7 +3089,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "e254589f-147d-4dcd-a0b3-11709df4ef46",
@@ -2972,7 +3111,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "6842de08-cf69-4ad9-b4ce-1f993f132059",
@@ -2993,7 +3133,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "8531cb5a-bcfe-4390-8218-af5d7def5dd0",
@@ -3014,7 +3155,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "b85503ab-c1a5-4b16-87ea-210f1c7a18b0",
@@ -3035,7 +3177,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "db3c0142-fe15-49b7-8d1b-3a133fe9e2d0",
@@ -3056,7 +3199,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "eaf8f296-2e2f-4b47-9f18-5097bbd86439",
@@ -3077,7 +3221,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "3f8e2132-b7a7-4a95-bc03-54304fc300a0",
@@ -3098,7 +3243,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "90dda0f2-7db4-4b58-bd6d-d391e97381bf",
@@ -3119,7 +3265,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "fdfb2f66-3b0a-4d71-b3c0-ebcfec69cb0b",
@@ -3140,7 +3287,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "7b104a3c-071c-4e57-9aa9-9f9a0cc1c20f",
@@ -3161,7 +3309,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "a123c82e-6b95-4491-a921-1115356556c0",
@@ -3182,7 +3331,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "a57199d1-865f-4ed0-a987-12bbe8166704",
@@ -3203,7 +3353,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "db498687-986e-4e00-bffb-69fcdf0791a6",
@@ -3224,7 +3375,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "41b5f6e1-9b8c-4804-b74a-c46783682506",
@@ -3245,7 +3397,8 @@
       "name": "andreas.scheinert",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "14425093-d6bc-4e6c-8f80-9f28f741f96b",
@@ -3266,7 +3419,8 @@
       "name": "ackley",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "602423A4-FAD5-446B-8F31-941040A8D179",
@@ -3289,7 +3443,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562858504.025000",
-    "parent_user_id": "UJFN50C00"
+    "parent_user_id": "UJFN50C00",
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "29354E71-512E-460B-8F23-EFD08FDC25C2",
@@ -3312,7 +3467,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562858504.025000",
-    "parent_user_id": "UJFN50C00"
+    "parent_user_id": "UJFN50C00",
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "dd8a1ce7-34d5-45e6-ab2e-e63a529dc6d5",
@@ -3342,7 +3498,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "90d5799b-8978-44fd-be7e-c6f8fbe63e2f",
@@ -3363,7 +3520,8 @@
       "name": "antoham",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "18be6214-8ef5-4d85-9b88-baee72421a4c",
@@ -3397,7 +3555,8 @@
         "id": 1,
         "original_url": "https://t2tile.org/"
       }
-    ]
+    ],
+    "channel": "robust-computation"
   },
   {
     "client_msg_id": "7ee792a9-ff18-43f8-9181-243f9ea5b75f",
@@ -3439,13 +3598,15 @@
         "id": 1,
         "original_url": "https://www.youtube.com/watch?v=ZDq4S4YROqM"
       }
-    ]
+    ],
+    "channel": "robust-computation"
   },
   {
     "type": "message",
     "subtype": "channel_archive",
     "ts": "1588477039.000500",
     "user": "UC2A2ARPT",
-    "text": "<@UC2A2ARPT> archived the channel"
+    "text": "<@UC2A2ARPT> archived the channel",
+    "channel": "robust-computation"
   }
 ]

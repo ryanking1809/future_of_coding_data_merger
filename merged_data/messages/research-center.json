@@ -4,14 +4,16 @@
     "subtype": "channel_join",
     "ts": "1558195096.000200",
     "user": "U5TCAFTD3",
-    "text": "<@U5TCAFTD3> has joined the channel"
+    "text": "<@U5TCAFTD3> has joined the channel",
+    "channel": "research-center"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1558196715.000400",
     "user": "UJCHWTMH6",
-    "text": "<@UJCHWTMH6> has joined the channel"
+    "text": "<@UJCHWTMH6> has joined the channel",
+    "channel": "research-center"
   },
   {
     "type": "message",
@@ -19,7 +21,8 @@
     "ts": "1558196797.000500",
     "user": "UJCHWTMH6",
     "text": "<@UJCHWTMH6> set the channel purpose: Create a research center specifically for the future of coding - a sort of Manhattan Project for the Future of Coding. Milestones not deadlines. No specific targets. Vision not goals.  Weekly reviews of progress and critical peer sessions (ala PARC).",
-    "purpose": "Create a research center specifically for the future of coding - a sort of Manhattan Project for the Future of Coding. Milestones not deadlines. No specific targets. Vision not goals.  Weekly reviews of progress and critical peer sessions (ala PARC)."
+    "purpose": "Create a research center specifically for the future of coding - a sort of Manhattan Project for the Future of Coding. Milestones not deadlines. No specific targets. Vision not goals.  Weekly reviews of progress and critical peer sessions (ala PARC).",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "ddbff216-cc52-4a69-9a16-cee29e08ff55",
@@ -40,7 +43,8 @@
       "name": "david927",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "a9ddbecc-7e72-4326-900e-7d7845a71f25",
@@ -85,35 +89,40 @@
         "ts": "1558304808.070300"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "research-center"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1558197679.000200",
     "user": "UE6EFEPTQ",
-    "text": "<@UE6EFEPTQ> has joined the channel"
+    "text": "<@UE6EFEPTQ> has joined the channel",
+    "channel": "research-center"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1558198859.000400",
     "user": "UHEJD0CE4",
-    "text": "<@UHEJD0CE4> has joined the channel"
+    "text": "<@UHEJD0CE4> has joined the channel",
+    "channel": "research-center"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1558200375.000600",
     "user": "U8A5MS6R1",
-    "text": "<@U8A5MS6R1> has joined the channel"
+    "text": "<@U8A5MS6R1> has joined the channel",
+    "channel": "research-center"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1558202120.000800",
     "user": "UJNJQD2AC",
-    "text": "<@UJNJQD2AC> has joined the channel"
+    "text": "<@UJNJQD2AC> has joined the channel",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "67c1e97d-66be-41a1-a636-33ef43b25f48",
@@ -136,35 +145,40 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558197156.001300",
-    "parent_user_id": "UJCHWTMH6"
+    "parent_user_id": "UJCHWTMH6",
+    "channel": "research-center"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1558203101.001200",
     "user": "UFEQUBNNT",
-    "text": "<@UFEQUBNNT> has joined the channel"
+    "text": "<@UFEQUBNNT> has joined the channel",
+    "channel": "research-center"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1558206322.001400",
     "user": "UETJZ9V0T",
-    "text": "<@UETJZ9V0T> has joined the channel"
+    "text": "<@UETJZ9V0T> has joined the channel",
+    "channel": "research-center"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1558208763.001600",
     "user": "UJ6LDMMN0",
-    "text": "<@UJ6LDMMN0> has joined the channel"
+    "text": "<@UJ6LDMMN0> has joined the channel",
+    "channel": "research-center"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1558210500.001800",
     "user": "UJN1TAYEQ",
-    "text": "<@UJN1TAYEQ> has joined the channel"
+    "text": "<@UJN1TAYEQ> has joined the channel",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "f098eb8b-d90d-4c8e-89e2-6d15caf486ad",
@@ -196,28 +210,32 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1558212263.002200",
     "user": "UJVEN5G5D",
-    "text": "<@UJVEN5G5D> has joined the channel"
+    "text": "<@UJVEN5G5D> has joined the channel",
+    "channel": "research-center"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1558212407.002400",
     "user": "UGLSY9X3J",
-    "text": "<@UGLSY9X3J> has joined the channel"
+    "text": "<@UGLSY9X3J> has joined the channel",
+    "channel": "research-center"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1558213896.002600",
     "user": "UJK8MKYAZ",
-    "text": "<@UJK8MKYAZ> has joined the channel"
+    "text": "<@UJK8MKYAZ> has joined the channel",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "10b4def4-c752-455a-9cee-ef1be04a63a8",
@@ -247,28 +265,32 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1558215087.007300",
     "user": "UC21F8Q48",
-    "text": "<@UC21F8Q48> has joined the channel"
+    "text": "<@UC21F8Q48> has joined the channel",
+    "channel": "research-center"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1558217136.007600",
     "user": "UJG7QQQJW",
-    "text": "<@UJG7QQQJW> has joined the channel"
+    "text": "<@UJG7QQQJW> has joined the channel",
+    "channel": "research-center"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1558217802.007800",
     "user": "UCGAK10LS",
-    "text": "<@UCGAK10LS> has joined the channel"
+    "text": "<@UCGAK10LS> has joined the channel",
+    "channel": "research-center"
   },
   {
     "type": "message",
@@ -321,7 +343,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "c40add5d-c74e-43b7-874c-f9684f055560",
@@ -356,7 +379,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "c487dfa9-57ae-40b7-b41a-41759c9ca771",
@@ -402,7 +426,8 @@
         "id": 1,
         "original_url": "https://www.youtube.com/watch?v=WT2CMS0MxJ0"
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "070fc9c6-04c7-43b1-818b-eaa0213cb2f1",
@@ -423,14 +448,16 @@
       "name": "d4hines",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1558222447.014300",
     "user": "UHP08C1DK",
-    "text": "<@UHP08C1DK> has joined the channel"
+    "text": "<@UHP08C1DK> has joined the channel",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "8547b814-870e-4369-bc8a-9e4b6b5bdb71",
@@ -455,7 +482,8 @@
     "edited": {
       "user": "UJN1TAYEQ",
       "ts": "1558223132.000000"
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "fd76b675-1f66-4cd7-b7cc-4c01035abea0",
@@ -476,7 +504,8 @@
       "name": "d4hines",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "db1d43c9-594d-4b6d-803e-fb7b3de318a2",
@@ -520,7 +549,8 @@
         "ts": "1558249129.030300"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "research-center"
   },
   {
     "client_msg_id": "ffdd9166-87e3-4455-a4f4-6b784907ea29",
@@ -541,7 +571,8 @@
       "name": "doug",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "559115a1-fb45-4dcf-85a8-53ae09c6a456",
@@ -564,7 +595,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558225455.021200",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "f6233a6a-7758-4e5e-b6c8-5dffa77fdc49",
@@ -587,14 +619,16 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558225455.021200",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "research-center"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1558248140.030200",
     "user": "UE1JQM9HQ",
-    "text": "<@UE1JQM9HQ> has joined the channel"
+    "text": "<@UE1JQM9HQ> has joined the channel",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "939f4845-0b5f-4512-9ad6-3e8770a162f0",
@@ -617,21 +651,24 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558225455.021200",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "research-center"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1558258588.030600",
     "user": "U5STGTB3J",
-    "text": "<@U5STGTB3J> has joined the channel"
+    "text": "<@U5STGTB3J> has joined the channel",
+    "channel": "research-center"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1558259253.030800",
     "user": "UAL7940NM",
-    "text": "<@UAL7940NM> has joined the channel"
+    "text": "<@UAL7940NM> has joined the channel",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "f539b895-e5cc-4eb7-900c-32b5220ec73e",
@@ -652,7 +689,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "b7f209a2-99c6-4598-b0a3-476e24c19929",
@@ -673,7 +711,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "4eb53912-8362-448e-b128-cc2fee40903e",
@@ -694,7 +733,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "380f0a5e-d880-45f0-be73-07f6c3041955",
@@ -715,7 +755,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "41f11e2a-9a15-4094-97d7-60b6ca818fbe",
@@ -736,7 +777,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "fb46d371-f187-4219-bd8a-b4e8dd083abd",
@@ -757,7 +799,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "56D55175-7CB2-43AF-96F5-2F6E214BEB3D",
@@ -821,7 +864,8 @@
         "id": 2,
         "original_url": "https://www.eventbrite.de/e/levelup-sprint-ios-development-registration-46756773769?ref=eios"
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "6837beb1-7868-4995-a58b-79e07ae6380e",
@@ -842,7 +886,8 @@
       "name": "rainhead",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "196525a9-087e-463b-b214-03298d77fed8",
@@ -863,7 +908,8 @@
       "name": "rainhead",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "5820d92d-e8db-43b7-bd36-8f49cd5800f9",
@@ -884,7 +930,8 @@
       "name": "rainhead",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "28cbc894-d150-4c78-b820-42bf51d9e5b6",
@@ -907,7 +954,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558197156.001300",
-    "parent_user_id": "UJCHWTMH6"
+    "parent_user_id": "UJCHWTMH6",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "e0a97c93-9f5c-44c0-9b08-ec17619e24ff",
@@ -951,7 +999,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "67018426-9af6-4bae-8c8d-959e75491f8b",
@@ -986,7 +1035,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "573da2ad-00aa-4a3f-ad21-2ff937c647e9",
@@ -1007,7 +1057,8 @@
       "name": "nicolas.decoster",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "bb1a927b-5546-46db-8502-1c85b78251aa",
@@ -1032,7 +1083,8 @@
     "edited": {
       "user": "UJN1TAYEQ",
       "ts": "1558346509.000000"
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "1358c75c-1954-4c8a-8bc6-a4cf81bfd09d",
@@ -1053,7 +1105,8 @@
       "name": "doug",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "82710f57-cad8-4495-9af0-da50a65efffb",
@@ -1074,7 +1127,8 @@
       "name": "nicolas.decoster",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "b474a8d0-8b24-45e6-93d2-bf71b0424509",
@@ -1104,7 +1158,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "e3d451c8-4547-4923-a52e-ed8615e44668",
@@ -1125,7 +1180,8 @@
       "name": "nicolas.decoster",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "491afcba-c3b7-4a59-bf7c-98733f7df84d",
@@ -1146,7 +1202,8 @@
       "name": "david927",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "76cd3875-cbe5-41ad-bed5-d7a9268268fc",
@@ -1177,7 +1234,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "7a706d69-0da0-412e-940a-821af18c39e1",
@@ -1231,7 +1289,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "abc9a1cf-0635-4bf5-a122-133685d97417",
@@ -1252,7 +1311,8 @@
       "name": "david927",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "59b11cc9-20dc-4980-b72c-41e78a773d37",
@@ -1273,7 +1333,8 @@
       "name": "david927",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "bd6fb915-e7bf-4cf2-9956-ba0ef21c3aca",
@@ -1294,7 +1355,8 @@
       "name": "nicolas.decoster",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "36db5ba4-26da-4d8f-ae4a-8542b18e42ff",
@@ -1315,7 +1377,8 @@
       "name": "nicolas.decoster",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "e626ccd2-e61e-4727-a9de-69373b26232a",
@@ -1366,7 +1429,8 @@
         ],
         "count": 6
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "68b67e68-fee5-42cd-b171-4980feeb0f3e",
@@ -1419,7 +1483,8 @@
         "ts": "1558553772.130600"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "research-center"
   },
   {
     "client_msg_id": "a2e1959a-d5cc-4270-b138-b20187b43e3f",
@@ -1442,7 +1507,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558491934.127800",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "1315e79e-01ee-43aa-b780-08d890b8a71a",
@@ -1465,7 +1531,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558491934.127800",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "6e8db30c-ade3-4629-a33f-ffd9d7e96331",
@@ -1534,7 +1601,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "1b3daf90-0faa-4025-9f20-3ae199004d70",
@@ -1557,7 +1625,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558547233.129700",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "3595b1d0-7028-46ed-9ee1-409a1dfee6b4",
@@ -1580,7 +1649,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558491934.127800",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "df1f7db8-897c-48f2-982a-2fb4cdd84bac",
@@ -1603,7 +1673,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558547233.129700",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "59153d1e-1ee6-4d56-8078-716b58b26b51",
@@ -1626,7 +1697,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558491934.127800",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "6f15818e-713c-464b-a8b7-4868b0fbb5b0",
@@ -1649,7 +1721,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558491934.127800",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "aa632dcd-7abf-4c58-ad3d-f1e0cf66f0f3",
@@ -1672,7 +1745,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558547233.129700",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "1f8c5f4a-8d90-4c22-99ce-18ec581c625d",
@@ -1736,7 +1810,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1562783385.186000"
+    "last_read": "1562783385.186000",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "f21d3b38-0bfd-4f5e-bc51-d6b7b004e3db",
@@ -1784,7 +1859,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "7cfa6db3-8ab4-4e56-9418-b1298af2132b",
@@ -1807,7 +1883,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558559134.132200",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "c6e31965-cc4a-4cd3-b01a-5ac08f728d3c",
@@ -1830,7 +1907,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558547233.129700",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "86ab87e3-1316-43bb-9c36-1a34804fc89e",
@@ -1853,7 +1931,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558559134.132200",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "8b80da60-e16f-43cb-ba9f-0b096b62eae4",
@@ -1876,7 +1955,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558559134.132200",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "7ddb8a90-2544-457d-8198-b42cd1c1d1b9",
@@ -1897,7 +1977,8 @@
       "name": "david927",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "f86bc3d2-5cd0-4119-afd2-73044dd6d264",
@@ -1918,7 +1999,8 @@
       "name": "david927",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "1975e9c2-56a7-423a-856f-963ded1de418",
@@ -1941,7 +2023,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558559134.132200",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "eb203741-f891-4cfa-8252-e43d7c945e01",
@@ -1974,7 +2057,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "520309f9-eeef-481d-b9ae-ff151a4fae90",
@@ -1995,7 +2079,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "AABEB30D-0346-4914-BE20-749DA582ECE2",
@@ -2040,7 +2125,8 @@
         "ts": "1559069402.021800"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "research-center"
   },
   {
     "client_msg_id": "29ccb4e0-9957-4129-a0f7-dafe377d822b",
@@ -2063,7 +2149,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558794199.020100",
-    "parent_user_id": "UHWC9PXBL"
+    "parent_user_id": "UHWC9PXBL",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "57702207-69a8-4498-b817-9a825a0e7915",
@@ -2086,7 +2173,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558794199.020100",
-    "parent_user_id": "UHWC9PXBL"
+    "parent_user_id": "UHWC9PXBL",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "C0D610ED-890C-4EF8-B48D-D808C3F0C2C7",
@@ -2109,7 +2197,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558794199.020100",
-    "parent_user_id": "UHWC9PXBL"
+    "parent_user_id": "UHWC9PXBL",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "db626b89-7daf-4370-aee4-b0235df85ecf",
@@ -2174,7 +2263,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "abf27386-15ee-4bfb-b162-b776f682755b",
@@ -2197,7 +2287,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1559145037.024700",
-    "parent_user_id": "UJCHWTMH6"
+    "parent_user_id": "UJCHWTMH6",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "393d4692-da94-4664-8ede-ebcdb2bc2c56",
@@ -2220,7 +2311,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1559145037.024700",
-    "parent_user_id": "UJCHWTMH6"
+    "parent_user_id": "UJCHWTMH6",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "12608b26-de99-4ad9-b51a-10b72cadd849",
@@ -2241,7 +2333,8 @@
       "name": "doug",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "f49b82d7-99ae-406f-bee2-e5ea29dcb1ca",
@@ -2287,7 +2380,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1559207752.000300"
+    "last_read": "1559207752.000300",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "9b51875e-f445-45df-a261-4610b0b328ab",
@@ -2308,7 +2402,8 @@
       "name": "doug",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "2c86196b-a8f1-4245-a7a7-089dd9e8d4e0",
@@ -2329,7 +2424,8 @@
       "name": "david927",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "bea178a3-c541-4b34-b5b4-da83d04bcc7d",
@@ -2372,7 +2468,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "0faa166c-909e-4393-8eae-a4060a3066e1",
@@ -2407,7 +2504,8 @@
         "ts": "1559161585.034000"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "research-center"
   },
   {
     "client_msg_id": "66ca5b73-5392-4a3a-9b03-ed0fe15cbfba",
@@ -2438,7 +2536,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "901ca4c0-58be-4a8d-b2cf-6fe8260f2c49",
@@ -2477,7 +2576,8 @@
       }
     ],
     "thread_ts": "1559159608.033400",
-    "parent_user_id": "U79HM6726"
+    "parent_user_id": "U79HM6726",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "040ed074-8442-4f13-890b-4df08cfb4085",
@@ -2500,7 +2600,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1559152057.027700",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "12c50e7d-9b53-4a93-99c8-06962a9d8a09",
@@ -2523,7 +2624,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1559152057.027700",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "673a1771-2e4f-4dbf-856b-d683bc0ae2f3",
@@ -2562,7 +2664,8 @@
       }
     ],
     "thread_ts": "1559152057.027700",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "79948368-e647-477b-a736-c40d0103931b",
@@ -2601,7 +2704,8 @@
       }
     ],
     "thread_ts": "1558559134.132200",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "cef2dafe-5b03-4cdc-872e-ecf4630f7cce",
@@ -2624,7 +2728,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1558559134.132200",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "69572f60-56f7-455c-9024-0514b72a38db",
@@ -2654,7 +2759,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "396c843d-42cd-4656-917a-fea698774f31",
@@ -2689,7 +2795,8 @@
         ],
         "count": 6
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "d6992771-45e8-4ba3-877c-f9509e1db8e9",
@@ -2710,7 +2817,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "7ce5658b-13db-4a2d-a2fa-246688462dd1",
@@ -2731,7 +2839,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "9869d4a9-df79-4902-bb81-d64ff8c6cff6",
@@ -2764,7 +2873,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "b0a21acf-38ab-4a24-b093-f9677c3c5117",
@@ -2794,7 +2904,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "e793a722-5bb5-4fe0-9db0-70d775445633",
@@ -2825,7 +2936,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "e63e5144-7352-423c-9e85-f3bbb13db0ab",
@@ -2855,7 +2967,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "7bbc57a2-bf05-4da2-b190-8d85790bb7a7",
@@ -2876,7 +2989,8 @@
       "name": "ian.rumac",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "2491a49f-9f67-4ea3-8374-4f4541c11f74",
@@ -2897,7 +3011,8 @@
       "name": "nicolas.decoster",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "C4F6A2FF-655A-4771-8764-48C8873D5037",
@@ -2928,7 +3043,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "1df294cd-32a7-45c2-a524-b7f9a8c3aa3c",
@@ -2953,7 +3069,8 @@
     "edited": {
       "user": "UJ6LDMMN0",
       "ts": "1569595752.000000"
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "aa67fd40-e164-407a-ab62-3eabaa5cf34d",
@@ -3000,7 +3117,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "7d00a52a-dedf-4ba4-a73b-ac40296816e0",
@@ -3032,7 +3150,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "140adc58-f953-4138-9c41-69a3db6feb88",
@@ -3064,7 +3183,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "0bdd013a-89ec-4dd0-a13f-3a43f3ac372f",
@@ -3085,7 +3205,8 @@
       "name": "daniel.garcia.carmona",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "00116034-a978-42da-b1f7-339202c5420f",
@@ -3106,7 +3227,8 @@
       "name": "adriaan.leijnse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "b0d176a1-6af1-4eeb-91a0-4efd9780d94f",
@@ -3136,7 +3258,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "29269115-5196-4459-aeb3-dd918cba4d65",
@@ -3206,7 +3329,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "ad8d25ba-be16-40d9-8f67-c0720d626bd1",
@@ -3238,7 +3362,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "4808af27-9a71-4445-ac67-a7467e4215bd",
@@ -3263,7 +3388,8 @@
     "edited": {
       "user": "UJ6LDMMN0",
       "ts": "1569597542.000000"
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "0164916b-ebe8-40ca-87c4-ec29aa991a10",
@@ -3301,7 +3427,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "5fc3db20-cccd-4558-b55f-25477bb11bd2",
@@ -3332,7 +3459,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "28b5e5bd-404e-4e99-9d33-8b43209a84ae",
@@ -3372,7 +3500,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "24479312-5eaa-4423-81eb-f29cf50940a3",
@@ -3404,7 +3533,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "5e77b0e3-b038-4f5a-8375-294e997f172a",
@@ -3427,7 +3557,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1569596558.019400",
-    "parent_user_id": "UFXFB1RK8"
+    "parent_user_id": "UFXFB1RK8",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "e165dc43-6174-4d99-9d66-06cfb503c54e",
@@ -3450,7 +3581,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1569596558.019400",
-    "parent_user_id": "UFXFB1RK8"
+    "parent_user_id": "UFXFB1RK8",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "3f2db9e2-fdd1-4015-9e1f-cf41c039eef3",
@@ -3485,7 +3617,8 @@
         "ts": "1572157304.006900"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "research-center"
   },
   {
     "client_msg_id": "477de931-1334-4ca3-8c69-22d1503f5f57",
@@ -3506,7 +3639,8 @@
       "name": "breck7",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "8666d1b2-8f34-470c-bee4-82b2663b2221",
@@ -3537,7 +3671,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "4A46BC67-A2FF-49F4-933E-4536AD052C85",
@@ -3594,7 +3729,8 @@
         "ts": "1569713856.042300"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "research-center"
   },
   {
     "client_msg_id": "9072b427-28fd-418e-b6d8-89c25aafded2",
@@ -3621,7 +3757,8 @@
       "ts": "1569687238.000000"
     },
     "thread_ts": "1569624546.034900",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "f4706726-d97d-49c6-a6d5-9e4db674a640",
@@ -3644,7 +3781,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1569624546.034900",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "84af8a86-24cb-4b08-8ca7-55d9404da4ea",
@@ -3694,7 +3832,8 @@
         ],
         "count": 7
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "56145e21-08b6-438c-b998-40425b36d735",
@@ -3744,7 +3883,8 @@
         "id": 1,
         "original_url": "https://www.eventbrite.com/e/coding-retreat-may-2019-tickets-53147741325"
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "4ebe9e46-24cb-44bd-a073-fc8caf2098db",
@@ -3779,7 +3919,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "159947f4-24bc-4ca2-96fa-8442a889e468",
@@ -3802,7 +3943,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1569624546.034900",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "80ea32e2-65bc-4ffe-b94c-6d4fbdf345b2",
@@ -3829,7 +3971,8 @@
       "ts": "1569741485.000000"
     },
     "thread_ts": "1569624546.034900",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "02054b68-541a-4606-ae56-94a672f20a57",
@@ -3890,7 +4033,8 @@
         "ts": "1569840621.044200"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "research-center"
   },
   {
     "client_msg_id": "8d709466-32c7-4806-966e-8207c3a04bf4",
@@ -3917,7 +4061,8 @@
       "ts": "1569716506.000000"
     },
     "thread_ts": "1569706523.041800",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "217638ee-48ac-4490-93b5-5a74722ddd87",
@@ -3949,7 +4094,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "type": "message",
@@ -3992,7 +4138,8 @@
       ],
       "subscribed": false
     },
-    "client_msg_id": "20E41259-8666-4A11-BF60-4A25BD6057E1"
+    "client_msg_id": "20E41259-8666-4A11-BF60-4A25BD6057E1",
+    "channel": "research-center"
   },
   {
     "type": "message",
@@ -4000,7 +4147,8 @@
     "ts": "1569721611.043700",
     "user": "UEZQXJK9V",
     "text": "<@UEZQXJK9V> has joined the channel",
-    "inviter": "U71PMQ1V0"
+    "inviter": "U71PMQ1V0",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "b7c63aa4-4611-430f-bc5d-db1e946b9293",
@@ -4023,7 +4171,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1569706523.041800",
-    "parent_user_id": "UJN1TAYEQ"
+    "parent_user_id": "UJN1TAYEQ",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "86ec7796-9d5d-4bb2-8f26-b6733c646273",
@@ -4055,7 +4204,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "fb092913-9638-4437-8880-7c6071dde51c",
@@ -4087,7 +4237,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "1f563151-be91-482b-b0ed-c7fe99f51d74",
@@ -4133,7 +4284,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "type": "message",
@@ -4141,7 +4293,8 @@
     "ts": "1572136118.003800",
     "user": "UNTRC48LC",
     "text": "<@UNTRC48LC> has joined the channel",
-    "inviter": "UMVFWPZ36"
+    "inviter": "UMVFWPZ36",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "430578d8-e126-4b63-86e4-50c1ebdcce7c",
@@ -4162,7 +4315,8 @@
       "name": "breck7",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "18333961-9F5A-42AC-9127-EF605034E7D3",
@@ -4199,7 +4353,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "95972f1a-f4a4-4c2b-a94c-067953f26af2",
@@ -4220,7 +4375,8 @@
       "name": "cindy",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "715457ac-1af6-498d-84e6-b3355960834f",
@@ -4243,7 +4399,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1569602133.028200",
-    "parent_user_id": "UMVFWPZ36"
+    "parent_user_id": "UMVFWPZ36",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "14b01105-633c-4928-9e8a-bb08dc756d98",
@@ -4266,7 +4423,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1569677141.037000",
-    "parent_user_id": "U71PMQ1V0"
+    "parent_user_id": "U71PMQ1V0",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "0836d048-b416-4c7c-89bc-0d95eb882b89",
@@ -4298,7 +4456,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "b824e043-e752-4844-b8a8-daba2b84247d",
@@ -4328,7 +4487,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "dc6cbb58-dba9-4f5a-8717-4b7187ebcad4",
@@ -4349,7 +4509,8 @@
       "name": "breck7",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "aa03e532-944d-4371-a7dd-c8bdc11e8d97",
@@ -4370,7 +4531,8 @@
       "name": "breck7",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "712d03fa-f630-48d8-8df8-52b83a99c7f8",
@@ -4391,7 +4553,8 @@
       "name": "breck7",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "c3fc1f6f-2231-401b-9d84-751d3e3c2d17",
@@ -4412,7 +4575,8 @@
       "name": "breck7",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "86645361-f732-4a83-acbd-cf19acf8c097",
@@ -4433,7 +4597,8 @@
       "name": "breck7",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "e440ed9d-ba7b-4788-bd9d-cd613dc06b43",
@@ -4454,7 +4619,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "83088d9f-7107-422e-8e67-2336cc5e1e21",
@@ -4475,7 +4641,8 @@
       "name": "breck7",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "b2c2a6eb-26f5-4f48-9516-8602e8997b15",
@@ -4500,7 +4667,8 @@
     "edited": {
       "user": "UE6EFEPTQ",
       "ts": "1572814599.000000"
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "f30bf50c-9081-4129-875e-8223af6e44a5",
@@ -4521,7 +4689,8 @@
       "name": "breck7",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "e83d32d3-b403-4b9d-a35c-1e54c03ff5cd",
@@ -4542,7 +4711,8 @@
       "name": "breck7",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "0a491397-a9e0-4299-921a-da0a5acfb4c1",
@@ -4563,7 +4733,8 @@
       "name": "breck7",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "06b05425-57fb-4998-b251-03855859a0ec",
@@ -4584,7 +4755,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "834DC34B-4791-44A5-8A34-6D6E5051909D",
@@ -4605,7 +4777,8 @@
       "name": "nmsmith65",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "C515EAA5-2D3A-4242-82B1-2181C7023AD9",
@@ -4626,7 +4799,8 @@
       "name": "nmsmith65",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "ba62cb78-8fa2-4c32-a025-33a4a228844e",
@@ -4647,7 +4821,8 @@
       "name": "doug",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "11e624d3-6d82-4e78-b2fc-3ad93d9e66d0",
@@ -4668,7 +4843,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "b38cdb53-3c15-4fad-833c-7b5305ed66c9",
@@ -4689,7 +4865,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "1393e73d-6b58-4f37-880c-e38a0c7277d2",
@@ -4725,7 +4902,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1572953409.012288"
+    "last_read": "1572953409.012288",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "ea73f83c-8abb-47c2-a98b-3aff1cc55c54",
@@ -4746,7 +4924,8 @@
       "name": "adriaan.leijnse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "5a5574d8-3553-42a8-880e-e1fad7c43345",
@@ -4771,7 +4950,8 @@
     "edited": {
       "user": "UKB1S7ZMY",
       "ts": "1572875928.000000"
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "8fd6014d-bebd-46ed-b8bb-51891b25be78",
@@ -4792,7 +4972,8 @@
       "name": "adriaan.leijnse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "9D43865D-B9C2-486B-BFAB-B8B5C4343C0E",
@@ -4813,7 +4994,8 @@
       "name": "ivanreese",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "07D2B783-7463-4CB0-A49B-12D1E98F4B48",
@@ -4834,7 +5016,8 @@
       "name": "ivanreese",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "DB344D3E-7912-4145-803B-057A3581E6FE",
@@ -4855,7 +5038,8 @@
       "name": "ivanreese",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "9076cd5d-e65c-4da1-b727-6820c4dcc485",
@@ -4876,7 +5060,8 @@
       "name": "doug",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "dbdf3850-a31a-476b-9c16-73ebc9004c49",
@@ -4906,7 +5091,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "2e100a76-1a5c-4b2b-9fa7-325f6d120114",
@@ -4927,7 +5113,8 @@
       "name": "breck7",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "aa1b02be-e50f-44e1-9d50-7c4d943f8fdd",
@@ -4948,7 +5135,8 @@
       "name": "breck7",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "68f8d10e-37d5-4e8b-a4d4-7728a10f69b4",
@@ -5078,7 +5266,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "b5416522-5427-4ae7-8f1c-e2824b9d1e75",
@@ -5105,7 +5294,8 @@
       "ts": "1572885049.000000"
     },
     "thread_ts": "1572884464.048100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "5db71fef-c24b-48f6-af7e-d3eb5571eaa2",
@@ -5128,7 +5318,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572884464.048100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "ba03f10e-c952-407f-854a-d3c7bb86a8dd",
@@ -5151,7 +5342,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572884464.048100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "2024fcf3-f53a-401d-9a9d-9c0005184871",
@@ -5174,7 +5366,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572884464.048100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "e22c2c2f-7242-4044-a69c-171a6ee1a11d",
@@ -5197,7 +5390,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572884464.048100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "7000dc01-3c22-4abb-8958-91234757bb0c",
@@ -5220,7 +5414,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572884464.048100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "06804ca8-abfd-4130-a791-1c74c0ef07e8",
@@ -5254,7 +5449,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "9fdd7644-97a0-4ca4-8ab7-93daab30f8f8",
@@ -5277,7 +5473,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572884464.048100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "66b2859d-9622-46f3-aa2d-876cc739ae20",
@@ -5300,7 +5497,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572884464.048100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "c5f0370f-91e6-47a8-8c07-be31e95a15ce",
@@ -5323,7 +5521,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572884464.048100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "4d9c66f9-5f56-4b6b-9f59-81c974b1fe13",
@@ -5346,7 +5545,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572884464.048100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "43693788-6dbc-4be3-82a0-259339af86b0",
@@ -5369,7 +5569,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572884464.048100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "103c1452-ff7e-497d-b0cb-0b42a63ae79a",
@@ -5401,7 +5602,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "3162c224-e5df-48d6-a104-ecf426b90cc2",
@@ -5440,7 +5642,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "bff2b58a-ed6a-4c0d-8d28-a03826b95398",
@@ -5463,7 +5666,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572884464.048100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "e9c29f11-e053-47c2-8eff-b7ad01480156",
@@ -5486,7 +5690,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572884464.048100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "33c991f5-85a6-4187-ad65-6759d90de3f2",
@@ -5509,7 +5714,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572884464.048100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "ad1b7837-0b66-4d30-b3d0-fb57f838733b",
@@ -5532,7 +5738,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572884464.048100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "4720b4d6-3f47-481f-a43c-634be31d1178",
@@ -5555,7 +5762,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572884464.048100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "f6baefea-15e3-47b0-8eb7-d58ea12568a2",
@@ -5578,7 +5786,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572884464.048100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "5EC4559C-B000-4606-9D4B-B7B5A2FB6816",
@@ -5613,7 +5822,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "cce18afa-397d-4751-85f3-fc1512ae5d6d",
@@ -5636,7 +5846,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572873446.026900",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "a5a8a0d7-7ab2-4ea6-9ff6-de71a52c67c8",
@@ -5666,7 +5877,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "966B677D-1929-455E-829E-D9FF34D99438",
@@ -5749,7 +5961,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "FF2B12E5-0F56-45AE-BE81-D0CB0478DE89",
@@ -5794,7 +6007,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "e944480a-5325-4509-bf9a-8f5b912adfa1",
@@ -5826,7 +6040,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "5ac956b1-cd76-49de-a80e-a692f45c3d46",
@@ -5866,7 +6081,8 @@
         "ts": "1574111198.065900"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "research-center"
   },
   {
     "client_msg_id": "1AF3C20D-9C7F-490F-9F26-F583851F3419",
@@ -5889,7 +6105,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1574108862.064800",
-    "parent_user_id": "UERTM1JPR"
+    "parent_user_id": "UERTM1JPR",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "012fc83b-e3aa-49a0-a6ea-df21b68ecbca",
@@ -5939,7 +6156,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "66b41a7c-796f-4b2a-9ea0-a86e0c868095",
@@ -5979,7 +6197,8 @@
       }
     ],
     "thread_ts": "1574012275.059500",
-    "parent_user_id": "UHWC9PXBL"
+    "parent_user_id": "UHWC9PXBL",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "580AB8B3-5BC0-4A38-9EDE-C362551FCE26",
@@ -6002,7 +6221,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1574012275.059500",
-    "parent_user_id": "UHWC9PXBL"
+    "parent_user_id": "UHWC9PXBL",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "81AC85E3-C661-4888-B676-CC1E7ED8A111",
@@ -6025,7 +6245,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1574012275.059500",
-    "parent_user_id": "UHWC9PXBL"
+    "parent_user_id": "UHWC9PXBL",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "c40a1bcb-01b5-4a14-963b-0e60d8bcf8aa",
@@ -6099,7 +6320,8 @@
       }
     ],
     "thread_ts": "1574012275.059500",
-    "parent_user_id": "UHWC9PXBL"
+    "parent_user_id": "UHWC9PXBL",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "5D08D7C4-6B7B-4487-AF98-DD633A6BE2E1",
@@ -6122,7 +6344,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1574012275.059500",
-    "parent_user_id": "UHWC9PXBL"
+    "parent_user_id": "UHWC9PXBL",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "4ff0bb4a-9abd-4f1d-b30e-61feb8d47ad5",
@@ -6170,7 +6393,8 @@
       }
     ],
     "thread_ts": "1574012275.059500",
-    "parent_user_id": "UHWC9PXBL"
+    "parent_user_id": "UHWC9PXBL",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "2880b576-e28c-4d31-8d0a-693fe4e376db",
@@ -6219,7 +6443,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "4378275c-5ed0-49c0-96e7-9f7f2b364061",
@@ -6257,7 +6482,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "cb10d9fe-463b-4bf2-ab05-037e8ab67d14",
@@ -6295,7 +6521,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "C5C7CA60-5FDD-4ED9-AD12-EE93F07338DB",
@@ -6320,7 +6547,8 @@
     "edited": {
       "user": "UC2A2ARPT",
       "ts": "1574346181.000000"
-    }
+    },
+    "channel": "research-center"
   },
   {
     "client_msg_id": "3ffb836a-acb3-42b3-bf34-49e0b9159e4a",
@@ -6375,7 +6603,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "0bf29b39-fda4-43fb-a007-26318621de05",
@@ -6428,7 +6657,8 @@
         ],
         "count": 7
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "861cf6b8-6410-4f0f-85e7-e38aa872fb28",
@@ -6488,7 +6718,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "c73a5283-2c96-4777-93ab-4e45f2dc3ceb",
@@ -6580,7 +6811,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "78de0120-8094-4f3b-8b4d-6c48f0167584",
@@ -6631,7 +6863,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "f80f13d5-7291-47bd-a83e-f14d3485ecf6",
@@ -6680,7 +6913,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "87fbfc0c-91ca-4af0-8d8f-663c204236e5",
@@ -6733,7 +6967,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "da31e996-0e4a-47c3-a4f5-7237b438480e",
@@ -6781,7 +7016,8 @@
       }
     ],
     "thread_ts": "1574357305.079100",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "research-center"
   },
   {
     "type": "message",
@@ -6899,7 +7135,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "80137ccd-f5e2-45dc-81cc-ec9deb0fd68d",
@@ -6988,7 +7225,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "research-center"
   },
   {
     "client_msg_id": "dcdf2a6e-e3db-4d8d-b8a4-91ba001d70ba",
@@ -7052,7 +7290,8 @@
       }
     ],
     "thread_ts": "1574414268.083200",
-    "parent_user_id": "UNBPP291C"
+    "parent_user_id": "UNBPP291C",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "a41fb8f5-8dea-4564-960e-a899fededc99",
@@ -7104,7 +7343,8 @@
       }
     ],
     "thread_ts": "1574414268.083200",
-    "parent_user_id": "UNBPP291C"
+    "parent_user_id": "UNBPP291C",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "bcd669c8-462b-4f21-b451-989d74e9cd0d",
@@ -7144,7 +7384,8 @@
       }
     ],
     "thread_ts": "1574414268.083200",
-    "parent_user_id": "UNBPP291C"
+    "parent_user_id": "UNBPP291C",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "00545935-ff94-43e6-876c-afa883adf426",
@@ -7208,7 +7449,8 @@
       }
     ],
     "thread_ts": "1574357305.079100",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "research-center"
   },
   {
     "client_msg_id": "8f53b856-edd0-4705-a1f9-c883f632b3f8",
@@ -7272,13 +7514,15 @@
       }
     ],
     "thread_ts": "1574357305.079100",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "research-center"
   },
   {
     "type": "message",
     "subtype": "channel_archive",
     "ts": "1588477031.000800",
     "user": "UC2A2ARPT",
-    "text": "<@UC2A2ARPT> archived the channel"
+    "text": "<@UC2A2ARPT> archived the channel",
+    "channel": "research-center"
   }
 ]

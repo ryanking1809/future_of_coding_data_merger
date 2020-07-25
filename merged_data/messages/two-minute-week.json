@@ -154,7 +154,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "3acdc0c2-8c2e-4d2c-9ffe-13e63264450e",
@@ -255,7 +256,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "473575cc-13e3-4d34-9d14-aba30f21cb83",
@@ -295,7 +297,8 @@
       }
     ],
     "thread_ts": "1586795860.004500",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "42ed4532-5f78-4086-9e92-f9567f68baef",
@@ -367,7 +370,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "a4e9c725-dd42-4c5a-a4ef-27aebd0b866d",
@@ -407,7 +411,8 @@
       }
     ],
     "thread_ts": "1586795860.004500",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "be294f42-85b8-488d-9632-27151d3220d6",
@@ -447,7 +452,8 @@
       }
     ],
     "thread_ts": "1586795860.004500",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "d4bfbd09-2180-4922-9e4e-bb1d2efeb9a6",
@@ -491,7 +497,8 @@
       }
     ],
     "thread_ts": "1586795860.004500",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "92f4ce45-b950-4e38-adb9-8332a0d02e51",
@@ -535,7 +542,8 @@
       }
     ],
     "thread_ts": "1586795860.004500",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "9fa12289-e505-426a-86ef-7848297dca67",
@@ -575,7 +583,8 @@
       }
     ],
     "thread_ts": "1586795975.006900",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "3E876F36-1139-490D-89FB-18D0D41534D4",
@@ -619,7 +628,8 @@
       }
     ],
     "thread_ts": "1586795975.006900",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "35deb0bb-911b-4d48-990e-05a5d4fd7fe4",
@@ -769,7 +779,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "bb2a2c96-728a-4ce2-946b-8a8fc63f23d2",
@@ -818,7 +829,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "2c80b027-003d-47f8-866b-48b5187a92b2",
@@ -858,7 +870,8 @@
       }
     ],
     "thread_ts": "1586970893.017500",
-    "parent_user_id": "UCKRZS3DZ"
+    "parent_user_id": "UCKRZS3DZ",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "d8d2222c-d47c-4ecb-92f3-b38f1d4fa3b8",
@@ -982,7 +995,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "c56e5034-667c-4258-b8cc-5cb6f11994ed",
@@ -1022,7 +1036,8 @@
       }
     ],
     "thread_ts": "1587134534.019600",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "5a8e51cf-81a4-44a9-86de-6eecc1d9103f",
@@ -1076,7 +1091,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "387f10f6-c684-4a7c-8edf-673260750c87",
@@ -1141,7 +1157,8 @@
       }
     ],
     "thread_ts": "1587134534.019600",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "9fa7b3ba-aa22-4dd5-a030-bfc8adf332ac",
@@ -1214,7 +1231,8 @@
       }
     ],
     "thread_ts": "1587134534.019600",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -1354,7 +1372,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "7f8ca514-bcaa-484b-9072-e3376698c725",
@@ -1398,7 +1417,8 @@
       }
     ],
     "thread_ts": "1587209201.021800",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "5bbaa40c-396a-4d49-bcaf-238378ead831",
@@ -1438,7 +1458,8 @@
       }
     ],
     "thread_ts": "1587209201.021800",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "9CADAC14-73DE-4A0E-B525-FE0715AB0C4D",
@@ -1478,7 +1499,8 @@
       }
     ],
     "thread_ts": "1587134534.019600",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -1558,7 +1580,8 @@
     "ts": "1587218600.029300",
     "client_msg_id": "75332A89-9EFF-46C4-9054-C136D101D992",
     "thread_ts": "1587209201.021800",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "1b7bbca3-bc8d-4bbb-8249-fd69e564c169",
@@ -1598,7 +1621,8 @@
       }
     ],
     "thread_ts": "1587209201.021800",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "6310782c-7b4d-4171-90ce-f1b34a953bd0",
@@ -1671,7 +1695,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -1734,7 +1759,8 @@
     "ts": "1587222814.030500",
     "client_msg_id": "80ba474c-3ae3-4217-81d3-142709e4f649",
     "thread_ts": "1587209201.021800",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ced3e835-858d-4638-92d9-4cae2575f294",
@@ -1778,7 +1804,8 @@
       }
     ],
     "thread_ts": "1587209201.021800",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "259251eb-3ce9-4791-8297-e95b6697cf6c",
@@ -1822,7 +1849,8 @@
       }
     ],
     "thread_ts": "1587134534.019600",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -1980,7 +2008,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "685f5aad-db07-4c73-b7aa-f9b5b12bb700",
@@ -2029,7 +2058,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "dec10538-24af-4bc5-99a3-1e2161a5ffea",
@@ -2082,7 +2112,8 @@
         ],
         "count": 5
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "c7615834-a760-412b-84a3-0087103f5da5",
@@ -2131,7 +2162,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ffdfcff0-c7d9-4c24-ae2c-7373467eb7b7",
@@ -2175,7 +2207,8 @@
       }
     ],
     "thread_ts": "1587232993.031500",
-    "parent_user_id": "U79HM6726"
+    "parent_user_id": "U79HM6726",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ff3ee660-453d-4d67-b2bd-777455b70b17",
@@ -2219,7 +2252,8 @@
       }
     ],
     "thread_ts": "1587232993.031500",
-    "parent_user_id": "U79HM6726"
+    "parent_user_id": "U79HM6726",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "9ecc98c9-8128-4ffb-90e1-060ef66dfe54",
@@ -2263,7 +2297,8 @@
       }
     ],
     "thread_ts": "1586795860.004500",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "d85d0f3b-ea6c-44b9-b306-f9dc569fef13",
@@ -2303,7 +2338,8 @@
       }
     ],
     "thread_ts": "1586795860.004500",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "1d26c2ba-3709-4c66-8f29-41c8c8200ff5",
@@ -2506,7 +2542,8 @@
         "ts": "1587531688.099400"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "d5480c50-a5b5-4e0a-be89-f415743d820c",
@@ -2568,7 +2605,8 @@
       }
     ],
     "thread_ts": "1586795860.004500",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "146eb529-c439-4992-af80-c76f570b681f",
@@ -2687,7 +2725,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "B760FCCE-54B6-43F1-9EC6-7AA94E72411C",
@@ -2736,7 +2775,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "eb966241-1ee2-4212-bb44-bf2ecc6e7bb7",
@@ -2790,7 +2830,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "06fc1796-66b1-4358-a12b-85bff58d2ee0",
@@ -2843,7 +2884,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "b0847fa5-cc35-4d57-bd39-5c79578bfa1c",
@@ -2904,7 +2946,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ec0a91fc-ca02-4ef0-87a0-21284c1a27c0",
@@ -2952,7 +2995,8 @@
       }
     ],
     "thread_ts": "1587245666.042200",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "f3ae0bb4-9a7e-4da7-8487-bbc798eb1b82",
@@ -3005,7 +3049,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "dab8e66d-b01c-4093-b6f9-7103838cf6b8",
@@ -3078,7 +3123,8 @@
       }
     ],
     "thread_ts": "1587245666.042200",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "8163068f-7ef9-4085-80fb-1ffec96436e2",
@@ -3148,7 +3194,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "edd01788-f40b-4366-926f-5a6a4334d2d6",
@@ -3198,7 +3245,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "121b81e7-4170-469a-b2e0-3bd7c6e40f2d",
@@ -3246,7 +3294,8 @@
       }
     ],
     "thread_ts": "1587245666.042200",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "d798a014-66b1-40fc-b80b-f7349bc05dd3",
@@ -3286,7 +3335,8 @@
       }
     ],
     "thread_ts": "1587245666.042200",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ba00fc6e-304b-44e0-a40f-96fc2d31bbab",
@@ -3330,7 +3380,8 @@
       }
     ],
     "thread_ts": "1587245666.042200",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "cbc85795-2edf-4c0a-b53d-c8388557edcd",
@@ -3386,7 +3437,8 @@
       }
     ],
     "thread_ts": "1587245666.042200",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "6b4a6571-32e2-40e0-a8d5-800cf0894d42",
@@ -3426,7 +3478,8 @@
       }
     ],
     "thread_ts": "1587245666.042200",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "5d1fbe82-2fe8-44b2-be8f-2ac9980273b3",
@@ -3478,7 +3531,8 @@
       }
     ],
     "thread_ts": "1587245666.042200",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "135594ce-4e76-4881-8312-78443a33bf80",
@@ -3546,7 +3600,8 @@
       }
     ],
     "thread_ts": "1587245666.042200",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "c65c7158-09ff-4c76-8078-a5a260bfe98a",
@@ -3590,7 +3645,8 @@
       }
     ],
     "thread_ts": "1586970893.017500",
-    "parent_user_id": "UCKRZS3DZ"
+    "parent_user_id": "UCKRZS3DZ",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "51ef284f-35e7-4bbf-9dc3-6e9e0a52a2f6",
@@ -3630,7 +3686,8 @@
       }
     ],
     "thread_ts": "1587245666.042200",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "03b8d8c3-9ac3-4fbf-8a26-4725b81a154e",
@@ -3680,7 +3737,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "a0bf3014-9a6e-462a-947f-590f1712a080",
@@ -3720,7 +3778,8 @@
       }
     ],
     "thread_ts": "1587245666.042200",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "f1521818-0980-4cf1-9367-aa92a466d369",
@@ -3801,7 +3860,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "27093683-f418-4d43-9964-f32a0ccfff65",
@@ -3931,7 +3991,8 @@
         ],
         "count": 10
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "c745eee4-9b90-4eeb-8e1e-a98f3d985e67",
@@ -3971,7 +4032,8 @@
       }
     ],
     "thread_ts": "1586795860.004500",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "3adca210-3269-452d-b8d1-5014a596ff02",
@@ -4011,7 +4073,8 @@
       }
     ],
     "thread_ts": "1586795860.004500",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "1b59b53f-062c-42ac-8fa1-9ee05c1beeb8",
@@ -4060,7 +4123,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ce522b86-3b7b-48e6-b5c4-25d78317aee9",
@@ -4129,7 +4193,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "6519307b-948a-4bff-92a0-cc3bc1e7582b",
@@ -4169,7 +4234,8 @@
       }
     ],
     "thread_ts": "1586795860.004500",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "f0c28d61-017e-4336-a8ff-b592efad7f26",
@@ -4213,7 +4279,8 @@
       }
     ],
     "thread_ts": "1586795860.004500",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "c849ae5c-3df3-4cbc-ba16-085fcf040b88",
@@ -4270,7 +4337,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "8414af86-16b9-49bd-ac67-13b3e78f526c",
@@ -4310,7 +4378,8 @@
       }
     ],
     "thread_ts": "1586795860.004500",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "59398b0d-c4bc-4d69-b532-3b70b3d8dadc",
@@ -4354,7 +4423,8 @@
       }
     ],
     "thread_ts": "1586795860.004500",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -4536,7 +4606,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "446e621b-276c-48bc-ab6e-e9eaae51e9a0",
@@ -4580,7 +4651,8 @@
       }
     ],
     "thread_ts": "1587358191.062300",
-    "parent_user_id": "UAVCC2X70"
+    "parent_user_id": "UAVCC2X70",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "7508aefe-7234-4e3b-92de-0e3c2dc66a7f",
@@ -4620,7 +4692,8 @@
       }
     ],
     "thread_ts": "1587348791.055900",
-    "parent_user_id": "UEQ6M68H0"
+    "parent_user_id": "UEQ6M68H0",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "8b3aaad3-938a-4cef-a8d9-c26dc74fbfb8",
@@ -4660,7 +4733,8 @@
       }
     ],
     "thread_ts": "1587348791.055900",
-    "parent_user_id": "UEQ6M68H0"
+    "parent_user_id": "UEQ6M68H0",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "c5be3491-db26-48c7-8e7c-4098901e243d",
@@ -4709,7 +4783,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "1a7687bf-1ec9-4958-8bc9-a58f4e3535f0",
@@ -4749,7 +4824,8 @@
       }
     ],
     "thread_ts": "1587348791.055900",
-    "parent_user_id": "UEQ6M68H0"
+    "parent_user_id": "UEQ6M68H0",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "54274d29-8c36-4479-8934-ad6e2d5e6ece",
@@ -4886,7 +4962,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "319f25df-97af-4d80-9e5b-0cf2110eefc9",
@@ -4938,7 +5015,8 @@
       }
     ],
     "thread_ts": "1587367625.063900",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "4e01457a-7e2a-4dcb-acf7-57158090057a",
@@ -4987,7 +5065,8 @@
       }
     ],
     "thread_ts": "1587370439.067000",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "8608954a-88c0-4613-a761-725ebadd4ada",
@@ -5036,7 +5115,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "76258c07-405b-43fa-9de6-fda6018a45b5",
@@ -5085,7 +5165,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "0263ddfd-6459-4bd3-a21d-190756e51119",
@@ -5125,7 +5206,8 @@
       }
     ],
     "thread_ts": "1587370439.067000",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "85559749-50f9-4c29-bf3f-5178445ea883",
@@ -5186,7 +5268,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "D3AB0E44-A6AE-48A8-B180-17F4479F04E0",
@@ -5226,7 +5309,8 @@
       }
     ],
     "thread_ts": "1587370439.067000",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "dfbb0fa5-aeb8-4bab-90f5-5e9dce30aa14",
@@ -5270,7 +5354,8 @@
       }
     ],
     "thread_ts": "1587370439.067000",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "8e55af2b-94f0-4bbd-84fd-7f55f3fcb1f4",
@@ -5310,7 +5395,8 @@
       }
     ],
     "thread_ts": "1587367625.063900",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "c9285088-47c2-4b6f-bce4-e3227981a522",
@@ -5350,7 +5436,8 @@
       }
     ],
     "thread_ts": "1587367625.063900",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "3d946941-8949-4440-a97e-cb469b20fa9b",
@@ -5401,7 +5488,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "28f72013-730d-4ba8-94dc-9cf97637cefd",
@@ -5441,7 +5529,8 @@
       }
     ],
     "thread_ts": "1587348791.055900",
-    "parent_user_id": "UEQ6M68H0"
+    "parent_user_id": "UEQ6M68H0",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ff6c5141-ec72-41f1-97d7-994c04bf84db",
@@ -5481,7 +5570,8 @@
       }
     ],
     "thread_ts": "1587367625.063900",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "245a977c-53b7-4450-a00c-ad9c7b5be8ff",
@@ -5535,7 +5625,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "3fb9fc02-d431-45e9-8c4b-30c0e23adf4e",
@@ -5575,7 +5666,8 @@
       }
     ],
     "thread_ts": "1587367625.063900",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "574F7718-EC3F-4540-8065-5C9FB3A63F9C",
@@ -5619,7 +5711,8 @@
       }
     ],
     "thread_ts": "1587245666.042200",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "97ac891f-2e62-466c-b6e8-ab58aaa576d9",
@@ -5663,7 +5756,8 @@
       }
     ],
     "thread_ts": "1586795860.004500",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "f8d5e9df-4a5a-4760-8a26-2ce6643282d6",
@@ -5751,7 +5845,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "bbcaf261-f6bc-4b58-8289-3e01d36550de",
@@ -5791,7 +5886,8 @@
       }
     ],
     "thread_ts": "1587209201.021800",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "4a55796b-71c1-49d1-aae7-d3bd0e0b1802",
@@ -5843,7 +5939,8 @@
       }
     ],
     "thread_ts": "1587245666.042200",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "40079df3-cac9-4bb6-9367-fe09a3251495",
@@ -5887,7 +5984,8 @@
       }
     ],
     "thread_ts": "1586970893.017500",
-    "parent_user_id": "UCKRZS3DZ"
+    "parent_user_id": "UCKRZS3DZ",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ad92bfaf-ef46-4201-ac07-77024a3539cf",
@@ -5927,7 +6025,8 @@
       }
     ],
     "thread_ts": "1587348791.055900",
-    "parent_user_id": "UEQ6M68H0"
+    "parent_user_id": "UEQ6M68H0",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "35dd86d8-4482-43ee-9931-45015e66b2c1",
@@ -5967,7 +6066,8 @@
       }
     ],
     "thread_ts": "1586970893.017500",
-    "parent_user_id": "UCKRZS3DZ"
+    "parent_user_id": "UCKRZS3DZ",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "6C42B247-64CD-4890-B3A4-55BF31BA7FFA",
@@ -6007,7 +6107,8 @@
       }
     ],
     "thread_ts": "1587367625.063900",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "5D59C1DC-A760-4C2E-A73A-3CA7131B1084",
@@ -6056,7 +6157,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "78DB54A8-B873-4F09-A468-9D2FCB26B1C3",
@@ -6096,7 +6198,8 @@
       }
     ],
     "thread_ts": "1587367625.063900",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "cc80a528-5bf2-4da8-b537-27e7b6c27447",
@@ -6136,7 +6239,8 @@
       }
     ],
     "thread_ts": "1587367625.063900",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "018DF7D2-2734-48B9-939C-373711CF6428",
@@ -6189,7 +6293,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "341391fb-aa32-4894-baaf-8c37cc761074",
@@ -6272,7 +6377,8 @@
       }
     ],
     "thread_ts": "1587232993.031500",
-    "parent_user_id": "U79HM6726"
+    "parent_user_id": "U79HM6726",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ca074a78-a958-4ade-9918-3e68659f002c",
@@ -6321,7 +6427,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "8c2533aa-793a-48d8-bddc-1a710f9f70d7",
@@ -6373,7 +6480,8 @@
       }
     ],
     "thread_ts": "1587232993.031500",
-    "parent_user_id": "U79HM6726"
+    "parent_user_id": "U79HM6726",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "88b5dfdd-249e-44a1-868f-4e37adc0c649",
@@ -6421,7 +6529,8 @@
       }
     ],
     "thread_ts": "1587232993.031500",
-    "parent_user_id": "U79HM6726"
+    "parent_user_id": "U79HM6726",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ea8294f5-b6a4-4fc0-8a9f-99a74148aebb",
@@ -6469,7 +6578,8 @@
       }
     ],
     "thread_ts": "1587367625.063900",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "bea68a37-2e59-4f42-bde5-4c33b2eecf21",
@@ -6547,7 +6657,8 @@
       }
     ],
     "thread_ts": "1586970893.017500",
-    "parent_user_id": "UCKRZS3DZ"
+    "parent_user_id": "UCKRZS3DZ",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "955B70A4-3787-40C8-B27E-38BE7AA60D49",
@@ -6587,7 +6698,8 @@
       }
     ],
     "thread_ts": "1587245666.042200",
-    "parent_user_id": "UE6EFEPTQ"
+    "parent_user_id": "UE6EFEPTQ",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "39bc0f39-ef7e-4b00-976b-fb2e8962b00c",
@@ -6627,7 +6739,8 @@
       }
     ],
     "thread_ts": "1587367625.063900",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "57802aac-de2e-414e-a1c4-e4ad78ddef41",
@@ -6676,7 +6789,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "5c8b33fa-f637-43b0-b179-7a1ed57dfd00",
@@ -6720,7 +6834,8 @@
       }
     ],
     "thread_ts": "1587367625.063900",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "5c15ebf5-6ef3-4f00-9d6b-db8580d1b884",
@@ -6798,7 +6913,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "16c08f35-ed80-4d3b-b7da-7d4482072f22",
@@ -6855,7 +6971,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "4805d512-0df9-4c16-bfa9-107ebcd0c9a4",
@@ -6912,7 +7029,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "517fb0b0-64e8-4e1a-b6f0-81be03d2cd07",
@@ -6977,7 +7095,8 @@
       }
     ],
     "thread_ts": "1587370439.067000",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "2a38acbc-9f45-4f72-9d9e-0ee303ab66da",
@@ -7030,7 +7149,8 @@
       }
     ],
     "thread_ts": "1587370439.067000",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -7204,7 +7324,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "6ad67f7a-3772-428f-acc3-c95e8b2806cf",
@@ -7261,7 +7382,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "8da19b57-c6ff-4418-81cb-cd471d87f6fb",
@@ -7301,7 +7423,8 @@
       }
     ],
     "thread_ts": "1587653751.103900",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "5eb27f14-4341-4429-a77f-8937294f5f88",
@@ -7341,7 +7464,8 @@
       }
     ],
     "thread_ts": "1587653751.103900",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -7363,7 +7487,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1587653751.103900",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -7389,7 +7514,8 @@
       "ts": "1587655213.000000"
     },
     "thread_ts": "1587653751.103900",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "9300eba8-35bb-460b-86db-e461b0b7b353",
@@ -7437,7 +7563,8 @@
       }
     ],
     "thread_ts": "1587653751.103900",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -7468,7 +7595,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "d2be657b-1957-4140-9278-92435c625b89",
@@ -7508,7 +7636,8 @@
       }
     ],
     "thread_ts": "1587653751.103900",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -7530,7 +7659,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1587653751.103900",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "9b55d9e9-ce03-49d8-aeb9-29f67e221817",
@@ -7574,7 +7704,8 @@
       }
     ],
     "thread_ts": "1587653751.103900",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "3092b78a-ffe4-4da4-bd28-9a7d9040c575",
@@ -7614,7 +7745,8 @@
       }
     ],
     "thread_ts": "1587653751.103900",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -7636,7 +7768,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1587653751.103900",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -7658,7 +7791,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1587653751.103900",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "5fbc26f6-073f-4b9b-b2e2-991353a6991e",
@@ -7698,7 +7832,8 @@
       }
     ],
     "thread_ts": "1587653751.103900",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "3bc95625-05d2-46e2-9902-189412cfcdf1",
@@ -7738,7 +7873,8 @@
       }
     ],
     "thread_ts": "1587653751.103900",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -7760,7 +7896,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1587653751.103900",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -7782,7 +7919,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1587653751.103900",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "c2ffc9ec-14bc-4ce7-939d-a578cb4b2b49",
@@ -7822,7 +7960,8 @@
       }
     ],
     "thread_ts": "1587653751.103900",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "0d43352e-1849-4a9c-aaec-cf990aead945",
@@ -7889,7 +8028,8 @@
       }
     ],
     "thread_ts": "1587653751.103900",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "cbdcf59b-dc6e-47fd-a6c1-b0c21a3f467f",
@@ -7942,7 +8082,8 @@
       }
     ],
     "thread_ts": "1587653751.103900",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -7968,7 +8109,8 @@
       "ts": "1587714978.000000"
     },
     "thread_ts": "1587653751.103900",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "0da4180b-f459-40a4-96b7-0108b19c0391",
@@ -8062,7 +8204,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "7f4842d4-6063-4077-aa63-cc3e78ff1d17",
@@ -8136,7 +8279,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "0ecefe1b-799f-42bb-a6c1-44964ab1c3c0",
@@ -8190,7 +8334,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -8322,7 +8467,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -8462,7 +8608,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "2e2cad84-84ca-4c3f-a40e-b18debeed05f",
@@ -8531,7 +8678,8 @@
       }
     ],
     "thread_ts": "1587928115.115000",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "b4c5abcb-2631-4484-8939-c28948ddca77",
@@ -8571,7 +8719,8 @@
       }
     ],
     "thread_ts": "1587928115.115000",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ce29f771-5779-4fe0-98fd-47a806ee1af1",
@@ -8611,7 +8760,8 @@
       }
     ],
     "thread_ts": "1587928115.115000",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "E3E0CC28-F2B2-4AC1-AAF6-E764A301E432",
@@ -8668,7 +8818,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "526c65fe-8188-4d11-9e6c-29fb484a8ef9",
@@ -8708,7 +8859,8 @@
       }
     ],
     "thread_ts": "1587367625.063900",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "190bb672-6d89-4f02-b930-a5d8c0eb4214",
@@ -8748,7 +8900,8 @@
       }
     ],
     "thread_ts": "1587367625.063900",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "c32c4ea3-1d33-42d3-a020-f3d1d38f4cf6",
@@ -8857,7 +9010,8 @@
         ],
         "count": 9
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "305d665a-fb31-48be-9a1d-8fe762a85bc8",
@@ -8897,7 +9051,8 @@
       }
     ],
     "thread_ts": "1587367625.063900",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "5680145e-205e-4bbf-94a6-1c0d754e1c51",
@@ -8947,7 +9102,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "9457db8c-3237-4e4d-adfe-160a4f05cb50",
@@ -8996,7 +9152,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "31182e93-4ecb-430a-8ff2-1ceb972d9eff",
@@ -9040,7 +9197,8 @@
       }
     ],
     "thread_ts": "1587928115.115000",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "0199947c-4a76-4b23-b6a6-e67c1abc904c",
@@ -9092,7 +9250,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "C5EB3972-47B6-47B5-BE93-9D049B02D5AA",
@@ -9150,7 +9309,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "f308c253-98e8-4003-a5c9-c3cd41febb2a",
@@ -9194,7 +9354,8 @@
       }
     ],
     "thread_ts": "1587909109.114500",
-    "parent_user_id": "U79HM6726"
+    "parent_user_id": "U79HM6726",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "6d670665-77b0-4913-8603-5631d7a6ed2f",
@@ -9234,7 +9395,8 @@
       }
     ],
     "thread_ts": "1587909109.114500",
-    "parent_user_id": "U79HM6726"
+    "parent_user_id": "U79HM6726",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "28f3334e-c269-47f7-9d8b-8f1865c57fac",
@@ -9274,7 +9436,8 @@
       }
     ],
     "thread_ts": "1587909109.114500",
-    "parent_user_id": "U79HM6726"
+    "parent_user_id": "U79HM6726",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "adef1f5e-f5f7-4b6b-bc84-432b918dec25",
@@ -9318,7 +9481,8 @@
       }
     ],
     "thread_ts": "1587936094.125800",
-    "parent_user_id": "UEQ6M68H0"
+    "parent_user_id": "UEQ6M68H0",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ce24e5ea-a78b-44e0-be14-8b6cd3cb6bd8",
@@ -9358,7 +9522,8 @@
       }
     ],
     "thread_ts": "1587928115.115000",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "05fa65ad-339f-47c1-85de-a2f205074e70",
@@ -9459,7 +9624,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "51999574-8337-41bc-a93d-4b28eddb3db5",
@@ -9517,7 +9683,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "092e33e8-69bb-4dee-971f-bef8011f4f2f",
@@ -9579,7 +9746,8 @@
       }
     ],
     "thread_ts": "1587928115.115000",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "2854a04d-fea0-4e67-8a54-0b7194b67de3",
@@ -9619,7 +9787,8 @@
       }
     ],
     "thread_ts": "1587928115.115000",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "88186b07-cfdd-45b7-b2a8-97d8f4a98790",
@@ -9659,7 +9828,8 @@
       }
     ],
     "thread_ts": "1587928115.115000",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -9722,7 +9892,8 @@
     "ts": "1587987922.144400",
     "client_msg_id": "5b58b621-5c34-4aa2-8a2a-6b67ff91d13d",
     "thread_ts": "1587928115.115000",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "960f655a-4661-4348-916d-d0a88c98f64e",
@@ -9770,7 +9941,8 @@
       }
     ],
     "thread_ts": "1587928115.115000",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -9813,7 +9985,8 @@
       }
     ],
     "thread_ts": "1587909109.114500",
-    "parent_user_id": "U79HM6726"
+    "parent_user_id": "U79HM6726",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "91f512bb-34c1-4c72-9c74-b51148c4cd1d",
@@ -9861,7 +10034,8 @@
       }
     ],
     "thread_ts": "1587909109.114500",
-    "parent_user_id": "U79HM6726"
+    "parent_user_id": "U79HM6726",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -9892,7 +10066,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "1ce67ca2-a68f-4677-a1f2-325a06d69897",
@@ -9941,7 +10116,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "2C431BA7-8C0D-4CDC-A87B-4470F14C4734",
@@ -9989,7 +10165,8 @@
       }
     ],
     "thread_ts": "1587909109.114500",
-    "parent_user_id": "U79HM6726"
+    "parent_user_id": "U79HM6726",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "791db668-ec28-4d37-bf85-e5a64753f86d",
@@ -10040,7 +10217,8 @@
       }
     ],
     "thread_ts": "1587909109.114500",
-    "parent_user_id": "U79HM6726"
+    "parent_user_id": "U79HM6726",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "f1775e3a-3d92-444a-99ad-ce175d96fe6a",
@@ -10080,7 +10258,8 @@
       }
     ],
     "thread_ts": "1587936094.125800",
-    "parent_user_id": "UEQ6M68H0"
+    "parent_user_id": "UEQ6M68H0",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "8d2446f9-b1ab-41f4-ae92-deb348d08c35",
@@ -10122,7 +10301,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "3a812460-5bf1-46be-9e9f-45557ffc1964",
@@ -10238,7 +10418,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "04121f4d-0d2b-4447-b311-1c5cbe9ad717",
@@ -10278,7 +10459,8 @@
       }
     ],
     "thread_ts": "1588184847.161100",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "3ed63c4e-6dbe-489b-a54b-99e277df6228",
@@ -10318,7 +10500,8 @@
       }
     ],
     "thread_ts": "1588184847.161100",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "6ec13685-6e13-41c7-a662-ebae5fe02a95",
@@ -10358,7 +10541,8 @@
       }
     ],
     "thread_ts": "1588184847.161100",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "bfafcecc-319b-4e28-b430-fd536c5eb867",
@@ -10402,7 +10586,8 @@
       }
     ],
     "thread_ts": "1588184847.161100",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "c4cadac0-f91c-458e-bd0a-d7b3a00214b5",
@@ -10446,7 +10631,8 @@
       }
     ],
     "thread_ts": "1588184847.161100",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "71296679-fe0a-4fef-a541-1265ab27fd52",
@@ -10605,7 +10791,8 @@
       }
     ],
     "thread_ts": "1588184847.161100",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "9c1f1a45-c8eb-4f9f-b3de-8fc54cd87af2",
@@ -10645,7 +10832,8 @@
       }
     ],
     "thread_ts": "1588184847.161100",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "56548ddb-ecd3-4bb9-a52e-7f554a7a1b8e",
@@ -10695,7 +10883,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "0d548187-6f47-4711-8fb8-bfe70b04844b",
@@ -10735,7 +10924,8 @@
       }
     ],
     "thread_ts": "1588184847.161100",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "7226d072-142b-4a1d-8d1f-f6d42d7068af",
@@ -10854,7 +11044,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "bd0b077b-39f1-4b8b-b037-dae3078c0f4d",
@@ -10902,7 +11093,8 @@
       }
     ],
     "thread_ts": "1588418863.166800",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "1f969a46-7a8c-455a-bd09-42914d90c424",
@@ -10963,7 +11155,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "67b46814-d871-4264-ab8b-8088cedd0516",
@@ -11007,7 +11200,8 @@
       }
     ],
     "thread_ts": "1588418863.166800",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "2900fa46-9e59-43c6-9d7c-430105e38072",
@@ -11063,7 +11257,8 @@
       }
     ],
     "thread_ts": "1588418863.166800",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "e25f9c6f-6452-4f23-b34c-62ee50a2a8ef",
@@ -11103,7 +11298,8 @@
       }
     ],
     "thread_ts": "1588418863.166800",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "C2114083-39D8-4AA6-BAF3-FADC099B0443",
@@ -11143,7 +11339,8 @@
       }
     ],
     "thread_ts": "1588418863.166800",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "386D0E68-1E78-4BD4-936F-678C235FE7B1",
@@ -11183,7 +11380,8 @@
       }
     ],
     "thread_ts": "1588418863.166800",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "30841E02-E913-4862-BE22-3BC75FA7BCD9",
@@ -11266,7 +11464,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "2BDD57D6-B9B8-4DE8-837A-9E383AF90759",
@@ -11341,7 +11540,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "aab9de87-1a6e-4080-a467-5ed43a915346",
@@ -11381,7 +11581,8 @@
       }
     ],
     "thread_ts": "1588184847.161100",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "c8652822-3548-4f7b-9ab5-48615cc23704",
@@ -11425,7 +11626,8 @@
       }
     ],
     "thread_ts": "1588184847.161100",
-    "parent_user_id": "UEP7RL0HX"
+    "parent_user_id": "UEP7RL0HX",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "122dd571-69db-4194-bafe-4e2bffacbc42",
@@ -11465,7 +11667,8 @@
       }
     ],
     "thread_ts": "1588418863.166800",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -11573,7 +11776,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "d4c87e85-d608-446f-ba8f-5e37ae7c46d6",
@@ -11622,7 +11826,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "1fca50a0-3521-4803-b200-48a1418537db",
@@ -11671,7 +11876,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "cfc8ad49-b89c-4264-8df6-74f684cd5134",
@@ -11711,7 +11917,8 @@
       }
     ],
     "thread_ts": "1588532907.177100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "277fad2d-bbf8-4b1a-8e01-94aee0f63fed",
@@ -11760,7 +11967,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "6e7eacc3-53f8-46f3-8cbe-d3a49cc5d856",
@@ -11800,7 +12008,8 @@
       }
     ],
     "thread_ts": "1588532907.177100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "8FB27A2E-AA00-4052-BD73-600FD3306E09",
@@ -11849,7 +12058,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "399c267a-7b67-44b4-8a11-65699fffb125",
@@ -11944,7 +12154,8 @@
         ],
         "count": 5
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "28f52213-31d2-4f55-bfaf-7778e600f83e",
@@ -11984,7 +12195,8 @@
       }
     ],
     "thread_ts": "1588654823.195200",
-    "parent_user_id": "UEQ6M68H0"
+    "parent_user_id": "UEQ6M68H0",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ED8C645D-0454-41CE-82F2-CA1D8D82FF0F",
@@ -12140,7 +12352,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "64e114aa-dfd9-42fe-9278-ba82d2ec3ef2",
@@ -12180,7 +12393,8 @@
       }
     ],
     "thread_ts": "1588677924.203300",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "F24EA96E-4C23-4C05-AF27-1476E492793E",
@@ -12220,7 +12434,8 @@
       }
     ],
     "thread_ts": "1588677924.203300",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "13472ad7-868e-4d31-96f9-f51d6128b3e1",
@@ -12269,7 +12484,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -12387,7 +12603,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "d2503a9f-4602-4f3b-b910-5d767063428e",
@@ -12427,7 +12644,8 @@
       }
     ],
     "thread_ts": "1588677924.203300",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "283716e0-606b-4e82-97cd-0fa4349c60a2",
@@ -12482,7 +12700,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "79fee467-2119-4d89-b2c5-202bb4283229",
@@ -12531,7 +12750,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "D4231483-D6A3-4BE2-AEDA-7EA438D22F6E",
@@ -12571,7 +12791,8 @@
       }
     ],
     "thread_ts": "1588677924.203300",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "5896B2F6-6C7E-4003-8992-84D9BDC157FE",
@@ -12611,7 +12832,8 @@
       }
     ],
     "thread_ts": "1588677924.203300",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "c2c97c1f-83f4-4c93-a0d1-888e87c0f084",
@@ -12651,7 +12873,8 @@
       }
     ],
     "thread_ts": "1588780636.214000",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -12818,7 +13041,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "dabd95c5-b51e-4f7e-9e61-13c8347924b5",
@@ -12908,7 +13132,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "f254e262-e280-4ed2-a013-9ff38c929702",
@@ -12966,7 +13191,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "3c8f2609-1f19-475f-a6ea-e9dfa648bba5",
@@ -13015,7 +13241,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "853E1A4A-CF78-4E6B-8C2E-8949FCF18C8B",
@@ -13070,7 +13297,8 @@
       }
     ],
     "thread_ts": "1588802632.228900",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "A06D8A65-956E-4FA0-81A5-96F66913AEC5",
@@ -13114,7 +13342,8 @@
       }
     ],
     "thread_ts": "1588802632.228900",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "2afad1ce-2d2f-488e-a363-b3973b003868",
@@ -13167,7 +13396,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "0a42f818-fb72-4c59-95a3-0d1fdeea93df",
@@ -13207,7 +13437,8 @@
       }
     ],
     "thread_ts": "1588802632.228900",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "d87f3445-7d55-4c37-a58c-6a40b7071354",
@@ -13247,7 +13478,8 @@
       }
     ],
     "thread_ts": "1588677924.203300",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -13331,7 +13563,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "739e9b1f-4d4b-4144-8484-a02afbed491e",
@@ -13408,7 +13641,8 @@
       }
     ],
     "thread_ts": "1588802632.228900",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "4D539654-0302-46D3-AD78-8C8DC0761FFD",
@@ -13448,7 +13682,8 @@
       }
     ],
     "thread_ts": "1588677924.203300",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "DA64B92D-14DA-4C6B-BA13-CA70110D251E",
@@ -13488,7 +13723,8 @@
       }
     ],
     "thread_ts": "1588802632.228900",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "3b5b9ff5-790f-4ff4-98dd-8848ee6164c3",
@@ -13560,7 +13796,8 @@
       }
     ],
     "thread_ts": "1588802632.228900",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "3708cc85-7673-458d-959d-36ef78ad23c5",
@@ -13670,7 +13907,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "13d0a6cf-f6df-41d2-8120-33ef1e9a7997",
@@ -13719,7 +13957,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "837a6e8d-e346-43ea-a6c0-5d5857672ae5",
@@ -13759,7 +13998,8 @@
       }
     ],
     "thread_ts": "1588780636.214000",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "a4e4a837-4e36-4342-8ee8-e54991b0dbf6",
@@ -13860,7 +14100,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "875f4150-8dc0-4aa7-af14-6aa7e08e567f",
@@ -13904,7 +14145,8 @@
       }
     ],
     "thread_ts": "1588945102.263500",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -13926,7 +14168,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1588780636.214000",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ad857415-fbd6-40e8-be58-fe6cef77431c",
@@ -13966,7 +14209,8 @@
       }
     ],
     "thread_ts": "1588677924.203300",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "062cb8fc-9a84-4b88-a1d5-af02b956a8f6",
@@ -14006,7 +14250,8 @@
       }
     ],
     "thread_ts": "1588945102.263500",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "fea8b8c2-7760-4553-86f1-ad139125c15d",
@@ -14055,7 +14300,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "499caf32-67e0-4de2-a4dc-69b58294cdc5",
@@ -14095,7 +14341,8 @@
       }
     ],
     "thread_ts": "1588945102.263500",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "D028E5BC-E650-4FDE-AD53-93996BD2C384",
@@ -14135,7 +14382,8 @@
       }
     ],
     "thread_ts": "1588677924.203300",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "a9f81758-583c-45f6-ab63-970526c5d7f9",
@@ -14213,7 +14461,8 @@
       }
     ],
     "thread_ts": "1588908383.261900",
-    "parent_user_id": "ULK0Z4MPV"
+    "parent_user_id": "ULK0Z4MPV",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "157166f1-5c3b-44b3-bd4b-c3dc508cf004",
@@ -14253,7 +14502,8 @@
       }
     ],
     "thread_ts": "1588677924.203300",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "EBBD7143-699B-4D08-BC1B-B112BC3D3217",
@@ -14307,7 +14557,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "DE672137-E3B6-4A57-8386-5F42829970C2",
@@ -14347,7 +14598,8 @@
       }
     ],
     "thread_ts": "1588780636.214000",
-    "parent_user_id": "UNGNT3BKR"
+    "parent_user_id": "UNGNT3BKR",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "219BF89A-22A3-43C4-9B49-AE505D6FC2BC",
@@ -14387,7 +14639,8 @@
       }
     ],
     "thread_ts": "1588677924.203300",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "7BB20C01-7D76-434A-8A0F-F8326401C208",
@@ -14427,7 +14680,8 @@
       }
     ],
     "thread_ts": "1588677924.203300",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -14462,7 +14716,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "a0277d3e-6cce-4b9f-9121-07a9b28da4dd",
@@ -14506,7 +14761,8 @@
       }
     ],
     "thread_ts": "1588677924.203300",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "BFE5D404-F56B-46F4-BC7D-14996105BCA1",
@@ -14546,7 +14802,8 @@
       }
     ],
     "thread_ts": "1588677924.203300",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "dbdef38a-3b35-46e7-a0fd-62cb6c5091b7",
@@ -14656,7 +14913,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ead4f08d-e80a-49e6-9ea6-012187320bba",
@@ -14696,7 +14954,8 @@
       }
     ],
     "thread_ts": "1589079026.313600",
-    "parent_user_id": "UEQ6M68H0"
+    "parent_user_id": "UEQ6M68H0",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "c13e4641-b8b7-4e52-ac04-b0ce50e44f00",
@@ -14758,7 +15017,8 @@
       }
     ],
     "thread_ts": "1588802632.228900",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "8f2d4a0a-5911-4374-a1d4-7c5383a2247e",
@@ -14815,7 +15075,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "39497386-f636-434f-b465-eff08d1371ef",
@@ -14877,7 +15138,8 @@
       }
     ],
     "thread_ts": "1588802632.228900",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "1fe4f766-96cb-41ff-9a52-8b025ac1ad8e",
@@ -14935,7 +15197,8 @@
       }
     ],
     "thread_ts": "1588802632.228900",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "1e23fd0f-c071-4a82-a65a-fed78657f477",
@@ -15024,7 +15287,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -15108,7 +15372,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "80229ECC-A0BD-47D8-883F-F297B98F36DD",
@@ -15178,7 +15443,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "23E6E037-2F3A-4B47-AF73-75CF7EC8C165",
@@ -15410,7 +15676,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ee19cced-d819-4205-b0d7-d3afe1c0b660",
@@ -15570,7 +15837,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "7B842009-32C7-4504-910F-61A2A736B731",
@@ -15610,7 +15878,8 @@
       }
     ],
     "thread_ts": "1589545233.329100",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "789618b2-e9b4-41d1-83c0-d977c0944a16",
@@ -15650,7 +15919,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "486F037C-4EF8-4FED-998E-B8AC9652623B",
@@ -15690,7 +15960,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "a8fe30e5-fc13-4e96-9083-b46f4922b05a",
@@ -15730,7 +16001,8 @@
       }
     ],
     "thread_ts": "1589545233.329100",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "B3C15B83-88C3-4196-8560-F1153F5DB610",
@@ -15770,7 +16042,8 @@
       }
     ],
     "thread_ts": "1589545233.329100",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "6a2a2633-f7be-40ea-b205-650a20bd47a3",
@@ -15810,7 +16083,8 @@
       }
     ],
     "thread_ts": "1589545233.329100",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "98BAEB40-2C7B-4081-9C64-14E5E07FFAFF",
@@ -15850,7 +16124,8 @@
       }
     ],
     "thread_ts": "1589545233.329100",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "1cd21770-3b7a-4078-bf28-d13636e43aa7",
@@ -15894,7 +16169,8 @@
       }
     ],
     "thread_ts": "1589545233.329100",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "A6F81FB2-C0C6-4872-99A4-332C513ACC6B",
@@ -15934,7 +16210,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "6fc04df4-c6cf-491a-ade3-539e7824528f",
@@ -16100,7 +16377,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "b1a5e104-da15-4ce0-aafc-ead67cf0f50d",
@@ -16140,7 +16418,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "38a59570-7886-4aeb-baf0-cd97ff4be9af",
@@ -16184,7 +16463,8 @@
       }
     ],
     "thread_ts": "1589558372.347500",
-    "parent_user_id": "ULK0Z4MPV"
+    "parent_user_id": "ULK0Z4MPV",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "edd731e8-9f5c-4844-86ee-8393e2bcc066",
@@ -16224,7 +16504,8 @@
       }
     ],
     "thread_ts": "1589558372.347500",
-    "parent_user_id": "ULK0Z4MPV"
+    "parent_user_id": "ULK0Z4MPV",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "BDC523B7-1B82-4652-BF52-0B1CAF3E90A1",
@@ -16273,7 +16554,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "fcb596aa-3671-4cc8-b31e-d39c52fa84c8",
@@ -16313,7 +16595,8 @@
       }
     ],
     "thread_ts": "1589545233.329100",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "8208B5DC-EA7F-4D89-B31B-BA65323101F1",
@@ -16362,7 +16645,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "fe4b29e0-b6a5-4a13-b100-9d7a614f4365",
@@ -16402,7 +16686,8 @@
       }
     ],
     "thread_ts": "1589558372.347500",
-    "parent_user_id": "ULK0Z4MPV"
+    "parent_user_id": "ULK0Z4MPV",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "13c38303-0e4a-4aaa-a974-c83b44d9777b",
@@ -16442,7 +16727,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "500e45d5-8474-437d-9418-0b6befab5cb7",
@@ -16482,7 +16768,8 @@
       }
     ],
     "thread_ts": "1589558372.347500",
-    "parent_user_id": "ULK0Z4MPV"
+    "parent_user_id": "ULK0Z4MPV",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "f752e112-f047-4c3e-a389-5394855c4f49",
@@ -16522,7 +16809,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "6a7e8c28-301e-4642-b9e7-8f8fc9ee7e27",
@@ -16601,7 +16889,8 @@
       }
     ],
     "thread_ts": "1589558372.347500",
-    "parent_user_id": "ULK0Z4MPV"
+    "parent_user_id": "ULK0Z4MPV",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "744D0B6C-4C67-4097-A7EB-7A3254166A63",
@@ -16641,7 +16930,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "A9A68469-B861-4CDD-8A64-EC132C92EA10",
@@ -16690,7 +16980,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "355c7c85-56e6-4926-8446-6bb1ffd38508",
@@ -16730,7 +17021,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "8CF235A9-B2EF-4A4A-B5C1-9E5380A5905D",
@@ -16770,7 +17062,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -16850,7 +17143,8 @@
     "ts": "1589562748.372700",
     "client_msg_id": "2386cd8c-280b-4947-b432-d7572115e381",
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "2c7333cd-a536-4349-85b8-c6a7da6c853a",
@@ -16910,7 +17204,8 @@
       }
     ],
     "thread_ts": "1589558372.347500",
-    "parent_user_id": "ULK0Z4MPV"
+    "parent_user_id": "ULK0Z4MPV",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "120bf3b3-5e18-4f0d-9a02-7a8da5b7095b",
@@ -16950,7 +17245,8 @@
       }
     ],
     "thread_ts": "1589558372.347500",
-    "parent_user_id": "ULK0Z4MPV"
+    "parent_user_id": "ULK0Z4MPV",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ba52e9d1-8934-4163-b6e0-95cd85f0d787",
@@ -16990,7 +17286,8 @@
       }
     ],
     "thread_ts": "1589558372.347500",
-    "parent_user_id": "ULK0Z4MPV"
+    "parent_user_id": "ULK0Z4MPV",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "bfe76431-bbc7-4c01-8c09-0f4592e0b8aa",
@@ -17030,7 +17327,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ee7688cb-7d56-4f0a-ba19-ae2566c6de92",
@@ -17070,7 +17368,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "CC53C0E0-628A-4148-B085-68658431976E",
@@ -17110,7 +17409,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "3EFC862D-BA13-4662-9F23-7AA830FE3569",
@@ -17150,7 +17450,8 @@
       }
     ],
     "thread_ts": "1589558372.347500",
-    "parent_user_id": "ULK0Z4MPV"
+    "parent_user_id": "ULK0Z4MPV",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "96f279b4-a667-493e-a65a-c179fe6ee4ed",
@@ -17229,7 +17530,8 @@
       }
     ],
     "thread_ts": "1589558372.347500",
-    "parent_user_id": "ULK0Z4MPV"
+    "parent_user_id": "ULK0Z4MPV",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "7a6073ba-0481-4866-bcc0-46f5982cc016",
@@ -17269,7 +17571,8 @@
       }
     ],
     "thread_ts": "1589558372.347500",
-    "parent_user_id": "ULK0Z4MPV"
+    "parent_user_id": "ULK0Z4MPV",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "cbe82b3e-3320-428e-b50d-5b5fe1f757dc",
@@ -17326,7 +17629,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "cc3b4cd3-ea67-441d-b5b5-ca70f7689192",
@@ -17391,7 +17695,8 @@
       }
     ],
     "thread_ts": "1589545233.329100",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "c236c088-fac9-4b91-a420-78bfb2189706",
@@ -17439,7 +17744,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -17519,7 +17825,8 @@
     "ts": "1589627753.385600",
     "client_msg_id": "3787db61-1487-4e6c-9fa4-f3cbabfc917c",
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -17655,7 +17962,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "7dc2da12-6f9f-4b1b-b2f6-6fb63fc36d28",
@@ -17754,7 +18062,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "4AAED76D-541F-4C41-ADD6-2E6DBF36130C",
@@ -17794,7 +18103,8 @@
       }
     ],
     "thread_ts": "1589660842.386100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "606b63ce-abaf-4fb8-87bd-321ed0a1d928",
@@ -17842,7 +18152,8 @@
       }
     ],
     "thread_ts": "1589558372.347500",
-    "parent_user_id": "ULK0Z4MPV"
+    "parent_user_id": "ULK0Z4MPV",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "97984798-FBF0-4D03-83DD-FA38C099B675",
@@ -17882,7 +18193,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "2dcc55c7-6311-422c-8ea9-ddeb903b3487",
@@ -17922,7 +18234,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "e2d1d382-36e4-444d-b211-d260fe1e984a",
@@ -17962,7 +18275,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "E5386B23-CF3C-49AD-A118-1CEF2C6C64C8",
@@ -18002,7 +18316,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "EBBEEB53-D206-4796-BBA7-7875949EB219",
@@ -18042,7 +18357,8 @@
       }
     ],
     "thread_ts": "1589660842.386100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "B1250589-9054-4240-A4D8-A6AE7FB57443",
@@ -18082,7 +18398,8 @@
       }
     ],
     "thread_ts": "1589660842.386100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "f48a00fa-5683-47a7-90de-08c6d2853b5b",
@@ -18126,7 +18443,8 @@
       }
     ],
     "thread_ts": "1589558372.347500",
-    "parent_user_id": "ULK0Z4MPV"
+    "parent_user_id": "ULK0Z4MPV",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "D0D8C98F-E543-4C9B-BE07-833E2107D88F",
@@ -18166,7 +18484,8 @@
       }
     ],
     "thread_ts": "1589558372.347500",
-    "parent_user_id": "ULK0Z4MPV"
+    "parent_user_id": "ULK0Z4MPV",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -18205,7 +18524,8 @@
     },
     "client_msg_id": "5d553bd4-f8f2-4645-8c95-787a440e555c",
     "thread_ts": "1589660842.386100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "6c1f24be-2bbb-41b8-810d-f4d6340e9dc8",
@@ -18249,7 +18569,8 @@
       }
     ],
     "thread_ts": "1589660842.386100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "23718c26-5065-4582-9607-b0975b1d2a1d",
@@ -18289,7 +18610,8 @@
       }
     ],
     "thread_ts": "1589660842.386100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "563d312b-b639-4cf2-bfb4-79ef4b6015b1",
@@ -18333,7 +18655,8 @@
       }
     ],
     "thread_ts": "1589660842.386100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "F69762AD-C0D0-4797-999A-226871956B07",
@@ -18377,7 +18700,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "5306779C-29DF-4B82-AD91-E33A5FA912FA",
@@ -18417,7 +18741,8 @@
       }
     ],
     "thread_ts": "1589660842.386100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -18443,7 +18768,8 @@
       "ts": "1589788681.000000"
     },
     "thread_ts": "1589660842.386100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "854fcd38-c6d4-4a43-bca7-504f33c9397e",
@@ -18500,7 +18826,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "3124d764-03ac-4590-a12e-c3741fde3b46",
@@ -18548,7 +18875,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "1508599c-ef46-4207-b3fa-76b6b632f505",
@@ -18626,7 +18954,8 @@
       }
     ],
     "thread_ts": "1589558372.347500",
-    "parent_user_id": "ULK0Z4MPV"
+    "parent_user_id": "ULK0Z4MPV",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "8877720a-3da6-4dd4-853f-43096d1861f1",
@@ -18666,7 +18995,8 @@
       }
     ],
     "thread_ts": "1589558372.347500",
-    "parent_user_id": "ULK0Z4MPV"
+    "parent_user_id": "ULK0Z4MPV",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "5a02adc8-e43b-4670-adec-3e4f59a2ec11",
@@ -18728,7 +19058,8 @@
       }
     ],
     "thread_ts": "1589079026.313600",
-    "parent_user_id": "UEQ6M68H0"
+    "parent_user_id": "UEQ6M68H0",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "fb2e6bc2-e532-41ba-b77d-3f941d429113",
@@ -18783,7 +19114,8 @@
       }
     ],
     "thread_ts": "1589079026.313600",
-    "parent_user_id": "UEQ6M68H0"
+    "parent_user_id": "UEQ6M68H0",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "c8e9dcac-e57b-46a0-8a9c-ae48ec5156e5",
@@ -18823,7 +19155,8 @@
       }
     ],
     "thread_ts": "1589200973.318200",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "d73c9cd2-4574-4181-91a4-866aea598520",
@@ -18863,7 +19196,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "a8407cf1-e6cd-44e6-9b8d-4498ad4fad73",
@@ -18903,7 +19237,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "eadfbb40-f819-409e-8d9c-dc2061cb96b1",
@@ -18943,7 +19278,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "57422545-bcf2-424a-a7fb-dd51bd16be9e",
@@ -19008,7 +19344,8 @@
       }
     ],
     "thread_ts": "1589545233.329100",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "e255880e-1d93-47a2-915e-18743f8e872c",
@@ -19059,7 +19396,8 @@
       }
     ],
     "thread_ts": "1589660842.386100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "3ac419fd-0bfd-4904-a03c-0564d3794701",
@@ -19099,7 +19437,8 @@
       }
     ],
     "thread_ts": "1589545233.329100",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "EF14A71F-0B14-4F00-94F1-8FDF6F267404",
@@ -19139,7 +19478,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "731bb166-38dd-45c1-9c46-7546d37a91a2",
@@ -19188,7 +19528,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "19b5a0db-26f0-49e9-ba56-2c5ff2ca3a9e",
@@ -19228,7 +19569,8 @@
       }
     ],
     "thread_ts": "1589558372.347500",
-    "parent_user_id": "ULK0Z4MPV"
+    "parent_user_id": "ULK0Z4MPV",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -19325,7 +19667,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "f34b2a31-3451-4c9a-8821-8d5ae24efe5e",
@@ -19369,7 +19712,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "2282feff-13c3-43a5-a9cc-5bead9a8da51",
@@ -19409,7 +19753,8 @@
       }
     ],
     "thread_ts": "1589545233.329100",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -19475,7 +19820,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "dce82c74-015e-4b49-a319-ff3d2ca604a0",
@@ -19524,7 +19870,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "d9f7a691-93fc-4f94-a1ab-abc7313a3803",
@@ -19568,7 +19915,8 @@
       }
     ],
     "thread_ts": "1589545233.329100",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "e77606fa-c807-4d62-b17d-be065b6f38fc",
@@ -19617,7 +19965,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "50617053-13F1-4D9B-9437-1F864491525F",
@@ -19661,7 +20010,8 @@
       }
     ],
     "thread_ts": "1589540394.327600",
-    "parent_user_id": "U0123H7JRDM"
+    "parent_user_id": "U0123H7JRDM",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "8e1c5099-e87c-457a-bb37-5d98c19106d6",
@@ -19777,7 +20127,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "A960C2FA-CCF2-4596-8AB3-0D639D25A084",
@@ -19817,7 +20168,8 @@
       }
     ],
     "thread_ts": "1590151595.422500",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "60b23ff9-d16d-48a9-9c58-520dbc8eab18",
@@ -19870,7 +20222,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "441A1E3F-832A-4014-A127-6FAAC7C1D665",
@@ -19918,7 +20271,8 @@
       }
     ],
     "thread_ts": "1590151595.422500",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "66c84fc8-f6d9-4fb3-bec9-322a93765884",
@@ -19962,7 +20316,8 @@
       }
     ],
     "thread_ts": "1590151595.422500",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ed32b564-d029-4339-b062-de52d38a0ac9",
@@ -20002,7 +20357,8 @@
       }
     ],
     "thread_ts": "1590151595.422500",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -20068,7 +20424,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -20186,7 +20543,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "38343f0f-089b-45e5-b211-51d2bcdbebd1",
@@ -20226,7 +20584,8 @@
       }
     ],
     "thread_ts": "1590252990.431100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ff0a545b-e0f3-4f5e-ac46-574c7f1df2c3",
@@ -20326,7 +20685,8 @@
         ],
         "count": 6
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "84adfa73-4764-4d7c-a873-9b7ad009c272",
@@ -20366,7 +20726,8 @@
       }
     ],
     "thread_ts": "1590252990.431100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "c73cf076-ea3a-400a-90b7-dd1d05fa3b5a",
@@ -20418,7 +20779,8 @@
       }
     ],
     "thread_ts": "1590252990.431100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "8ce1c2f6-fe91-4b58-b9ff-1e8ad950a871",
@@ -20462,7 +20824,8 @@
       }
     ],
     "thread_ts": "1590252990.431100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "1f844082-8e10-4dff-a3da-96266e7ebd0d",
@@ -20502,7 +20865,8 @@
       }
     ],
     "thread_ts": "1590252990.431100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "f696e65d-89e0-4a8b-bbdf-1ea17aa9490d",
@@ -20546,7 +20910,8 @@
       }
     ],
     "thread_ts": "1590252990.431100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "aafd9347-fc8e-4b76-808f-6cc4aff22834",
@@ -20586,7 +20951,8 @@
       }
     ],
     "thread_ts": "1590252990.431100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "6314c93e-1482-4f42-93a2-c786128ea76f",
@@ -20626,7 +20992,8 @@
       }
     ],
     "thread_ts": "1590252990.431100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "61478AC5-9ACE-4B5F-B9CA-447A423B20C2",
@@ -20706,7 +21073,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "154d5ee3-88e5-4e2f-a526-4e0fd70be7d1",
@@ -20746,7 +21114,8 @@
       }
     ],
     "thread_ts": "1590299640.435700",
-    "parent_user_id": "UEQ6M68H0"
+    "parent_user_id": "UEQ6M68H0",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ca1acf22-7ef1-48ff-84ee-b5cf51ee5e97",
@@ -20806,7 +21175,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "56c51730-1194-426a-b118-f0f6306f431f",
@@ -20919,7 +21289,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "4a44376e-295d-4217-8a5f-0cb763f609b0",
@@ -20959,7 +21330,8 @@
       }
     ],
     "thread_ts": "1590444617.442400",
-    "parent_user_id": "UP3FH4CLU"
+    "parent_user_id": "UP3FH4CLU",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "e822382e-2eac-49a9-bd2f-0fd20deb1fc5",
@@ -21056,7 +21428,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ddc37bf3-4372-47dc-bc0f-0495f3ad9b0a",
@@ -21096,7 +21469,8 @@
       }
     ],
     "thread_ts": "1590821231.445400",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "2f3f2fdb-2075-45a4-aa41-750c6cf69c6d",
@@ -21158,7 +21532,8 @@
       }
     ],
     "thread_ts": "1590821231.445400",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "bca088b6-bf37-4886-9945-2992b7fac78b",
@@ -21235,7 +21610,8 @@
       }
     ],
     "thread_ts": "1590821231.445400",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -21376,7 +21752,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "7fea7b66-8636-44a1-b4af-6998d30062ea",
@@ -21432,7 +21809,8 @@
       }
     ],
     "thread_ts": "1590917705.446400",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "1eb1dfae-9507-4508-8676-cc224a41f206",
@@ -21485,7 +21863,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "5aa16f89-e4eb-4d1d-ac88-f0afdb0bd7c3",
@@ -21587,7 +21966,8 @@
         ],
         "count": 5
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "9b90c57d-00e9-4f48-a18c-aa7010bc6a9e",
@@ -21627,7 +22007,8 @@
       }
     ],
     "thread_ts": "1590917705.446400",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "f2c6378e-f6f1-49e3-8291-4f6a442de46f",
@@ -21712,7 +22093,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -21791,7 +22173,8 @@
     "display_as_bot": false,
     "ts": "1591425229.462600",
     "thread_ts": "1590917705.446400",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "de2fc646-9c0c-467a-b2a5-e5e2a07da595",
@@ -21835,7 +22218,8 @@
       }
     ],
     "thread_ts": "1590917705.446400",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "29ca7a14-d1f5-4b9c-a24c-e7add17e5499",
@@ -21875,7 +22259,8 @@
       }
     ],
     "thread_ts": "1590917705.446400",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "af03d0f3-f3a4-40c6-b144-fb0f45ad6dfc",
@@ -21923,7 +22308,8 @@
       }
     ],
     "thread_ts": "1591416656.461700",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "2ff258e5-9c5b-4035-8b36-8787390ee4a5",
@@ -21971,7 +22357,8 @@
       }
     ],
     "thread_ts": "1591416656.461700",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "2db8f0f6-8a6b-4c05-b665-f0d8f370a37a",
@@ -22041,7 +22428,8 @@
       }
     ],
     "thread_ts": "1591416656.461700",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "622aa47d-e73a-402f-87ad-1caeb1df1d88",
@@ -22114,7 +22502,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "a6efe24b-0df5-4772-a743-25104a47d112",
@@ -22154,7 +22543,8 @@
       }
     ],
     "thread_ts": "1591416656.461700",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -22181,7 +22571,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "C560393D-11C6-4D35-9B8F-8B0F84E95297",
@@ -22221,7 +22612,8 @@
       }
     ],
     "thread_ts": "1591416656.461700",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "669a65a6-1758-48d9-8f2a-c827d69c632e",
@@ -22371,7 +22763,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "2608FEFD-450A-4212-AA32-3A316370C51D",
@@ -22428,7 +22821,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "8f6d42b0-7468-498f-a73a-08d7fd211230",
@@ -22499,7 +22893,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "72f08d58-66ec-48d9-8ce1-f0d9aee6a2ec",
@@ -22549,7 +22944,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -22679,7 +23075,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "c9e4d291-d672-4c96-98b1-e53afacde6da",
@@ -22727,7 +23124,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "7d56296b-35b5-4529-8089-69495668f584",
@@ -22771,7 +23169,8 @@
       }
     ],
     "thread_ts": "1592069654.474700",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "B94569EA-A9AB-414D-B42C-888FC8FC4C82",
@@ -22811,7 +23210,8 @@
       }
     ],
     "thread_ts": "1592069654.474700",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -22873,7 +23273,8 @@
     "display_as_bot": false,
     "ts": "1592122627.480200",
     "thread_ts": "1592069654.474700",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "08bbb7f8-e66c-4123-93be-86f3237c06ec",
@@ -22913,7 +23314,8 @@
       }
     ],
     "thread_ts": "1592069654.474700",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "6229ce47-7e72-4484-95ad-f4a47897c6ac",
@@ -22953,7 +23355,8 @@
       }
     ],
     "thread_ts": "1592069654.474700",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "fec01dd9-534f-4420-a439-b8f715d53473",
@@ -23001,7 +23404,8 @@
       }
     ],
     "thread_ts": "1592069654.474700",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "815f8941-3b26-41e1-9778-9b71198b79f1",
@@ -23045,7 +23449,8 @@
       }
     ],
     "thread_ts": "1592069654.474700",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "d3bd9637-b2c7-4b74-be9c-2228cc64b8a0",
@@ -23098,7 +23503,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "AC9A1155-636E-4D0A-9845-129B7FF180D2",
@@ -23138,7 +23544,8 @@
       }
     ],
     "thread_ts": "1592069654.474700",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "06809e2d-823c-45d4-a645-d03286b8162d",
@@ -23190,7 +23597,8 @@
       }
     ],
     "thread_ts": "1592069654.474700",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "73423074-cc26-4ae7-a697-cd9dbb4d8268",
@@ -23552,7 +23960,8 @@
       }
     ],
     "thread_ts": "1592069654.474700",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "96256a7c-42fb-4f36-90b1-1c788c6386e9",
@@ -23592,7 +24001,8 @@
       }
     ],
     "thread_ts": "1592069654.474700",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "eb86e6ff-6ad6-40b3-b66a-8dc3745e2090",
@@ -23699,7 +24109,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "db0a5fe1-deab-43c7-90a0-901b66219e94",
@@ -23739,7 +24150,8 @@
       }
     ],
     "thread_ts": "1592141182.488000",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "4f6d10f4-012c-4f5e-bc1f-7486e850bb4e",
@@ -23779,7 +24191,8 @@
       }
     ],
     "thread_ts": "1592141182.488000",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "76e371c5-81ea-41d2-b54d-7cb96f431dd4",
@@ -23831,7 +24244,8 @@
       }
     ],
     "thread_ts": "1592141182.488000",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "c24eeaae-19f7-4c86-8f12-01987293be22",
@@ -23881,7 +24295,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "49064bd6-30eb-4505-9b0e-acbb9e911bef",
@@ -23921,7 +24336,8 @@
       }
     ],
     "thread_ts": "1592141182.488000",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "bba4197f-8fee-4d5d-98b5-a664251c3917",
@@ -23961,7 +24377,8 @@
       }
     ],
     "thread_ts": "1592141182.488000",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "1c91a20f-a292-4bc5-b2a0-4ee0ea07f438",
@@ -24014,7 +24431,8 @@
       }
     ],
     "thread_ts": "1592141182.488000",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "24df822f-17e6-4f31-90b3-082c903d8b0a",
@@ -24069,7 +24487,8 @@
       }
     ],
     "thread_ts": "1592141182.488000",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "16230ba3-1551-49a9-b28d-cabd6a21f173",
@@ -24118,7 +24537,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "019727eb-45b3-4c5f-92ac-f429ecf6dfdc",
@@ -24158,7 +24578,8 @@
       }
     ],
     "thread_ts": "1591570004.468100",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "27a24aae-158d-406a-9386-feb135197b59",
@@ -24222,7 +24643,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "f1b1a600-d256-4bc1-927f-ed70a3f1960e",
@@ -24350,7 +24772,8 @@
       }
     ],
     "thread_ts": "1591570004.468100",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "515318c7-985f-4c61-b46b-23aff2b79e9a",
@@ -24401,7 +24824,8 @@
       }
     ],
     "thread_ts": "1591570004.468100",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "5aad861c-cab7-4e9c-82a5-3dec50bb5bc7",
@@ -24524,7 +24948,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "6b7fa9fc-272c-4088-be17-535ccde24d35",
@@ -24579,7 +25004,8 @@
       }
     ],
     "thread_ts": "1591570004.468100",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "f4124041-b66a-496f-a679-a9fd06e129b4",
@@ -24646,7 +25072,8 @@
       }
     ],
     "thread_ts": "1591570004.468100",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "a9540d22-e0ab-4d89-b71d-691fdb0a0a9a",
@@ -24703,7 +25130,8 @@
       }
     ],
     "thread_ts": "1591570004.468100",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ed4066cc-6aa0-499a-8a95-3e4cc93555f5",
@@ -24743,7 +25171,8 @@
       }
     ],
     "thread_ts": "1591570004.468100",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "eec1d127-daa9-4dc1-9a51-072b09380252",
@@ -24792,7 +25221,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "7f4a1f07-2ca1-4be6-8e91-01935a7d7d45",
@@ -24832,7 +25262,8 @@
       }
     ],
     "thread_ts": "1592141182.488000",
-    "parent_user_id": "UBN9AFS0N"
+    "parent_user_id": "UBN9AFS0N",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -24920,7 +25351,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "997db694-56c0-4f8d-a19f-b0b77039f49f",
@@ -24962,7 +25394,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "2f5a2685-cfc1-4730-8604-88085a30bb09",
@@ -25067,7 +25500,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "e2d2c704-ac9e-4f77-9189-5cb9d0717d75",
@@ -25111,7 +25545,8 @@
       }
     ],
     "thread_ts": "1593089172.003100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "80daf871-ed6d-43e5-bf2d-bcab3c4c7480",
@@ -25151,7 +25586,8 @@
       }
     ],
     "thread_ts": "1593089172.003100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ac649ae2-58f9-46eb-9e89-cccd905e117e",
@@ -25191,7 +25627,8 @@
       }
     ],
     "thread_ts": "1593089172.003100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "0B5DDCC5-797D-446C-8080-001583F388D6",
@@ -25239,7 +25676,8 @@
       }
     ],
     "thread_ts": "1593089172.003100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "2aa35acb-b871-4e6c-9610-946edf0b7573",
@@ -25279,7 +25717,8 @@
       }
     ],
     "thread_ts": "1593089172.003100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "1de64f4a-50c4-42f2-b7be-ba5827633c2a",
@@ -25392,7 +25831,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "cbee489f-9681-493f-a346-ab634f79e30c",
@@ -25432,7 +25872,8 @@
       }
     ],
     "thread_ts": "1593157107.007000",
-    "parent_user_id": "UAZT04VT4"
+    "parent_user_id": "UAZT04VT4",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ec1f3e05-a053-4f23-8a94-47731fb8ce2b",
@@ -25528,7 +25969,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ba48766f-3eec-4e7f-9ee0-d42396b9823b",
@@ -25572,7 +26014,8 @@
       }
     ],
     "thread_ts": "1593157107.007000",
-    "parent_user_id": "UAZT04VT4"
+    "parent_user_id": "UAZT04VT4",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "6a740bab-ea6c-472e-9b54-7a13f378bea1",
@@ -25647,7 +26090,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "f50d7c7a-6295-4d18-861d-d795dd6da00a",
@@ -25687,7 +26131,8 @@
       }
     ],
     "thread_ts": "1593089172.003100",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "3803a5b8-8738-4a83-9c02-f1315d51244a",
@@ -25727,7 +26172,8 @@
       }
     ],
     "thread_ts": "1593157107.007000",
-    "parent_user_id": "UAZT04VT4"
+    "parent_user_id": "UAZT04VT4",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "fc270c9a-73c8-4dcd-95d0-6ee8b9e7226b",
@@ -25780,7 +26226,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "b30ed35e-965c-4b6d-bdc7-1d411295800a",
@@ -25829,7 +26276,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "942B0241-5449-4C01-8071-D3D707EA0DB0",
@@ -25869,7 +26317,8 @@
       }
     ],
     "thread_ts": "1591570004.468100",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ace06b3c-6ba4-48b2-b9bb-f9c52c29b7cb",
@@ -25909,7 +26358,8 @@
       }
     ],
     "thread_ts": "1591570004.468100",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -26029,7 +26479,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "560aeb46-955e-4525-aafb-de40c2dbf86f",
@@ -26069,7 +26520,8 @@
       }
     ],
     "thread_ts": "1593447459.015000",
-    "parent_user_id": "URKQXRCAC"
+    "parent_user_id": "URKQXRCAC",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "d030bfad-4be5-4c85-94a3-0fdf451984e2",
@@ -26117,7 +26569,8 @@
       }
     ],
     "thread_ts": "1593447459.015000",
-    "parent_user_id": "URKQXRCAC"
+    "parent_user_id": "URKQXRCAC",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "649c6cc4-4739-438f-ad17-f3c580d95d67",
@@ -26157,7 +26610,8 @@
       }
     ],
     "thread_ts": "1593447459.015000",
-    "parent_user_id": "URKQXRCAC"
+    "parent_user_id": "URKQXRCAC",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "d4453884-90e9-4c0d-b999-f1b4309afd71",
@@ -26219,7 +26673,8 @@
       }
     ],
     "thread_ts": "1593447459.015000",
-    "parent_user_id": "URKQXRCAC"
+    "parent_user_id": "URKQXRCAC",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "3b916d89-812e-4415-826e-47ec3d1af731",
@@ -26377,7 +26832,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "66e24824-2acf-47df-803a-a2390ebce28d",
@@ -26437,7 +26893,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "8c2f5c8b-4084-4884-8fa9-90b2bc72e941",
@@ -26499,7 +26956,8 @@
       }
     ],
     "thread_ts": "1593647953.023500",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "1e38ddf7-5371-443d-92c1-8f301f0ce32d",
@@ -26548,7 +27006,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "3941472f-67dd-4153-a999-05b1f84053f0",
@@ -26645,7 +27104,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "eed2cc6c-13d0-4fe6-96de-745a8bcf7a23",
@@ -26683,7 +27143,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "dcd6d9db-344f-4e87-bc07-14757941c59f",
@@ -26865,7 +27326,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "121859c4-cf92-42ac-b756-ae2868dfa3a5",
@@ -26934,7 +27396,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "f6103dd2-a721-47fc-a80b-84bcc2f08210",
@@ -26987,7 +27450,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "cab66a0f-2a4f-49ba-9410-eb9d41acaf10",
@@ -27027,7 +27491,8 @@
       }
     ],
     "thread_ts": "1593647953.023500",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "49b9488c-6b44-40e1-affa-f92f6a6cd4a7",
@@ -27067,7 +27532,8 @@
       }
     ],
     "thread_ts": "1593647953.023500",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "30a552e4-4773-474f-bda3-80f21e9c5360",
@@ -27169,7 +27635,8 @@
       }
     ],
     "thread_ts": "1593647953.023500",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "1a539171-6725-48fe-ae2d-ff4dca3d190e",
@@ -27209,7 +27676,8 @@
       }
     ],
     "thread_ts": "1593647953.023500",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "1fa7a39c-4bfb-4757-ae88-0c3da8a02c0f",
@@ -27253,7 +27721,8 @@
       }
     ],
     "thread_ts": "1593647953.023500",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "cef6a19a-e396-4ff4-84a2-f08c005612d0",
@@ -27293,7 +27762,8 @@
       }
     ],
     "thread_ts": "1593647953.023500",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "37475713-a694-4f03-ae23-796b32fdf8fc",
@@ -27333,7 +27803,8 @@
       }
     ],
     "thread_ts": "1593667067.031300",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "b7a99d4f-0079-47bd-b713-250cb7ce3083",
@@ -27398,7 +27869,8 @@
       }
     ],
     "thread_ts": "1593667067.031300",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "13e4f7bb-c485-40e1-8a83-85c9da006d60",
@@ -27438,7 +27910,8 @@
       }
     ],
     "thread_ts": "1593667067.031300",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "5b686306-df6e-4191-b2ef-c8fb9569b024",
@@ -27491,7 +27964,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "50ad91c2-bb50-454f-8e26-0f382ca5b04a",
@@ -27535,7 +28009,8 @@
       }
     ],
     "thread_ts": "1593667067.031300",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "436178eb-0e25-4d3c-8aa8-9922d5678933",
@@ -27588,7 +28063,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "8b5c43f7-4fec-488e-bfae-77fcc7d0c6cf",
@@ -27669,7 +28145,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "3f68614c-0c84-42c5-b80e-151a1b2e63c8",
@@ -27725,7 +28202,8 @@
       }
     ],
     "thread_ts": "1593667067.031300",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "4ad085c8-4c9e-45a2-bb5d-a4dc3b02ec11",
@@ -27787,7 +28265,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "4024ac92-ce6c-42bb-a14a-3daf81916f0e",
@@ -27839,7 +28318,8 @@
       }
     ],
     "thread_ts": "1593647953.023500",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "30530261-6FB1-4D02-BA3A-A5A4BB7B47C3",
@@ -27909,7 +28389,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "4AC256F4-00A7-4295-8D1A-F7F56235AED1",
@@ -27949,7 +28430,8 @@
       }
     ],
     "thread_ts": "1593667067.031300",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "370B0D44-E3F6-459A-AAFB-0FC68A6668E4",
@@ -27989,7 +28471,8 @@
       }
     ],
     "thread_ts": "1593667067.031300",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "0cc063e3-5b27-4f03-bcdb-23ed3649f019",
@@ -28065,7 +28548,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "7ec448b6-0c57-4e11-b02c-279a576088f2",
@@ -28113,7 +28597,8 @@
       }
     ],
     "thread_ts": "1593647953.023500",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "f399f859-7e9f-451e-99b3-3374a3a00209",
@@ -28243,7 +28728,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "668b735f-3bfd-42a2-b547-6b4eac634cce",
@@ -28304,7 +28790,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "5b3dc060-3bda-4af2-891a-9975dd775124",
@@ -28356,7 +28843,8 @@
       }
     ],
     "thread_ts": "1593647953.023500",
-    "parent_user_id": "UCUSW7WVD"
+    "parent_user_id": "UCUSW7WVD",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "f05c86cc-d2cc-45ee-a44e-503adddfea85",
@@ -28519,7 +29007,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "c7afd898-8357-4dec-b908-924e33e20b0e",
@@ -28568,7 +29057,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "3D6838F5-D758-4D69-AACB-D7A3AE6CEA84",
@@ -28617,7 +29107,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "d5ebd0e4-5dba-41ab-9854-f2ee6f8b59a9",
@@ -28681,7 +29172,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "5b457e2f-eab5-4d07-acda-884140c25b6d",
@@ -28779,7 +29271,8 @@
         ],
         "count": 5
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "e20db5ea-cf3d-4d75-9f19-72dea2da405d",
@@ -28838,7 +29331,8 @@
       }
     ],
     "thread_ts": "1593830619.061400",
-    "parent_user_id": "UP3FH4CLU"
+    "parent_user_id": "UP3FH4CLU",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "38434899-dc43-43bb-9491-0d86bc466416",
@@ -28898,7 +29392,8 @@
       }
     ],
     "thread_ts": "1593813312.058700",
-    "parent_user_id": "UJ6LDMMN0"
+    "parent_user_id": "UJ6LDMMN0",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "159d0686-de0f-4a85-9abb-1a5bfc89dd6e",
@@ -28938,7 +29433,8 @@
       }
     ],
     "thread_ts": "1593667067.031300",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "8ae9a941-831f-4891-85b6-c8f572789d42",
@@ -28986,7 +29482,8 @@
       }
     ],
     "thread_ts": "1593667067.031300",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "04765175-311b-44a0-b540-aaab9f564021",
@@ -29030,7 +29527,8 @@
       }
     ],
     "thread_ts": "1593667067.031300",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "ab7a54fb-e908-4573-a67b-3990f95d63ab",
@@ -29084,7 +29582,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "8fd8da25-e357-4be7-a803-0c246e72f545",
@@ -29141,7 +29640,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "f724bb3b-c293-4a0d-b248-0c63fe19dfae",
@@ -29190,7 +29690,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "type": "message",
@@ -29280,7 +29781,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "7c823481-be57-4721-93be-58e3f0c2dd20",
@@ -29331,7 +29833,8 @@
       }
     ],
     "thread_ts": "1593667067.031300",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "855db967-646d-492b-bf6c-a6c01fc0161e",
@@ -29375,7 +29878,8 @@
       }
     ],
     "thread_ts": "1593667067.031300",
-    "parent_user_id": "UC2A2ARPT"
+    "parent_user_id": "UC2A2ARPT",
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "51bbff8a-59aa-4fa7-85fa-70263985090a",
@@ -29467,7 +29971,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "385b7d87-c2c0-4171-b0f0-7c588ba3e17b",
@@ -29516,7 +30021,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "two-minute-week"
   },
   {
     "client_msg_id": "C151DE13-A940-4ED5-B554-5C05F8928EF4",
@@ -29560,6 +30066,7 @@
       }
     ],
     "thread_ts": "1593975507.068300",
-    "parent_user_id": "UUQ2EQW21"
+    "parent_user_id": "UUQ2EQW21",
+    "channel": "two-minute-week"
   }
 ]

@@ -4,7 +4,8 @@
     "subtype": "channel_join",
     "ts": "1550306464.000200",
     "user": "U5TCAFTD3",
-    "text": "<@U5TCAFTD3> has joined the channel"
+    "text": "<@U5TCAFTD3> has joined the channel",
+    "channel": "sf"
   },
   {
     "type": "message",
@@ -12,7 +13,8 @@
     "ts": "1550306835.000400",
     "user": "UBKNXPBAB",
     "text": "<@UBKNXPBAB> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "type": "message",
@@ -20,7 +22,8 @@
     "ts": "1550307095.000700",
     "user": "UCL9Q87P0",
     "text": "<@UCL9Q87P0> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "type": "message",
@@ -28,7 +31,8 @@
     "ts": "1550307095.000900",
     "user": "UEBG0NPDK",
     "text": "<@UEBG0NPDK> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "type": "message",
@@ -36,7 +40,8 @@
     "ts": "1550307095.001100",
     "user": "UCUNN529Y",
     "text": "<@UCUNN529Y> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "type": "message",
@@ -44,7 +49,8 @@
     "ts": "1550307096.001300",
     "user": "UBSECLTUG",
     "text": "<@UBSECLTUG> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "type": "message",
@@ -52,7 +58,8 @@
     "ts": "1550307096.001500",
     "user": "UFB8STN7K",
     "text": "<@UFB8STN7K> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "type": "message",
@@ -60,7 +67,8 @@
     "ts": "1550307096.001700",
     "user": "U6LBL2CJ1",
     "text": "<@U6LBL2CJ1> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "type": "message",
@@ -68,7 +76,8 @@
     "ts": "1550307096.001900",
     "user": "UCUSW7WVD",
     "text": "<@UCUSW7WVD> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "type": "message",
@@ -76,7 +85,8 @@
     "ts": "1550307096.002100",
     "user": "U6BRN7A0Y",
     "text": "<@U6BRN7A0Y> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "type": "message",
@@ -84,7 +94,8 @@
     "ts": "1550307096.002300",
     "user": "U6DG0FHND",
     "text": "<@U6DG0FHND> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "type": "message",
@@ -92,7 +103,8 @@
     "ts": "1550307096.002500",
     "user": "UEQ6M68H0",
     "text": "<@UEQ6M68H0> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "type": "message",
@@ -100,28 +112,32 @@
     "ts": "1550307096.002700",
     "user": "UETJZ9V0T",
     "text": "<@UETJZ9V0T> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1550307208.003100",
     "user": "U8A5MS6R1",
-    "text": "<@U8A5MS6R1> has joined the channel"
+    "text": "<@U8A5MS6R1> has joined the channel",
+    "channel": "sf"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1550314102.000200",
     "user": "UDJ2TKB99",
-    "text": "<@UDJ2TKB99> has joined the channel"
+    "text": "<@UDJ2TKB99> has joined the channel",
+    "channel": "sf"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1550315163.000200",
     "user": "UBRS4E6B1",
-    "text": "<@UBRS4E6B1> has joined the channel"
+    "text": "<@UBRS4E6B1> has joined the channel",
+    "channel": "sf"
   },
   {
     "client_msg_id": "C0900C3F-2ADB-4CD0-AA87-37F48ED72D28",
@@ -142,7 +158,8 @@
       "name": "arthur",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "467d99cb-425b-42a1-9e61-242470495041",
@@ -163,14 +180,16 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1550329845.000600",
     "user": "UE0H4170F",
-    "text": "<@UE0H4170F> has joined the channel"
+    "text": "<@UE0H4170F> has joined the channel",
+    "channel": "sf"
   },
   {
     "client_msg_id": "38bfb409-8223-4fbc-b89e-7fdb60a997e0",
@@ -191,21 +210,24 @@
       "name": "charlie",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1550329944.001500",
     "user": "U85HCL7JP",
-    "text": "<@U85HCL7JP> has joined the channel"
+    "text": "<@U85HCL7JP> has joined the channel",
+    "channel": "sf"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1550333912.001700",
     "user": "UD3AK9JRF",
-    "text": "<@UD3AK9JRF> has joined the channel"
+    "text": "<@UD3AK9JRF> has joined the channel",
+    "channel": "sf"
   },
   {
     "client_msg_id": "958821ac-35df-4923-95e5-93c6146d4b67",
@@ -241,7 +263,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1550335893.002400"
+    "last_read": "1550335893.002400",
+    "channel": "sf"
   },
   {
     "client_msg_id": "0698ae03-bfb3-4cc1-84e1-7ca70de7bfa8",
@@ -264,14 +287,16 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550335760.002300",
-    "parent_user_id": "U6BRN7A0Y"
+    "parent_user_id": "U6BRN7A0Y",
+    "channel": "sf"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1550336791.002700",
     "user": "UEZTBTNJC",
-    "text": "<@UEZTBTNJC> has joined the channel"
+    "text": "<@UEZTBTNJC> has joined the channel",
+    "channel": "sf"
   },
   {
     "client_msg_id": "cb27fb33-50f6-407f-89aa-0f9bf3427a0f",
@@ -317,7 +342,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1550858319.000474"
+    "last_read": "1550858319.000474",
+    "channel": "sf"
   },
   {
     "client_msg_id": "46D97584-FD11-44F0-8942-55316A7222D5",
@@ -338,7 +364,8 @@
       "name": "jake",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "ACE4B021-9FB8-4A0D-B996-F8A0F17CFB43",
@@ -388,7 +415,8 @@
         "id": 1,
         "original_url": "http://meetu.ps/e/GgTyX/xYG83/a"
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "fea12cc1-3db0-4cfd-bb4b-f8176d78b144",
@@ -438,7 +466,8 @@
         "id": 1,
         "original_url": "https://www.meetup.com/Rust-Bay-Area/events/258913342/"
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "type": "message",
@@ -475,7 +504,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "555457fd-5e66-4565-b788-d593e6d65f50",
@@ -498,7 +528,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550342458.004200",
-    "parent_user_id": "UD43R8ZFV"
+    "parent_user_id": "UD43R8ZFV",
+    "channel": "sf"
   },
   {
     "client_msg_id": "28bcab56-9ca8-4d01-8345-3501349b108a",
@@ -560,7 +591,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1550858319.000474"
+    "last_read": "1550858319.000474",
+    "channel": "sf"
   },
   {
     "client_msg_id": "a3c2bf19-30a0-4664-b4e2-7cd6adfae1e3",
@@ -637,7 +669,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "7f3075c8-3b07-4683-8f34-5e7a9797152e",
@@ -660,7 +693,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550535799.011600",
-    "parent_user_id": "UFXFB1RK8"
+    "parent_user_id": "UFXFB1RK8",
+    "channel": "sf"
   },
   {
     "client_msg_id": "69da6e2f-6b15-4688-b1d2-5bd21287ad12",
@@ -683,7 +717,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550535799.011600",
-    "parent_user_id": "UFXFB1RK8"
+    "parent_user_id": "UFXFB1RK8",
+    "channel": "sf"
   },
   {
     "client_msg_id": "6e297a7c-9be0-4da9-a22b-44fbb8f4a4eb",
@@ -706,7 +741,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550535799.011600",
-    "parent_user_id": "UFXFB1RK8"
+    "parent_user_id": "UFXFB1RK8",
+    "channel": "sf"
   },
   {
     "client_msg_id": "2d3a9cab-e68b-445d-9838-e4a571ca69fe",
@@ -727,7 +763,8 @@
       "name": "markmirony",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "e29659b3-dac3-4073-9a60-e1463f67fdae",
@@ -765,7 +802,8 @@
       }
     ],
     "thread_ts": "1550531552.011100",
-    "parent_user_id": "UEQG5HC1W"
+    "parent_user_id": "UEQG5HC1W",
+    "channel": "sf"
   },
   {
     "client_msg_id": "7c19ae9a-413c-403f-acee-337a5e34fe77",
@@ -788,7 +826,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550531552.011100",
-    "parent_user_id": "UEQG5HC1W"
+    "parent_user_id": "UEQG5HC1W",
+    "channel": "sf"
   },
   {
     "client_msg_id": "d5ed45dd-b425-459d-83ae-d2acc43f3c4f",
@@ -811,7 +850,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550531552.011100",
-    "parent_user_id": "UEQG5HC1W"
+    "parent_user_id": "UEQG5HC1W",
+    "channel": "sf"
   },
   {
     "client_msg_id": "327b6d49-3600-4458-a2ae-4940ed95dbca",
@@ -834,7 +874,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550531552.011100",
-    "parent_user_id": "UEQG5HC1W"
+    "parent_user_id": "UEQG5HC1W",
+    "channel": "sf"
   },
   {
     "client_msg_id": "38fc5aa0-f7a9-4504-973c-d605853197d1",
@@ -855,7 +896,8 @@
       "name": "pvh",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "c56062d9-cbe6-4c9a-9a77-4adc6f6c4b23",
@@ -878,7 +920,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550535799.011600",
-    "parent_user_id": "UFXFB1RK8"
+    "parent_user_id": "UFXFB1RK8",
+    "channel": "sf"
   },
   {
     "client_msg_id": "491bb949-30e0-4897-9cfb-f5e03285246f",
@@ -901,7 +944,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550535799.011600",
-    "parent_user_id": "UFXFB1RK8"
+    "parent_user_id": "UFXFB1RK8",
+    "channel": "sf"
   },
   {
     "client_msg_id": "64ba4756-a71e-429d-9582-668ae39f1469",
@@ -928,7 +972,8 @@
       "ts": "1550689470.000000"
     },
     "thread_ts": "1550535799.011600",
-    "parent_user_id": "UFXFB1RK8"
+    "parent_user_id": "UFXFB1RK8",
+    "channel": "sf"
   },
   {
     "client_msg_id": "26cf8d07-0d92-4250-a888-e42f56b373c6",
@@ -951,7 +996,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550535799.011600",
-    "parent_user_id": "UFXFB1RK8"
+    "parent_user_id": "UFXFB1RK8",
+    "channel": "sf"
   },
   {
     "client_msg_id": "f0acac67-c145-4048-86d2-b46bef68519d",
@@ -974,7 +1020,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550531552.011100",
-    "parent_user_id": "UEQG5HC1W"
+    "parent_user_id": "UEQG5HC1W",
+    "channel": "sf"
   },
   {
     "client_msg_id": "3b0f272d-99bb-4a0a-8909-6181a50b9b14",
@@ -997,7 +1044,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550342458.004200",
-    "parent_user_id": "UD43R8ZFV"
+    "parent_user_id": "UD43R8ZFV",
+    "channel": "sf"
   },
   {
     "client_msg_id": "872e1647-3c69-42b1-9d42-294a78b4e110",
@@ -1020,7 +1068,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550531552.011100",
-    "parent_user_id": "UEQG5HC1W"
+    "parent_user_id": "UEQG5HC1W",
+    "channel": "sf"
   },
   {
     "client_msg_id": "787c3f8a-16a1-4059-bfeb-b68caa689293",
@@ -1113,7 +1162,8 @@
         ],
         "count": 9
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "8fa22c18-631c-4fc2-86ab-0886f99345f7",
@@ -1136,7 +1186,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551180488.002400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "client_msg_id": "bb29aaa9-ef5f-4d7e-9a55-eec95dee4dd5",
@@ -1159,7 +1210,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551180488.002400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "client_msg_id": "df76475d-342c-4290-b3bd-98c90345daee",
@@ -1292,7 +1344,8 @@
         ],
         "count": 5
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "14094E5E-6067-420F-B085-852FCB86173F",
@@ -1315,7 +1368,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551561750.000700",
-    "parent_user_id": "UGMH4H202"
+    "parent_user_id": "UGMH4H202",
+    "channel": "sf"
   },
   {
     "client_msg_id": "1a7af4d5-43d5-4228-bae0-f12bee9ed400",
@@ -1338,7 +1392,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551561750.000700",
-    "parent_user_id": "UGMH4H202"
+    "parent_user_id": "UGMH4H202",
+    "channel": "sf"
   },
   {
     "client_msg_id": "a4b3159a-dfd8-4b3d-af23-2905f17af5cd",
@@ -1371,7 +1426,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "539733db-40a6-4e08-86eb-7b00741a7b63",
@@ -1394,7 +1450,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551180488.002400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "client_msg_id": "d1633814-0c7c-45dd-aea8-b4a3d6ccdd7c",
@@ -1417,7 +1474,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551180488.002400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "client_msg_id": "c34ae504-b268-4ae8-a575-430111432980",
@@ -1440,7 +1498,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551180488.002400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "client_msg_id": "0fa9cee3-c039-4493-a296-ac93b35a25e9",
@@ -1463,7 +1522,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551180488.002400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "client_msg_id": "a454004e-c91d-42d8-ba89-6a0b0ad11d0d",
@@ -1486,7 +1546,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551561750.000700",
-    "parent_user_id": "UGMH4H202"
+    "parent_user_id": "UGMH4H202",
+    "channel": "sf"
   },
   {
     "client_msg_id": "5a0e71f2-6883-4344-a6cb-a704bce478fe",
@@ -1518,7 +1579,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "3432c189-4b80-488f-a838-48d013ffad40",
@@ -1541,7 +1603,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551561750.000700",
-    "parent_user_id": "UGMH4H202"
+    "parent_user_id": "UGMH4H202",
+    "channel": "sf"
   },
   {
     "client_msg_id": "0f29e2c6-52a2-4e4a-bbe2-8560c523ca8f",
@@ -1562,7 +1625,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "021a2d2b-6e51-4ec1-9282-7820ac08578e",
@@ -1583,7 +1647,8 @@
       "name": "arthur",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "cbfad09e-d418-4af9-a574-c00f3bfb916c",
@@ -1623,7 +1688,8 @@
       }
     ],
     "thread_ts": "1551561750.000700",
-    "parent_user_id": "UGMH4H202"
+    "parent_user_id": "UGMH4H202",
+    "channel": "sf"
   },
   {
     "client_msg_id": "ca097e60-ea36-42ac-b356-3bbd605c9d28",
@@ -1646,7 +1712,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551561750.000700",
-    "parent_user_id": "UGMH4H202"
+    "parent_user_id": "UGMH4H202",
+    "channel": "sf"
   },
   {
     "client_msg_id": "b665a5de-0540-4ee4-a4c7-9659eefd38d7",
@@ -1669,7 +1736,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551561750.000700",
-    "parent_user_id": "UGMH4H202"
+    "parent_user_id": "UGMH4H202",
+    "channel": "sf"
   },
   {
     "client_msg_id": "aa9e221e-de52-4dab-89f9-04dc139eb94d",
@@ -1692,7 +1760,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551561750.000700",
-    "parent_user_id": "UGMH4H202"
+    "parent_user_id": "UGMH4H202",
+    "channel": "sf"
   },
   {
     "client_msg_id": "ade72f38-cba1-4f47-a016-3d02cb0c11c2",
@@ -1715,7 +1784,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551561750.000700",
-    "parent_user_id": "UGMH4H202"
+    "parent_user_id": "UGMH4H202",
+    "channel": "sf"
   },
   {
     "client_msg_id": "ac3df737-c67a-4f25-8240-3357c75df5d0",
@@ -1769,7 +1839,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1553463789.000585"
+    "last_read": "1553463789.000585",
+    "channel": "sf"
   },
   {
     "client_msg_id": "fcbb0c06-f8f4-4d3c-8abb-b9a16cef2e34",
@@ -1792,7 +1863,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551561750.000700",
-    "parent_user_id": "UGMH4H202"
+    "parent_user_id": "UGMH4H202",
+    "channel": "sf"
   },
   {
     "client_msg_id": "1768cefd-0df5-4200-8234-47177d1833f1",
@@ -1815,7 +1887,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551981683.008000",
-    "parent_user_id": "UFV8P4472"
+    "parent_user_id": "UFV8P4472",
+    "channel": "sf"
   },
   {
     "client_msg_id": "c271fe3a-271e-47a5-ab12-0be927d30a4e",
@@ -1838,7 +1911,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551981683.008000",
-    "parent_user_id": "UFV8P4472"
+    "parent_user_id": "UFV8P4472",
+    "channel": "sf"
   },
   {
     "client_msg_id": "68430c46-41c5-4179-8f86-d5fdf95f4b47",
@@ -1861,7 +1935,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551561750.000700",
-    "parent_user_id": "UGMH4H202"
+    "parent_user_id": "UGMH4H202",
+    "channel": "sf"
   },
   {
     "client_msg_id": "6e764873-a034-428f-8ffe-932933a2fcee",
@@ -1884,7 +1959,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551561750.000700",
-    "parent_user_id": "UGMH4H202"
+    "parent_user_id": "UGMH4H202",
+    "channel": "sf"
   },
   {
     "client_msg_id": "123f0917-6a9a-4d98-b541-59e10dcf23ee",
@@ -1905,7 +1981,8 @@
       "name": "magicmouse94937",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "459332af-56ea-46ec-8cc4-2d993c68e86b",
@@ -1928,7 +2005,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551561750.000700",
-    "parent_user_id": "UGMH4H202"
+    "parent_user_id": "UGMH4H202",
+    "channel": "sf"
   },
   {
     "client_msg_id": "6ae983c1-b23a-42f3-8cad-944a4c6862b7",
@@ -1955,7 +2033,8 @@
       "ts": "1552019239.000000"
     },
     "thread_ts": "1551561750.000700",
-    "parent_user_id": "UGMH4H202"
+    "parent_user_id": "UGMH4H202",
+    "channel": "sf"
   },
   {
     "client_msg_id": "dd7f963b-3677-4c69-a228-3035532a26d5",
@@ -2001,7 +2080,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1553390317.970552"
+    "last_read": "1553390317.970552",
+    "channel": "sf"
   },
   {
     "client_msg_id": "2cfd1267-1a62-470d-a513-c702b02bafd2",
@@ -2033,7 +2113,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "1aadd9b1-8344-40af-a5f4-0abb07c0508f",
@@ -2065,7 +2146,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "3a09ca9b-3370-4c1f-988a-43947522ab4e",
@@ -2086,7 +2168,8 @@
       "name": "jake",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "24e4a4e6-8371-4db1-9880-84f0dd5cd197",
@@ -2109,7 +2192,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551981683.008000",
-    "parent_user_id": "UFV8P4472"
+    "parent_user_id": "UFV8P4472",
+    "channel": "sf"
   },
   {
     "client_msg_id": "b6a4ab40-0dcf-432a-bb7c-0b61c70213ef",
@@ -2132,7 +2216,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552019807.011300",
-    "parent_user_id": "UCUNN529Y"
+    "parent_user_id": "UCUNN529Y",
+    "channel": "sf"
   },
   {
     "client_msg_id": "1a7b632d-f766-4e1d-b649-eed4e39c7cd2",
@@ -2153,7 +2238,8 @@
       "name": "shalabh.chaturvedi",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "7d0a4275-670b-4a1f-ba13-b302a3098cb6",
@@ -2174,7 +2260,8 @@
       "name": "ak",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "EB18BDBB-B2B8-4BA2-B7E3-4418641D4D72",
@@ -2197,7 +2284,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552019807.011300",
-    "parent_user_id": "UCUNN529Y"
+    "parent_user_id": "UCUNN529Y",
+    "channel": "sf"
   },
   {
     "client_msg_id": "26e2f35e-4c0c-4f0a-96c1-49aa21992221",
@@ -2220,7 +2308,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552019807.011300",
-    "parent_user_id": "UCUNN529Y"
+    "parent_user_id": "UCUNN529Y",
+    "channel": "sf"
   },
   {
     "client_msg_id": "b1db33f9-7f6e-410a-a93b-f0dc065767d3",
@@ -2250,7 +2339,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "ae25cd51-cc1e-49ff-8719-1f3c08952502",
@@ -2271,7 +2361,8 @@
       "name": "colelawr",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "0187011E-B45C-4E30-9F13-25FF6C0FFC10",
@@ -2304,7 +2395,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "B34D8407-BDBE-43CA-8BEF-005FC3324799",
@@ -2325,7 +2417,8 @@
       "name": "colton",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "975b16f1-172c-4339-b1ef-d1c40685a37b",
@@ -2346,7 +2439,8 @@
       "name": "jake",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "81c8816c-5b18-4e2d-a9a9-451e0c6a39d4",
@@ -2404,7 +2498,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1553463804.029200"
+    "last_read": "1553463804.029200",
+    "channel": "sf"
   },
   {
     "client_msg_id": "1b1af439-7fef-4900-8238-0dfc3e30833b",
@@ -2425,7 +2520,8 @@
       "name": "shalabh.chaturvedi",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "133690ff-22be-4790-b75f-e26cecea7d31",
@@ -2446,7 +2542,8 @@
       "name": "scottan",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "961bb5b1-d873-475b-afa6-437abfc2f047",
@@ -2469,7 +2566,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1553450459.022500",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "sf"
   },
   {
     "client_msg_id": "8d56dbf9-872e-4e13-85d5-2bb3ca9db63b",
@@ -2492,7 +2590,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1553450459.022500",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "sf"
   },
   {
     "client_msg_id": "5b0affa2-7398-434d-a24b-25b79c2cbdb9",
@@ -2515,7 +2614,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1553450459.022500",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "sf"
   },
   {
     "client_msg_id": "71d696a1-a5fa-456d-8a2c-f4f5f38f3889",
@@ -2538,7 +2638,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1553450459.022500",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "sf"
   },
   {
     "client_msg_id": "CFEE2E9A-0AFD-4EE1-8FAC-465F8A9B7009",
@@ -2561,7 +2662,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551981683.008000",
-    "parent_user_id": "UFV8P4472"
+    "parent_user_id": "UFV8P4472",
+    "channel": "sf"
   },
   {
     "client_msg_id": "A166F738-C798-46E4-AF49-88D64CA83020",
@@ -2584,7 +2686,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551981683.008000",
-    "parent_user_id": "UFV8P4472"
+    "parent_user_id": "UFV8P4472",
+    "channel": "sf"
   },
   {
     "client_msg_id": "242f99ed-a533-40a0-a227-43c1a5e429dc",
@@ -2607,7 +2710,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1553450459.022500",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "sf"
   },
   {
     "client_msg_id": "64279653-76ae-4b13-8968-b75a1d377ad3",
@@ -2628,7 +2732,8 @@
       "name": "shalabh.chaturvedi",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "7F378D40-E728-49A6-A621-ED35227AED40",
@@ -2649,7 +2754,8 @@
       "name": "pbiggar",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "4984942c-8466-428f-bd60-3af62bd5c0fb",
@@ -2672,7 +2778,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1553450459.022500",
-    "parent_user_id": "U8A5MS6R1"
+    "parent_user_id": "U8A5MS6R1",
+    "channel": "sf"
   },
   {
     "client_msg_id": "4dbdff15-fb86-4702-8f3f-98681dadde0f",
@@ -2693,7 +2800,8 @@
       "name": "briantrice",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "cca08331-63f0-43cb-8a13-8ba8e1d014c9",
@@ -2756,7 +2864,8 @@
         ],
         "count": 5
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "57b484d0-1545-42cd-9430-83f9bdb928a8",
@@ -2788,7 +2897,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "b753714f-a1dd-4937-b6f9-485c5ab54431",
@@ -2820,7 +2930,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "ab0060e3-6e62-41e9-9a14-e76686c06ec7",
@@ -2854,7 +2965,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "f0001f84-e5f2-4665-8f88-fe5b3ac4ca97",
@@ -2889,7 +3001,8 @@
         ],
         "count": 6
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "4ec2d5f6-7eca-422a-b5b2-d57c14733fd4",
@@ -2912,7 +3025,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1553482314.032300",
-    "parent_user_id": "UCL9Q87P0"
+    "parent_user_id": "UCL9Q87P0",
+    "channel": "sf"
   },
   {
     "client_msg_id": "1aca6f54-1020-42e4-8431-d98affbe64f7",
@@ -2933,7 +3047,8 @@
       "name": "daniel.garcia.carmona",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "992f299d-6be2-4101-805d-d22a3dc67db4",
@@ -2954,7 +3069,8 @@
       "name": "magicmouse94937",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "f677eede-f40b-4081-9ca4-c227785c1cb6",
@@ -2975,7 +3091,8 @@
       "name": "tbabb",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "6fc37322-ab2b-42ca-a457-9229a5ac738e",
@@ -2996,7 +3113,8 @@
       "name": "tbabb",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "194644e2-70be-4cc1-9106-f5aebbabdcb1",
@@ -3017,7 +3135,8 @@
       "name": "daniel.garcia.carmona",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "697d79af-20a3-4917-ba1b-7257c0ddb1d5",
@@ -3038,7 +3157,8 @@
       "name": "tbabb",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "type": "message",
@@ -3058,7 +3178,8 @@
       "name": "tbabb",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "type": "message",
@@ -3121,7 +3242,8 @@
         "footer_icon": "https://simplepoll.rocks/static/main/favicon.png",
         "color": "6ecadc"
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "d15b6607-e408-4921-a998-cc319158262e",
@@ -3142,7 +3264,8 @@
       "name": "tbabb",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "type": "message",
@@ -3162,7 +3285,8 @@
       "name": "tbabb",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "type": "message",
@@ -3251,7 +3375,8 @@
         "footer_icon": "https://simplepoll.rocks/static/main/favicon.png",
         "color": "6ecadc"
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "18305642-a573-4602-8d55-b88924f601eb",
@@ -3272,7 +3397,8 @@
       "name": "tbabb",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "08d706a2-c80a-4c0e-9201-541ec4ce1701",
@@ -3321,7 +3447,8 @@
         "ts": "1570845997.004000"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "sf"
   },
   {
     "client_msg_id": "8f35fc8f-86d0-45f2-825c-af3d42a2e074",
@@ -3344,7 +3471,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570814163.001800",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "sf"
   },
   {
     "client_msg_id": "03dfdd16-1e2e-4ed0-9235-0a9232c8c99d",
@@ -3367,7 +3495,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1570814163.001800",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "sf"
   },
   {
     "client_msg_id": "6e094d32-7dbe-4725-bf4f-b0a04f61fd42",
@@ -3399,7 +3528,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "cbcac3e9-434f-41f4-9578-db84469f51f5",
@@ -3429,7 +3559,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "326d101a-90b7-4929-8f62-7076d9fa9b04",
@@ -3459,7 +3590,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "a76328e0-73c1-4958-a933-d8316ec953f3",
@@ -3512,7 +3644,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "65114ab2-7a68-42b7-b010-5f883532a19a",
@@ -3549,7 +3682,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "db29f595-d4cd-4366-af42-15c600789b76",
@@ -3570,7 +3704,8 @@
       "name": "magicmouse94937",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "563E7729-F929-4183-A1F8-DD348848B5BD",
@@ -3593,7 +3728,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571508903.008400",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "sf"
   },
   {
     "client_msg_id": "df29cf4e-d4bc-4a0e-bcfa-e407e6eb7c36",
@@ -3620,7 +3756,8 @@
       "ts": "1571692688.000000"
     },
     "thread_ts": "1571508903.008400",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "sf"
   },
   {
     "client_msg_id": "561FB499-0936-4261-95D2-472FE7C48060",
@@ -3643,7 +3780,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571508903.008400",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "sf"
   },
   {
     "client_msg_id": "46cb8cc6-bcd4-4573-ba51-ae40a67a5ff3",
@@ -3668,7 +3806,8 @@
     "edited": {
       "user": "U6FKVSVCK",
       "ts": "1571704764.000000"
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "2f812d44-f710-4e72-a2ad-86a4868b3447",
@@ -3689,7 +3828,8 @@
       "name": "parris",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "d0563ce1-decd-44c2-b44a-a906ca1cf345",
@@ -3790,7 +3930,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "e953e121-5010-429d-ab23-8f0e9129ccaa",
@@ -3822,7 +3963,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "CCE9035A-3886-4241-BBF3-932A0E663B1E",
@@ -3845,7 +3987,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571937402.015700",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "sf"
   },
   {
     "client_msg_id": "5fd1c66c-9054-48d7-9d4f-f125ccfd98cb",
@@ -3868,7 +4011,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571937402.015700",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "sf"
   },
   {
     "client_msg_id": "81bdc4ff-41ab-49e4-bd32-a2c77dba544a",
@@ -3891,7 +4035,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571937402.015700",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "sf"
   },
   {
     "client_msg_id": "4B07F3CA-EAB4-4F3E-A1FD-B62BC846322E",
@@ -3914,7 +4059,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571937402.015700",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "sf"
   },
   {
     "client_msg_id": "A9635E09-0740-44B3-B2EF-3BC7AA17DD0E",
@@ -3937,7 +4083,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571937402.015700",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "sf"
   },
   {
     "client_msg_id": "e3fd3d83-a2ee-45d3-8cc2-33fe799987e1",
@@ -3960,7 +4107,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571937402.015700",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "sf"
   },
   {
     "client_msg_id": "0bf90152-eeb4-44d1-9b7d-b026e0f55297",
@@ -3983,7 +4131,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571937402.015700",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "sf"
   },
   {
     "client_msg_id": "0519d882-5053-4e9f-8560-5ecf68865baa",
@@ -4010,7 +4159,8 @@
       "ts": "1571964284.000000"
     },
     "thread_ts": "1571937402.015700",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "sf"
   },
   {
     "client_msg_id": "E21D6D1B-8A91-4628-A8B3-EAC3F640CEE0",
@@ -4033,7 +4183,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571937402.015700",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "sf"
   },
   {
     "type": "message",
@@ -4097,7 +4248,8 @@
     "ts": "1571974186.019600",
     "client_msg_id": "acb91d9c-d6ab-45ec-8434-625d2d4c1d6e",
     "thread_ts": "1571937402.015700",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "sf"
   },
   {
     "client_msg_id": "01ab56fd-5512-45ed-8d77-aeca771e0e7b",
@@ -4118,7 +4270,8 @@
       "name": "tbabb",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "ccb1aca8-69a1-415f-9fa3-e343aa3c981d",
@@ -4141,7 +4294,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571937402.015700",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "sf"
   },
   {
     "client_msg_id": "9bcb54a3-a250-4032-9a79-a1a6b95f85f3",
@@ -4164,7 +4318,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571937402.015700",
-    "parent_user_id": "U6FKVSVCK"
+    "parent_user_id": "U6FKVSVCK",
+    "channel": "sf"
   },
   {
     "client_msg_id": "dbc28b6e-4b5f-4923-9b7d-3c20b2b5e627",
@@ -4198,7 +4353,8 @@
         ],
         "count": 5
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "f7124d46-b35d-4149-a83d-8823dc1a925a",
@@ -4268,7 +4424,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "b97d3065-756b-4cc7-bc6c-1bedb96dc144",
@@ -4291,7 +4448,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572452827.025400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "client_msg_id": "368cec97-91bc-409e-b8d6-fc1788243390",
@@ -4314,7 +4472,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572452827.025400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "client_msg_id": "59b7d825-506d-491b-a739-fc8fed0622c4",
@@ -4346,7 +4505,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "a9f768ec-5638-4bdf-a6ca-45eb6016dd07",
@@ -4369,7 +4529,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572452827.025400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "client_msg_id": "FB76840E-3107-46E0-A5EA-EDB4C49BECA0",
@@ -4392,7 +4553,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572452827.025400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "client_msg_id": "eb77ecf3-1ace-4731-b0df-e268d29aa50a",
@@ -4415,7 +4577,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572452827.025400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "sf"
   },
   {
     "type": "message",
@@ -4472,7 +4635,8 @@
         "ts": "1576174098.036100"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "sf"
   },
   {
     "client_msg_id": "d7c4ac5e-0bfb-4d20-93c3-99f481966131",
@@ -4534,7 +4698,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "694e73e4-1aa2-47c5-bfb9-c71d63d59a9a",
@@ -4580,7 +4745,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "7c7f22a1-6882-4584-ac5f-d83bdc17fca4",
@@ -4624,7 +4790,8 @@
       }
     ],
     "thread_ts": "1574457779.032600",
-    "parent_user_id": "UE3KC0VK6"
+    "parent_user_id": "UE3KC0VK6",
+    "channel": "sf"
   },
   {
     "client_msg_id": "3ed268a2-13d5-469b-89d0-1783e7b2ec3f",
@@ -4693,7 +4860,8 @@
         "ts": "1579277968.001100"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "sf"
   },
   {
     "client_msg_id": "7a0d150b-1315-48cc-8c15-8fe02cd03198",
@@ -4733,7 +4901,8 @@
       }
     ],
     "thread_ts": "1576948394.002000",
-    "parent_user_id": "UFEQUBNNT"
+    "parent_user_id": "UFEQUBNNT",
+    "channel": "sf"
   },
   {
     "client_msg_id": "B024B1A7-4B69-4833-B0E0-B8EE695E2DE8",
@@ -4771,7 +4940,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "30A95B2C-C292-42BA-8D41-D81E27DC8D99",
@@ -4811,7 +4981,8 @@
       }
     ],
     "thread_ts": "1576948394.002000",
-    "parent_user_id": "UFEQUBNNT"
+    "parent_user_id": "UFEQUBNNT",
+    "channel": "sf"
   },
   {
     "client_msg_id": "2283920d-a9ef-451a-9d58-e837e2c2500c",
@@ -4889,7 +5060,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "725b091b-3f9c-42a8-861d-c2704ae2090a",
@@ -4951,7 +5123,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "c0dab390-d813-440d-9dfb-24bbcfbf3f6b",
@@ -4991,7 +5164,8 @@
       }
     ],
     "thread_ts": "1579040470.003000",
-    "parent_user_id": "UHDQ62M4P"
+    "parent_user_id": "UHDQ62M4P",
+    "channel": "sf"
   },
   {
     "client_msg_id": "38e28843-157f-4443-8434-45199b51d4eb",
@@ -5031,7 +5205,8 @@
       }
     ],
     "thread_ts": "1576948394.002000",
-    "parent_user_id": "UFEQUBNNT"
+    "parent_user_id": "UFEQUBNNT",
+    "channel": "sf"
   },
   {
     "client_msg_id": "7a699578-b3e9-40dc-87a3-bb419f406bc6",
@@ -5075,7 +5250,8 @@
       }
     ],
     "thread_ts": "1579040470.003000",
-    "parent_user_id": "UHDQ62M4P"
+    "parent_user_id": "UHDQ62M4P",
+    "channel": "sf"
   },
   {
     "client_msg_id": "2f34c481-ead1-4414-9a1b-26faffb14453",
@@ -5124,7 +5300,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "47bbeefd-8047-4b3a-8883-e1e49764710b",
@@ -5168,7 +5345,8 @@
       }
     ],
     "thread_ts": "1579040470.003000",
-    "parent_user_id": "UHDQ62M4P"
+    "parent_user_id": "UHDQ62M4P",
+    "channel": "sf"
   },
   {
     "client_msg_id": "94A21C39-C31D-4EA1-A033-191240EC9BBD",
@@ -5208,7 +5386,8 @@
       }
     ],
     "thread_ts": "1576948394.002000",
-    "parent_user_id": "UFEQUBNNT"
+    "parent_user_id": "UFEQUBNNT",
+    "channel": "sf"
   },
   {
     "client_msg_id": "d1b9e320-1c1d-4f2d-95bb-fb646dec77e3",
@@ -5248,7 +5427,8 @@
       }
     ],
     "thread_ts": "1579040470.003000",
-    "parent_user_id": "UHDQ62M4P"
+    "parent_user_id": "UHDQ62M4P",
+    "channel": "sf"
   },
   {
     "client_msg_id": "E105E8EE-65A2-43B1-B42F-DC465A98EC61",
@@ -5269,7 +5449,8 @@
       "name": "joshchonpc",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "sf"
   },
   {
     "client_msg_id": "ea2f8b0f-0eaa-439b-bb0b-70114609589b",
@@ -5318,7 +5499,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "F4565CCE-9BC8-4B87-A518-10F462EFF4B3",
@@ -5375,7 +5557,8 @@
         "ts": "1582488215.000100"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "sf"
   },
   {
     "client_msg_id": "bb16d7e8-8861-4241-b61d-76a2e40eb71b",
@@ -5415,7 +5598,8 @@
       }
     ],
     "thread_ts": "1582080889.003600",
-    "parent_user_id": "UT9TWSZB5"
+    "parent_user_id": "UT9TWSZB5",
+    "channel": "sf"
   },
   {
     "client_msg_id": "48d7bf96-da21-4643-a8e6-f803ff917a4d",
@@ -5487,7 +5671,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "98952ee0-e4e6-4122-88aa-d0484b5f47ef",
@@ -5527,7 +5712,8 @@
       }
     ],
     "thread_ts": "1582080889.003600",
-    "parent_user_id": "UT9TWSZB5"
+    "parent_user_id": "UT9TWSZB5",
+    "channel": "sf"
   },
   {
     "client_msg_id": "419a7f7b-016b-451e-a361-6c8faff79312",
@@ -5574,7 +5760,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "b65adb80-6dbb-4e0c-beee-c9b4e66793bb",
@@ -5638,7 +5825,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "2bff3819-c79d-4bd9-b380-8baf44854125",
@@ -5702,7 +5890,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "1beceaa4-071d-46d6-8f35-fc8ec2a243d9",
@@ -5767,7 +5956,8 @@
       }
     ],
     "thread_ts": "1585193183.000400",
-    "parent_user_id": "UEQ6M68H0"
+    "parent_user_id": "UEQ6M68H0",
+    "channel": "sf"
   },
   {
     "client_msg_id": "0c51688f-56d8-43fd-83cd-d3a4ad745740",
@@ -5813,7 +6003,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "sf"
   },
   {
     "client_msg_id": "2d2bc228-ab8a-4576-baf5-640d370f50be",
@@ -5873,6 +6064,7 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "sf"
   }
 ]

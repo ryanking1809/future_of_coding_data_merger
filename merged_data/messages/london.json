@@ -4,7 +4,8 @@
     "subtype": "channel_join",
     "ts": "1538565234.000200",
     "user": "U5TCAFTD3",
-    "text": "<@U5TCAFTD3> has joined the channel"
+    "text": "<@U5TCAFTD3> has joined the channel",
+    "channel": "london"
   },
   {
     "type": "message",
@@ -12,7 +13,8 @@
     "ts": "1538575542.000200",
     "user": "U5STGTB3J",
     "text": "<@U5STGTB3J> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "06db5371-fb6d-4af1-97ac-0ed071328d00",
@@ -33,7 +35,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "type": "message",
@@ -41,7 +44,8 @@
     "ts": "1538575591.000200",
     "user": "UCQ4BBFQ9",
     "text": "<@UCQ4BBFQ9> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "type": "message",
@@ -49,7 +53,8 @@
     "ts": "1538575591.000400",
     "user": "UCS1K3QTH",
     "text": "<@UCS1K3QTH> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "type": "message",
@@ -57,14 +62,16 @@
     "ts": "1538575591.000600",
     "user": "U9F8M41AM",
     "text": "<@U9F8M41AM> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1538589298.000200",
     "user": "U6KQ2S410",
-    "text": "<@U6KQ2S410> has joined the channel"
+    "text": "<@U6KQ2S410> has joined the channel",
+    "channel": "london"
   },
   {
     "client_msg_id": "6D2C8074-F5B5-412C-B816-3DEAB01E9700",
@@ -108,14 +115,16 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1538647859.000200",
     "user": "UD72R4WTU",
-    "text": "<@UD72R4WTU> has joined the channel"
+    "text": "<@UD72R4WTU> has joined the channel",
+    "channel": "london"
   },
   {
     "client_msg_id": "fe081159-6c0e-4505-88d3-1bb40b5becae",
@@ -136,14 +145,16 @@
       "name": "jholeynui",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1539193623.000200",
     "user": "U5UN1ED7A",
-    "text": "<@U5UN1ED7A> has joined the channel"
+    "text": "<@U5UN1ED7A> has joined the channel",
+    "channel": "london"
   },
   {
     "client_msg_id": "2d97b677-c09c-4345-8cc6-e6d5ebc2d871",
@@ -166,28 +177,32 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1538627871.000100",
-    "parent_user_id": "U5STGTB3J"
+    "parent_user_id": "U5STGTB3J",
+    "channel": "london"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1539337278.000200",
     "user": "UDCLA1HU4",
-    "text": "<@UDCLA1HU4> has joined the channel"
+    "text": "<@UDCLA1HU4> has joined the channel",
+    "channel": "london"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1539971230.000200",
     "user": "UDJ2TKB99",
-    "text": "<@UDJ2TKB99> has joined the channel"
+    "text": "<@UDJ2TKB99> has joined the channel",
+    "channel": "london"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1540312911.000100",
     "user": "UDLGND5GA",
-    "text": "<@UDLGND5GA> has joined the channel"
+    "text": "<@UDLGND5GA> has joined the channel",
+    "channel": "london"
   },
   {
     "type": "message",
@@ -195,14 +210,16 @@
     "ts": "1540808714.000200",
     "user": "UDQBTJ211",
     "text": "<@UDQBTJ211> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1540815169.000600",
     "user": "UDPV407CZ",
-    "text": "<@UDPV407CZ> has joined the channel"
+    "text": "<@UDPV407CZ> has joined the channel",
+    "channel": "london"
   },
   {
     "client_msg_id": "6efe72a4-1baf-4d83-be46-fde8534d13f2",
@@ -252,7 +269,8 @@
         ],
         "count": 6
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "type": "message",
@@ -260,7 +278,8 @@
     "ts": "1540904557.000700",
     "user": "UBRS4E6B1",
     "text": "<@UBRS4E6B1> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "98b09991-3228-4399-8711-5ae669c294fd",
@@ -283,14 +302,16 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1540904327.000500",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1543121106.000200",
     "user": "U9ULPG0UA",
-    "text": "<@U9ULPG0UA> has joined the channel"
+    "text": "<@U9ULPG0UA> has joined the channel",
+    "channel": "london"
   },
   {
     "client_msg_id": "73e79b96-19c7-4462-aed3-c8025c919070",
@@ -311,7 +332,8 @@
       "name": "jjforsythe133",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "da50b811-21f6-4a09-8ed4-62c0fe6c0743",
@@ -347,7 +369,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "type": "message",
@@ -422,28 +445,32 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1543868617.000364"
+    "last_read": "1543868617.000364",
+    "channel": "london"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1543499783.001700",
     "user": "UEF2KDY7M",
-    "text": "<@UEF2KDY7M> has joined the channel"
+    "text": "<@UEF2KDY7M> has joined the channel",
+    "channel": "london"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1543511188.002000",
     "user": "UEF95M2RH",
-    "text": "<@UEF95M2RH> has joined the channel"
+    "text": "<@UEF95M2RH> has joined the channel",
+    "channel": "london"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1543531990.002200",
     "user": "UE6EFEPTQ",
-    "text": "<@UE6EFEPTQ> has joined the channel"
+    "text": "<@UE6EFEPTQ> has joined the channel",
+    "channel": "london"
   },
   {
     "client_msg_id": "c8259ed0-5bc7-4a69-9a2e-0ef1228da200",
@@ -464,7 +491,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "5821936e-eebc-4827-85e8-a285d2602623",
@@ -485,7 +513,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "b7766237-6711-4b51-a11d-b1f6ce52dd4f",
@@ -506,7 +535,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "14d2153c-cf9e-455f-84c1-54f8951242c0",
@@ -527,7 +557,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "type": "message",
@@ -546,14 +577,16 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1543579204.001000",
     "user": "UEH6T3RJB",
-    "text": "<@UEH6T3RJB> has joined the channel"
+    "text": "<@UEH6T3RJB> has joined the channel",
+    "channel": "london"
   },
   {
     "client_msg_id": "6e7551e3-4d08-4dd5-8a0f-21503fac87b2",
@@ -574,7 +607,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "4ae6ee9b-5972-41bd-9dad-1553da25b582",
@@ -595,7 +629,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "a0cc01de-6121-4622-9d51-3d6d1d1b6a42",
@@ -616,7 +651,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "15a81450-f378-4bfe-bc60-dafd0b3e8e9b",
@@ -637,7 +673,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "789ac5db-40d7-4aa0-8b48-8531f41ba810",
@@ -658,7 +695,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "f005a646-31bf-46bc-96c0-4282b4eb3fd1",
@@ -679,7 +717,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "5f384f12-1863-49e2-a27c-bc9890abeca2",
@@ -700,7 +739,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "e9262b2e-152a-4ae9-9311-b35ab23949a2",
@@ -721,7 +761,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "fca5727d-0cb4-43f5-9638-bb2974815934",
@@ -742,7 +783,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "type": "message",
@@ -762,7 +804,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "type": "message",
@@ -838,7 +881,8 @@
         "footer_icon": "https://simplepoll.rocks/static/main/favicon.png",
         "color": "6ecadc"
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "97150103-6bb3-4022-ac6e-b559f7dc2ac6",
@@ -875,7 +919,8 @@
         "id": 1,
         "original_url": "https://www.oldbankofengland.co.uk/christmas"
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "type": "message",
@@ -946,7 +991,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "fe415b48-0c63-40ec-b362-fa0fe80cddd3",
@@ -1020,7 +1066,8 @@
         "ts": "1544442448.027400"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "london"
   },
   {
     "client_msg_id": "9204EBF2-5AE7-4D42-900E-A2E84FC3BF51",
@@ -1052,7 +1099,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "E3B741B9-8A9E-47B2-B495-CA4502869A6B",
@@ -1075,7 +1123,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1544263458.012800",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "9342B440-248C-411E-A30D-92695FC0EFB5",
@@ -1098,7 +1147,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1544263458.012800",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "27C281B7-D1D0-4ECE-B21E-ECB2F51F47DB",
@@ -1121,7 +1171,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1544263458.012800",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "0f1e94ae-5a77-463f-830e-0f58e6c3f807",
@@ -1142,7 +1193,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "38E0708C-CE33-4377-87B6-C9B32BA652F2",
@@ -1182,7 +1234,8 @@
       }
     ],
     "thread_ts": "1544263458.012800",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "cd7ab2e8-3942-498e-a0d1-9f86206cfaa2",
@@ -1203,7 +1256,8 @@
       "name": "arthur",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "D1E6B0DC-AC7C-44C1-B6DF-2D2F24E6F42F",
@@ -1226,7 +1280,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1544263458.012800",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "eb90f39a-542e-4144-9b00-6e754bd9555f",
@@ -1247,7 +1302,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "33c512ad-225e-4c35-a3a1-5421d67e95ce",
@@ -1285,7 +1341,8 @@
         "id": 1,
         "original_url": "https://www.meetup.com/hoodlums/events/hrbdtnyxqbrb/"
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "8F11BF91-F909-4DAB-9B01-FB9C256889CE",
@@ -1315,7 +1372,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "76005c21-5327-4336-92ed-42d873d700cb",
@@ -1399,7 +1457,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1548929952.000222"
+    "last_read": "1548929952.000222",
+    "channel": "london"
   },
   {
     "client_msg_id": "ac2b98f6-6edd-4e12-9a35-d7c9811ab4a8",
@@ -1422,7 +1481,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1547499507.002300",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "21de4eec-79ae-41bc-8544-19e88ef421d8",
@@ -1445,7 +1505,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1547499507.002300",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "b406ca42-4b5f-47ac-930b-17124754ba89",
@@ -1468,7 +1529,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1547499507.002300",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "882aa3ce-72a7-469a-91bd-04a5965d4a98",
@@ -1491,7 +1553,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1547499507.002300",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "33078c84-2ba3-41fc-ada2-669318dcc251",
@@ -1514,7 +1577,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1547499507.002300",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "a594ed3b-440b-41be-84af-b7fae3a16cd6",
@@ -1546,7 +1610,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "2613172a-dcac-41c5-9c18-72bada10a552",
@@ -1569,7 +1634,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1547499507.002300",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "11d76992-02c0-4bb0-9232-a251bfa77b0e",
@@ -1592,7 +1658,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1547499507.002300",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "7ce613a9-f5d9-4427-abcf-dc9229e86c43",
@@ -1615,7 +1682,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1547499507.002300",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "1f930495-7a05-4dca-a212-f5ff5182f046",
@@ -1685,7 +1753,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "6F5424C8-E53C-41A6-A02C-108A8DACF824",
@@ -1708,7 +1777,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1549904044.003900",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "1c05f5b6-1f23-4ec0-99b0-e9b43f2393ad",
@@ -1731,7 +1801,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1549904044.003900",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "e744b1db-6d5d-4232-a8a8-a54af0232000",
@@ -1754,7 +1825,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1549904044.003900",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "ea1db519-725c-40e4-af5b-4cbb8ab2c9cf",
@@ -1775,7 +1847,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "9d049428-20fe-4746-ab1d-7f273dc60aaf",
@@ -1858,7 +1931,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1552478188.005900"
+    "last_read": "1552478188.005900",
+    "channel": "london"
   },
   {
     "client_msg_id": "34f6d819-3242-48b0-85b7-b1b428618265",
@@ -1879,7 +1953,8 @@
       "name": "nick259",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "dcc61640-1c22-4823-8537-65d7bfa7deaf",
@@ -1909,7 +1984,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "8CE0AADD-A5DD-4693-87A1-AE25A7B44A0A",
@@ -1932,7 +2008,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550069221.007900",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "5385ee38-617a-4f8c-aece-04cb68ba5319",
@@ -1953,7 +2030,8 @@
       "name": "folcon",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "1f88ea18-8cb9-474a-afb9-ad93c49ff4b1",
@@ -1985,7 +2063,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "82e274b6-0cac-465a-94ca-4cea39b911f4",
@@ -2008,7 +2087,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550069221.007900",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "FB2A8EF9-03F3-4A87-B8C2-A3DF7BA66B1A",
@@ -2040,7 +2120,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "8fe4ba1e-5fe1-4005-8d06-110cd8f8430b",
@@ -2063,7 +2144,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550069221.007900",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "d0eacafd-7bd5-4784-837f-b47e1f5817b0",
@@ -2086,7 +2168,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550069221.007900",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "F53AD59B-3A16-4568-BBA9-A52BC243FE67",
@@ -2109,7 +2192,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550069221.007900",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "b4e4a9e5-033e-420f-b9c3-07659d22db4e",
@@ -2132,7 +2216,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550069221.007900",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "1dfade6f-5460-4e13-b67c-7f42e279f6b6",
@@ -2165,7 +2250,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "DC23DC08-ED6E-44C4-8836-64E8751EB818",
@@ -2188,7 +2274,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550069221.007900",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "09ddcab7-bb60-4adc-b3d3-1c5acdb04fb4",
@@ -2229,7 +2316,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1551437743.000100"
+    "last_read": "1551437743.000100",
+    "channel": "london"
   },
   {
     "client_msg_id": "807731C2-AE25-4DEF-884E-C93A5458179A",
@@ -2252,7 +2340,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550750301.001500",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "f908749e-971c-46f6-9457-b937a23da4ce",
@@ -2275,7 +2364,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550750301.001500",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "58fb5000-9ba4-4905-bf45-0ab1a511c845",
@@ -2368,7 +2458,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "6df7dfe3-d7e5-4a9a-9423-b3a399cb722f",
@@ -2391,7 +2482,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551439891.001600",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "32e477d7-eba9-4328-aacb-e58ae17e3e9a",
@@ -2414,7 +2506,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551439891.001600",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "type": "message",
@@ -2422,7 +2515,8 @@
     "ts": "1551440065.002200",
     "user": "U71PMQ1V0",
     "text": "<@U71PMQ1V0> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "2c331ebc-521b-4c50-90a4-60e1ec1b713e",
@@ -2445,7 +2539,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551439891.001600",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "6ebc7330-d4cc-428c-88dc-812c59400b20",
@@ -2468,7 +2563,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551439891.001600",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "c06c04e0-5f57-48d4-808e-53bdd1a206da",
@@ -2491,7 +2587,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551439891.001600",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "84ebdd80-59c6-4e9d-9ab7-05fd7e6eb05e",
@@ -2514,7 +2611,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551439891.001600",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "e1d1be1f-1c28-4640-b707-aff599bc5cb3",
@@ -2537,7 +2635,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551439891.001600",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "c6cecf74-8236-4fde-93ae-12cf8bd48a9e",
@@ -2558,7 +2657,8 @@
       "name": "jack",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "6bf7dbc3-4301-4d09-9266-cffebbb6cde9",
@@ -2611,7 +2711,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "56820220-722b-47e8-bf12-4e4b52317a6d",
@@ -2634,7 +2735,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1550069221.007900",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "8902214f-c53d-478a-bc88-dcc6bad01d6f",
@@ -2657,7 +2759,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1551439891.001600",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "515305d1-9f3a-4924-b024-973e5056a947",
@@ -2687,7 +2790,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "ad888389-d8c7-4fb4-91b9-a13dcab6232b",
@@ -2708,7 +2812,8 @@
       "name": "nick259",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "38bb3f80-144b-4ab5-862c-ea4aaa7f3af7",
@@ -2740,7 +2845,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "63165d18-df05-4c39-bbff-95347b01a372",
@@ -2765,7 +2871,8 @@
     "edited": {
       "user": "UDPV407CZ",
       "ts": "1552490436.000000"
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "8a6f0978-a154-4d81-8dcf-a852fccb3a4d",
@@ -2786,7 +2893,8 @@
       "name": "amb26slack",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "FEE0A9BC-CC23-4E70-8E20-3227FE5EE5E5",
@@ -2807,7 +2915,8 @@
       "name": "nick259",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "298e464b-5aa0-4374-b55e-5e0f8082a7f4",
@@ -2828,7 +2937,8 @@
       "name": "daekharel",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "fb58cd83-7069-45d1-bb70-7182a10c1472",
@@ -2849,7 +2959,8 @@
       "name": "daekharel",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "8b543e52-5a21-474e-be08-22b93ffd42e4",
@@ -2870,7 +2981,8 @@
       "name": "joe",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "c68c89df-2218-4b84-8229-66e8502d2ca6",
@@ -2891,7 +3003,8 @@
       "name": "chrisknott",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "067ED1CB-0E1C-4682-974C-247F092D21D7",
@@ -2912,7 +3025,8 @@
       "name": "tim",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "FA06BCA1-EDC5-4C14-82D9-8F4B1DD1A2B1",
@@ -2933,7 +3047,8 @@
       "name": "tim",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "1DF8FC8C-6BC6-4DDD-A678-8FDCE90BCE7F",
@@ -2954,7 +3069,8 @@
       "name": "nick259",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "6C26AD81-7B98-44EC-978C-64C5194A9ED3",
@@ -2975,7 +3091,8 @@
       "name": "nick259",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "6a7dc5d3-b555-4341-9acc-6dd86686a7fe",
@@ -2996,7 +3113,8 @@
       "name": "jack",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "5dcbd2cb-851d-4f11-b8f6-8211c5b2e9cd",
@@ -3035,7 +3153,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "b466e550-c752-410f-b498-975f45817610",
@@ -3056,7 +3175,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "66b03422-af9c-4d27-89ea-a37a662e088d",
@@ -3077,7 +3197,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "1667758d-8996-4856-bc29-27fe9be8e03a",
@@ -3098,7 +3219,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "c711f760-eea9-43be-a6a1-277312023c8f",
@@ -3119,7 +3241,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "42faf5d0-aac7-4f83-92b2-4976284e7f80",
@@ -3140,7 +3263,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "2faa722f-4679-43d4-a417-9ac7c4bc7ee1",
@@ -3161,7 +3285,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "cc183a18-c772-4d0a-8508-7a08b353ffa0",
@@ -3276,7 +3401,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1553024984.033500"
+    "last_read": "1553024984.033500",
+    "channel": "london"
   },
   {
     "client_msg_id": "8974706e-7adb-42aa-9b28-a8084b212a29",
@@ -3297,7 +3423,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "71f3df0a-06e5-4939-a792-91e9bf6de551",
@@ -3318,7 +3445,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "f677b7ed-4ba8-47b3-9319-81c5cef74c98",
@@ -3339,7 +3467,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "434ba324-3001-4a99-9ccf-26d19bc5be9c",
@@ -3374,7 +3503,8 @@
         ],
         "count": 6
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "d870439d-cabf-4307-9e1c-04390f480e38",
@@ -3397,7 +3527,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552557030.022000",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "dfe8ca8b-a719-4b34-9369-86622e591eff",
@@ -3418,7 +3549,8 @@
       "name": "amb26slack",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "e1e516e7-6456-4adf-bb0e-dd1d7549f631",
@@ -3441,7 +3573,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552557030.022000",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "e9b6e2c0-564c-4235-998e-312b22697632",
@@ -3464,7 +3597,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552557030.022000",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "0241007C-6A27-45E1-A979-DBA3BAAB6430",
@@ -3487,7 +3621,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552557030.022000",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "9156e564-bdd4-402b-9f1c-f7d3de715b5c",
@@ -3510,7 +3645,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552557030.022000",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "bbe85691-1da6-48c6-b136-6d14fb98be7d",
@@ -3537,7 +3673,8 @@
       "ts": "1552646740.000000"
     },
     "thread_ts": "1552557030.022000",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "d098fe23-b782-403f-93f7-b72fb158bb5f",
@@ -3560,7 +3697,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552557030.022000",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "25e90d5a-174b-4b13-9806-e3dded898ae3",
@@ -3583,7 +3721,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552557030.022000",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "825726a5-3c45-4306-ba6f-7031d59b0a19",
@@ -3606,7 +3745,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552557030.022000",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "18F28A89-4C64-4823-979D-40B474EAF1F5",
@@ -3633,7 +3773,8 @@
       "ts": "1552654195.000000"
     },
     "thread_ts": "1552557030.022000",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "c3db0d13-f7f3-40f2-a920-148ffc0535e0",
@@ -3656,7 +3797,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552557030.022000",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "425532A0-F3AF-4A86-83B9-913C2A0D1F99",
@@ -3679,7 +3821,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552557030.022000",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "18ecaa40-c065-4067-8c5c-01e636e64a75",
@@ -3702,7 +3845,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552557030.022000",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "157b5607-6a2c-447c-9476-338400a2017f",
@@ -3741,7 +3885,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "fb2fbc31-c124-4191-a4fb-772672f10998",
@@ -3764,7 +3909,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552557030.022000",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "917167eb-69b4-468e-91a7-d5a4498ab053",
@@ -3787,7 +3933,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552557030.022000",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "62f69365-4aff-4756-b34e-730597f8b491",
@@ -3810,7 +3957,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552557030.022000",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "51a51e6d-70e0-4821-8631-71508a08198a",
@@ -3833,7 +3981,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552557030.022000",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "49111d12-483f-44b2-bdb4-797b3243c630",
@@ -3856,7 +4005,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552557030.022000",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "289a2b2b-4cb1-496d-862d-9a69e3964db3",
@@ -3879,7 +4029,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1552557030.022000",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "318372d9-d588-4a70-a730-9c242266fc5b",
@@ -3917,7 +4068,8 @@
         "id": 1,
         "original_url": "https://mailchi.mp/710cf7aedf24/musichackspace_august_september2018-1358929"
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "dcf18400-7136-4f11-9e55-9e1ed97d55b2",
@@ -4031,7 +4183,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "0103359b-0192-4f33-bdb7-e64ae58e54a0",
@@ -4054,7 +4207,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1553823223.000800",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "london"
   },
   {
     "client_msg_id": "f463e3cc-c1be-4f66-8c88-e51c7b1357c4",
@@ -4077,7 +4231,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1553823223.000800",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "london"
   },
   {
     "client_msg_id": "4207a466-6d01-4869-aa45-6ea523e7f8d1",
@@ -4100,7 +4255,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1553823223.000800",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "london"
   },
   {
     "client_msg_id": "EED0A6E2-C6F6-4E2D-B28C-0F8EC276467A",
@@ -4127,7 +4283,8 @@
       "ts": "1553869679.000000"
     },
     "thread_ts": "1553823223.000800",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "london"
   },
   {
     "client_msg_id": "030e11cd-000b-4004-a392-b02ff1bacb37",
@@ -4148,7 +4305,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "type": "message",
@@ -4168,7 +4326,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "type": "message",
@@ -4244,7 +4403,8 @@
         "footer_icon": "https://simplepoll.rocks/static/main/favicon.png",
         "color": "6ecadc"
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "A6294D4E-3A92-4503-BAFD-386478417D28",
@@ -4265,7 +4425,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "A042D5AA-B3E1-494C-9B65-647E524D3E50",
@@ -4286,7 +4447,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "ee236833-c3aa-4ddb-8271-d6e1d8149749",
@@ -4307,7 +4469,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "d3ee568e-479c-434b-b491-cf9723e468e7",
@@ -4328,7 +4491,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "5918c1d3-7dfc-4e25-8382-9a47135893f8",
@@ -4351,7 +4515,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1553823223.000800",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "london"
   },
   {
     "client_msg_id": "4c5d430a-423e-4fc8-8de1-93242250103b",
@@ -4374,7 +4539,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1553823223.000800",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "london"
   },
   {
     "client_msg_id": "94924a80-16ba-4600-aeb5-314b14c736a2",
@@ -4395,7 +4561,8 @@
       "name": "jack",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "0400fe9c-da2b-4418-9b58-e4aca8088666",
@@ -4416,7 +4583,8 @@
       "name": "jack",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "d9361e3b-869b-4208-ada7-4c6bb9358226",
@@ -4439,7 +4607,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1553823223.000800",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "london"
   },
   {
     "client_msg_id": "4bbd54f4-89bf-4666-95f2-1578727bcb5f",
@@ -4462,7 +4631,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1553823223.000800",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "london"
   },
   {
     "client_msg_id": "bc15b53d-67d9-4d53-9942-76496cdbc395",
@@ -4485,7 +4655,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1553823223.000800",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "london"
   },
   {
     "client_msg_id": "2e2a7e54-d947-4de5-a73a-d52123e3acf2",
@@ -4508,7 +4679,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1553823223.000800",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "london"
   },
   {
     "client_msg_id": "73ccf497-961f-40a3-adbd-119e9437387b",
@@ -4531,7 +4703,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1553823223.000800",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "london"
   },
   {
     "client_msg_id": "4aff2905-9476-4aaf-8db1-647be799320c",
@@ -4563,7 +4736,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "2a8d807e-6bfa-4b69-b5ba-8d13ba05fd97",
@@ -4586,7 +4760,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1553823223.000800",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "london"
   },
   {
     "client_msg_id": "581459fb-85ac-44f8-bf27-22a55dde15e5",
@@ -4609,7 +4784,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1553823223.000800",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "london"
   },
   {
     "client_msg_id": "0c4cdef6-7dca-49f4-97a1-aab417ebe81b",
@@ -4632,7 +4808,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1553823223.000800",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "london"
   },
   {
     "client_msg_id": "37283C78-6789-41A5-BC82-E78820EF0453",
@@ -4655,7 +4832,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1553823223.000800",
-    "parent_user_id": "U6KQ2S410"
+    "parent_user_id": "U6KQ2S410",
+    "channel": "london"
   },
   {
     "client_msg_id": "268953D1-6CEF-4AF6-A815-E9A26A75F97D",
@@ -4687,7 +4865,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "49A0362F-F092-4281-B6C2-F53840172DAD",
@@ -4734,7 +4913,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "2A7D41A2-AA76-43FF-8985-67A2485A1A17",
@@ -4757,7 +4937,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1555716063.002700",
-    "parent_user_id": "UBRS4E6B1"
+    "parent_user_id": "UBRS4E6B1",
+    "channel": "london"
   },
   {
     "client_msg_id": "a75c2ca5-4d61-4ca0-934b-42f0475d2c95",
@@ -4788,7 +4969,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "683d5721-0acb-4215-bedc-46846d6feac9",
@@ -4825,7 +5007,8 @@
         "id": 1,
         "original_url": "https://www.facebook.com/events/2266998866876801"
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "15ba518f-5c7d-4550-8ee0-e31fc0de666d",
@@ -4870,7 +5053,8 @@
         "ts": "1560465000.001800"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "london"
   },
   {
     "client_msg_id": "60488CC9-6988-44DE-A46A-C6432CD13CCE",
@@ -4893,7 +5077,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1560089957.000700",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "721871d5-8f71-45a9-b553-41a31727885f",
@@ -4916,7 +5101,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1560089957.000700",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "4d4f12cb-f42d-493c-9965-9be8398bc96e",
@@ -4939,7 +5125,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1560089957.000700",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "56cb9045-d0d9-4dd7-a11c-f849ae6209ee",
@@ -4964,7 +5151,8 @@
     "edited": {
       "user": "UEGFXUK3M",
       "ts": "1560465226.000000"
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "6fc7608e-5424-4ab0-a4f8-3904187852cf",
@@ -5008,7 +5196,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "cc8fe161-365a-402b-b313-e0c92b456be3",
@@ -5029,7 +5218,8 @@
       "name": "jack",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "4d3470ea-e656-4ee0-96a1-dc5613ba77ee",
@@ -5065,7 +5255,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1562941610.005800"
+    "last_read": "1562941610.005800",
+    "channel": "london"
   },
   {
     "client_msg_id": "67b5961d-4a7b-4d29-90e3-ef5ccb18855f",
@@ -5108,7 +5299,8 @@
         "original_url": "https://futureofcoding.slack.com/archives/CC2JRGVLK/p1562872290201500",
         "footer": "Posted in #introductions"
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "2e2b0bd3-071e-49e0-90f3-ee2f8841e89b",
@@ -5154,7 +5346,8 @@
       }
     ],
     "thread_ts": "1562872327.005400",
-    "parent_user_id": "UGS8TUVK6"
+    "parent_user_id": "UGS8TUVK6",
+    "channel": "london"
   },
   {
     "type": "message",
@@ -5162,7 +5355,8 @@
     "ts": "1569719118.000500",
     "user": "UEZQXJK9V",
     "text": "<@UEZQXJK9V> has joined the channel",
-    "inviter": "U71PMQ1V0"
+    "inviter": "U71PMQ1V0",
+    "channel": "london"
   },
   {
     "type": "message",
@@ -5217,7 +5411,8 @@
         ],
         "count": 5
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "2ddc9918-a57e-4869-a39a-697dcdf24dc1",
@@ -5352,7 +5547,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "691a52fd-bdd8-4e6d-96d5-8f5c3a2fce0d",
@@ -5375,7 +5571,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571133160.003100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "78774b3b-02e1-4d6e-8a59-a6b7a1006365",
@@ -5398,7 +5595,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571133160.003100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "5cac5fb7-b22c-4821-8037-d75fd0ef23dd",
@@ -5421,7 +5619,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571133160.003100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "59F4C002-BD48-49FC-B598-3FF51BFE2503",
@@ -5444,7 +5643,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571133160.003100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "70cc19fd-f722-48ba-9333-309bd541ddf0",
@@ -5467,7 +5667,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571133160.003100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "04e7eb11-9976-44c6-884e-16e81a7b31e8",
@@ -5490,7 +5691,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571133160.003100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "7ac71a8c-5c04-4817-8340-c58fdc66f42c",
@@ -5513,7 +5715,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571133160.003100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "aac5ef9c-a1e8-4278-8609-f38e5ee4e71a",
@@ -5536,7 +5739,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571133160.003100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "381c2d02-9a6d-46c4-84cd-1f54a0387d6a",
@@ -5575,7 +5779,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "bf9b6c2d-98e2-4de0-9204-dfd914ac1f65",
@@ -5598,7 +5803,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571133160.003100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "ae4d41c8-77ec-41ae-a44c-b11ba01157bf",
@@ -5621,7 +5827,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571133160.003100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "64c2d367-7148-45aa-92de-565ad0390e9b",
@@ -5662,7 +5869,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "88a4c297-e2f7-4515-b87f-abbfc7872a2d",
@@ -5685,7 +5893,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571133160.003100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "b7f41b4d-ba4b-429e-9bb4-f96b15559ba9",
@@ -5738,7 +5947,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "ac348ee5-0496-444c-95e9-4c99b229bfa0",
@@ -5759,7 +5969,8 @@
       "name": "tomas",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "b3d8f33e-25ac-4e6d-ac48-8797506f6536",
@@ -5786,7 +5997,8 @@
       "ts": "1572705798.000000"
     },
     "thread_ts": "1571133160.003100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "7005b6f0-0d71-459c-a7fb-df6fe9fc2d6d",
@@ -5822,7 +6034,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "type": "message",
@@ -5859,7 +6072,8 @@
       "subscribed": true,
       "last_read": "1573033722.000218"
     },
-    "client_msg_id": "ffcdfbff-1a3a-47b8-a959-f099b88f3771"
+    "client_msg_id": "ffcdfbff-1a3a-47b8-a959-f099b88f3771",
+    "channel": "london"
   },
   {
     "client_msg_id": "db2937dc-3d11-4fc1-80a3-0f11d4546a4a",
@@ -5886,7 +6100,8 @@
       "ts": "1572727744.000000"
     },
     "thread_ts": "1571438954.008800",
-    "parent_user_id": "UDCLA1HU4"
+    "parent_user_id": "UDCLA1HU4",
+    "channel": "london"
   },
   {
     "client_msg_id": "a7a0b07e-36e3-4126-88c0-33004b48c534",
@@ -5907,7 +6122,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "E127270E-31B2-491E-A5C3-BE2DBD5AB3CA",
@@ -5930,7 +6146,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571133160.003100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "1860767C-69D7-4340-BD36-3B26409536D7",
@@ -5951,7 +6168,8 @@
       "name": "jonathoda",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "c75f61c5-91cd-4183-bc20-2584ad635dd8",
@@ -5972,7 +6190,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "e3f736f6-7e48-48e0-9323-8879b11f65c2",
@@ -5997,7 +6216,8 @@
     "edited": {
       "user": "UE6EFEPTQ",
       "ts": "1572858598.000000"
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "58538527-6563-4efb-938a-65255e1007f0",
@@ -6018,7 +6238,8 @@
       "name": "dan346",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "f85d088f-84b9-470b-872c-a1531575555d",
@@ -6039,7 +6260,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "0b2ed9ee-bc69-40be-a78a-034652f0a7e5",
@@ -6060,7 +6282,8 @@
       "name": "jack",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "36943d37-afdb-43d0-ab4a-b983a89def6b",
@@ -6081,7 +6304,8 @@
       "name": "tony",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "960e66ff-18eb-4186-8850-b0f5fa87b9bf",
@@ -6102,7 +6326,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "50948a4f-de9c-4bf3-8b2b-d4b70a644080",
@@ -6123,7 +6348,8 @@
       "name": "samuel.d.hand",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "727a5166-268b-4c65-bfcc-d049498041cc",
@@ -6144,7 +6370,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "ca7db824-8218-44a8-a1f8-58df5b5aba5d",
@@ -6165,7 +6392,8 @@
       "name": "tony",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "b7ba899e-51ce-4e94-a1b1-87001b89634a",
@@ -6202,7 +6430,8 @@
         "id": 1,
         "original_url": "https://www.google.co.uk/maps/place/Supawan+Thai+Food/@51.5294865,-0.1296354,15.5z/data=!4m9!1m3!2m2!1sthai!6e5!3m4!1s0x0:0xdc44d12081e06652!8m2!3d51.5319545!4d-0.1205036"
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "2b68d7bb-0a07-42c7-b26c-b705497bcb03",
@@ -6223,7 +6452,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "6648c625-feec-40b3-90c1-49700ae196da",
@@ -6244,7 +6474,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "809232dc-1a1e-4edd-b9c4-29bc9a7ca678",
@@ -6265,7 +6496,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "ee06c444-184d-4582-a9d3-802ea39f381a",
@@ -6286,7 +6518,8 @@
       "name": "samuel.d.hand",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "11811afb-ab70-44a0-8961-8caff49b1106",
@@ -6307,7 +6540,8 @@
       "name": "fp",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "c379f285-4057-47cb-bf8b-d373bfcd1609",
@@ -6502,7 +6736,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "133a28d5-5ecf-469c-b0c8-774ae93e789d",
@@ -6525,7 +6760,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "024a17ac-b70b-47b2-9dd4-02eb69ad400d",
@@ -6548,7 +6784,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "0dd1ae10-c36b-40b3-89ac-d41f8c50da1d",
@@ -6571,7 +6808,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "b65dbfbe-3ef0-4eab-8f59-b891bfb72011",
@@ -6594,7 +6832,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "e3b6d81c-0122-4e7d-a48c-727eba8a5847",
@@ -6617,7 +6856,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "7c77f6ea-3072-40dd-8172-c3901edf3477",
@@ -6640,7 +6880,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1571133160.003100",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "london"
   },
   {
     "client_msg_id": "359f65aa-e7d4-4883-b84b-088a1e8be6ae",
@@ -6663,7 +6904,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "81d54426-0059-40af-98d2-df13558a6c93",
@@ -6695,7 +6937,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "76500cfb-84e3-4c34-bcfb-dc46b9823b0f",
@@ -6718,7 +6961,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "edd6754f-8888-4309-bffb-fd3cb49c3c31",
@@ -6750,7 +6994,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "f9746e6c-a6a3-463b-bf1e-39f4d63f15b9",
@@ -6773,7 +7018,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "4436ECB3-C4BD-4236-8E18-971D73EEB5F1",
@@ -6796,7 +7042,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "type": "message",
@@ -6845,7 +7092,8 @@
     "ts": "1573120683.037000",
     "client_msg_id": "b9f54c24-444f-4c43-9e98-5384de2a9e01",
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "5d65ea11-fe3e-460e-ad25-3c1c5c0ccc9b",
@@ -6868,7 +7116,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "6548d5b5-060e-496d-908f-a22624e0991f",
@@ -6891,7 +7140,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "bd4f2b33-c666-4668-95cf-3f464dfe32c4",
@@ -6928,7 +7178,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "a0e50dd2-a588-4335-8b2d-f3a2d1bec368",
@@ -6951,7 +7202,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "a54b0cbc-662c-49dc-8976-1850928282eb",
@@ -6974,7 +7226,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "3FD012B0-0002-4A37-917B-1BD250E5B78D",
@@ -7006,7 +7259,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "B83255DE-05C2-41E2-9173-D7AC62FC97D6",
@@ -7029,7 +7283,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "B527DA32-5D69-4287-A4FA-948E1CB5A49E",
@@ -7052,7 +7307,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "cdece279-1a9c-4370-ad71-023ad8dcb7bd",
@@ -7075,7 +7331,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "AF435BD2-943A-4BB3-9DED-DBCFBB484B45",
@@ -7098,7 +7355,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "14BC1349-8B34-451E-9278-8B2C893768CB",
@@ -7121,7 +7379,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "aa083d0b-9fab-4715-8974-764629fe0e1d",
@@ -7144,7 +7403,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "ebe4e982-7bd9-43ad-9874-adaf42382379",
@@ -7167,7 +7427,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "9fc25ddb-a8fa-4482-a14e-5e09b65af8b6",
@@ -7190,7 +7451,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "27040a0f-a593-4a2f-9ef0-d5ae4022b5db",
@@ -7213,7 +7475,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "dfa2a3a3-2e5b-442b-a176-202c7e1c0b60",
@@ -7245,7 +7508,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "f27812dd-6ccb-41c8-a910-4c6e74cb2d6a",
@@ -7268,7 +7532,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "78597cf9-9d3a-4d5d-99dd-059109fa9cc1",
@@ -7291,7 +7556,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "848e97d0-c21f-4006-a31f-cf251a429ed0",
@@ -7314,7 +7580,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "635df371-3a23-4946-89d3-f03828e7e2f6",
@@ -7337,7 +7604,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "60048e71-163c-4d62-a00e-8f7a528809ea",
@@ -7360,7 +7628,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "76d328b1-12f0-4be6-abfd-0ae15c49c37f",
@@ -7383,7 +7652,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "90ea9a39-b42f-421e-a537-5df7b8fabfb5",
@@ -7406,7 +7676,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "e24e9cd3-f7f7-4978-8f64-aba0a3523e20",
@@ -7470,7 +7741,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "15cbcec2-2b21-425b-a5ee-cc630de5411d",
@@ -7510,7 +7782,8 @@
       }
     ],
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "c1bc0d42-fb42-4e0f-9afe-2131b2bd13a8",
@@ -7550,7 +7823,8 @@
       }
     ],
     "thread_ts": "1572953453.032200",
-    "parent_user_id": "UJVEPCVT6"
+    "parent_user_id": "UJVEPCVT6",
+    "channel": "london"
   },
   {
     "client_msg_id": "febbc4cf-9c4d-444c-be5c-fbb1b5cf0537",
@@ -7642,7 +7916,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "3478c520-1391-4260-9838-d9459fd5c2b8",
@@ -7684,7 +7959,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "450382bf-38bb-4431-bac9-1ae170075189",
@@ -7746,7 +8022,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "53997250-8C09-412E-B4BA-9190D1B9B395",
@@ -7767,7 +8044,8 @@
       "name": "tony",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "8b6db58a-ab15-4158-b243-2eb53522ac23",
@@ -7813,7 +8091,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "3D46F34C-5676-4123-8B65-DDD6EB064E97",
@@ -7834,7 +8113,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "81da3338-0da0-4cba-abb8-0215671b8e71",
@@ -7885,7 +8165,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "1d16e3f8-d23c-4ba6-8a42-76ecc1199169",
@@ -7923,7 +8204,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "15ff0732-9d28-4cbd-b12d-859165bf0422",
@@ -7961,7 +8243,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "7f3105e7-dd97-4244-94c4-7690665c00c8",
@@ -8003,7 +8286,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "8a6a3307-1bf0-49ca-9264-11008cbe46d9",
@@ -8041,7 +8325,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "a2de37dd-86af-41bd-8f43-0e333ee96c6e",
@@ -8079,7 +8364,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "61547043-c46c-4be1-b1d9-c58620257c19",
@@ -8117,7 +8403,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "f404fed1-bd87-4492-9677-5e11e670b4b8",
@@ -8155,7 +8442,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "b2a1076e-b5c3-498f-b874-57abe829cc47",
@@ -8193,7 +8481,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "0d88764a-1108-4f87-bdee-3f0af57c4b99",
@@ -8235,7 +8524,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "3c2990c5-e3d2-4c8e-a030-f9d4b5d8f0aa",
@@ -8273,7 +8563,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "727449e7-eeb3-48c7-bd72-4f88bd2e32ee",
@@ -8311,7 +8602,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "C9E7352E-8C59-4504-BA4F-CFCFEB878EDC",
@@ -8332,7 +8624,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "B5E3B8DE-4FDC-4883-869E-524FD87C11AC",
@@ -8353,7 +8646,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "london"
   },
   {
     "client_msg_id": "80056e44-d3e5-42fc-bcd5-b8db9f58aa6f",
@@ -8395,7 +8689,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "1F49B24E-1EC1-4BF6-A5C9-DD9427F08F55",
@@ -8446,7 +8741,8 @@
         "id": 2,
         "original_url": "https://www.goodreads.com/book/show/53336.Women_Fire_and_Dangerous_Things"
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "3fe1e654-bb7f-4a19-a9a7-c798f684846f",
@@ -8484,7 +8780,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "9AB92A36-DB71-4A6A-A1F4-10F2DA52E70A",
@@ -8522,7 +8819,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "3c24ec2c-bd68-4c89-b4f7-b593179a4804",
@@ -8590,7 +8888,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "f0f23e3b-c9e1-49ba-ab0b-ab8d53ad4b44",
@@ -8707,7 +9006,8 @@
         "ts": "1578325965.010100"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "london"
   },
   {
     "client_msg_id": "0c32e33e-6194-475c-a8cc-f4f8327d6a05",
@@ -8769,7 +9069,8 @@
       }
     ],
     "thread_ts": "1578058544.001800",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "2c302885-537b-44f8-b642-b6f71370da2a",
@@ -8809,7 +9110,8 @@
       }
     ],
     "thread_ts": "1578058544.001800",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "6478cb6c-b0f6-43fd-aac3-5e4825e0456b",
@@ -8853,7 +9155,8 @@
       }
     ],
     "thread_ts": "1578058544.001800",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "96547e52-549c-4ba3-a5c0-0863bf98ca78",
@@ -8893,7 +9196,8 @@
       }
     ],
     "thread_ts": "1578058544.001800",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "bffb066b-d6e5-48a9-a822-bc8ba3e29b6c",
@@ -8933,7 +9237,8 @@
       }
     ],
     "thread_ts": "1578058544.001800",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "57e98550-8904-4f02-9fed-e65cc2e78e7d",
@@ -8977,7 +9282,8 @@
       }
     ],
     "thread_ts": "1578058544.001800",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "8ff9065a-63b2-4ff6-b396-757f59427d2c",
@@ -9017,7 +9323,8 @@
       }
     ],
     "thread_ts": "1578058544.001800",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "59cbdd6a-8e40-4a91-acd8-8024ac12d9c3",
@@ -9057,7 +9364,8 @@
       }
     ],
     "thread_ts": "1578058544.001800",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "e53c667d-18ba-4435-897b-191a1bdb036d",
@@ -9097,7 +9405,8 @@
       }
     ],
     "thread_ts": "1578058544.001800",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "a999bc6e-d9d7-4dca-88bc-845834f4be03",
@@ -9137,7 +9446,8 @@
       }
     ],
     "thread_ts": "1578058544.001800",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "09f10d9b-2d2e-4a61-92f5-38e16b3c7fc0",
@@ -9216,7 +9526,8 @@
       }
     ],
     "thread_ts": "1578058544.001800",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "f15f6e04-cae0-4667-97ee-ca6ed19436f3",
@@ -9256,7 +9567,8 @@
       }
     ],
     "thread_ts": "1578058544.001800",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "aff3609b-b12f-4bd5-bc87-e08cac7dcdae",
@@ -9296,7 +9608,8 @@
       }
     ],
     "thread_ts": "1578058544.001800",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "f0eccf0f-8fce-4cc9-a416-0467be792aa2",
@@ -9336,7 +9649,8 @@
       }
     ],
     "thread_ts": "1578058544.001800",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "6186f5c7-82aa-45c4-ae9a-cec69ee689cd",
@@ -9380,7 +9694,8 @@
       }
     ],
     "thread_ts": "1578058544.001800",
-    "parent_user_id": "UEGFXUK3M"
+    "parent_user_id": "UEGFXUK3M",
+    "channel": "london"
   },
   {
     "client_msg_id": "3ceca9cc-92c3-496c-8757-e6c6c5cf497b",
@@ -9434,7 +9749,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "DBA31799-1F19-4DDF-8D90-A0C2B0575EAA",
@@ -9480,7 +9796,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "cc9f6d5b-c1ce-406b-a477-bdf1b71e2f0d",
@@ -9550,7 +9867,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "CCC00554-BDD5-4CCD-A2BD-4BBDB4201A0C",
@@ -9590,7 +9908,8 @@
       }
     ],
     "thread_ts": "1579976595.009500",
-    "parent_user_id": "UFLN9JFRT"
+    "parent_user_id": "UFLN9JFRT",
+    "channel": "london"
   },
   {
     "client_msg_id": "b3291f2f-7a7d-40c6-b38b-fa3e8f57ed53",
@@ -9630,7 +9949,8 @@
       }
     ],
     "thread_ts": "1579976595.009500",
-    "parent_user_id": "UFLN9JFRT"
+    "parent_user_id": "UFLN9JFRT",
+    "channel": "london"
   },
   {
     "client_msg_id": "69eb288d-cc5d-4b27-9ae3-e2969d5eb6ad",
@@ -9706,7 +10026,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "9f2b82b7-a57c-4b66-896b-306dba98774f",
@@ -9766,7 +10087,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "ff644661-a145-4d8d-8dac-6d1de30d9636",
@@ -9804,7 +10126,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "64b513db-644e-431f-a245-d2e22cd665f3",
@@ -9869,7 +10192,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "7d85291d-d3e4-4ef7-87e9-ce6717680691",
@@ -9907,7 +10231,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "a102cd69-05c5-4a21-9779-a6d73a0b833d",
@@ -9945,7 +10270,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   },
   {
     "client_msg_id": "96a7dfcb-6861-458f-bb1c-6cca7b9a685a",
@@ -9987,6 +10313,7 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "london"
   }
 ]

@@ -4,7 +4,8 @@
     "subtype": "channel_join",
     "ts": "1548674815.000200",
     "user": "U5TCAFTD3",
-    "text": "<@U5TCAFTD3> has joined the channel"
+    "text": "<@U5TCAFTD3> has joined the channel",
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
@@ -21,7 +22,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
@@ -29,105 +31,120 @@
     "ts": "1548674824.000500",
     "user": "UFQ0XSFH6",
     "text": "<@UFQ0XSFH6> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1548675165.000700",
     "user": "UCKRZS3DZ",
-    "text": "<@UCKRZS3DZ> has joined the channel"
+    "text": "<@UCKRZS3DZ> has joined the channel",
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1548675461.001000",
     "user": "UF5PAGQQ4",
-    "text": "<@UF5PAGQQ4> has joined the channel"
+    "text": "<@UF5PAGQQ4> has joined the channel",
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1548676374.001300",
     "user": "UAL7940NM",
-    "text": "<@UAL7940NM> has joined the channel"
+    "text": "<@UAL7940NM> has joined the channel",
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1548676530.001600",
     "user": "UFD2JRE58",
-    "text": "<@UFD2JRE58> has joined the channel"
+    "text": "<@UFD2JRE58> has joined the channel",
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1548676992.001900",
     "user": "UF3V37GCE",
-    "text": "<@UF3V37GCE> has joined the channel"
+    "text": "<@UF3V37GCE> has joined the channel",
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1548677867.002200",
     "user": "UAZT04VT4",
-    "text": "<@UAZT04VT4> has joined the channel"
+    "text": "<@UAZT04VT4> has joined the channel",
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1548679763.002500",
     "user": "UF06DRY1X",
-    "text": "<@UF06DRY1X> has joined the channel"
+    "text": "<@UF06DRY1X> has joined the channel",
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1548682474.002800",
     "user": "UEGFXUK3M",
-    "text": "<@UEGFXUK3M> has joined the channel"
+    "text": "<@UEGFXUK3M> has joined the channel",
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1548693172.003100",
     "user": "UFFHBL3PU",
-    "text": "<@UFFHBL3PU> has joined the channel"
+    "text": "<@UFFHBL3PU> has joined the channel",
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1548694680.003400",
     "user": "UD43R8ZFV",
-    "text": "<@UD43R8ZFV> has joined the channel"
+    "text": "<@UD43R8ZFV> has joined the channel",
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1548703300.003700",
     "user": "UF0770MK2",
-    "text": "<@UF0770MK2> has joined the channel"
+    "text": "<@UF0770MK2> has joined the channel",
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1548722110.000200",
     "user": "UD3AK9JRF",
-    "text": "<@UD3AK9JRF> has joined the channel"
+    "text": "<@UD3AK9JRF> has joined the channel",
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1548881379.000200",
     "user": "UFS53UWE5",
-    "text": "<@UFS53UWE5> has joined the channel"
+    "text": "<@UFS53UWE5> has joined the channel",
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1548991353.000500",
     "user": "U85MWBKEY",
-    "text": "<@U85MWBKEY> has joined the channel"
+    "text": "<@U85MWBKEY> has joined the channel",
+    "channel": "1-on-1s"
   },
   {
     "client_msg_id": "7983204D-62DB-44A9-8F33-538BC258CCE6",
@@ -157,35 +174,40 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1548996094.001200",
     "user": "UFMD4TQMD",
-    "text": "<@UFMD4TQMD> has joined the channel"
+    "text": "<@UFMD4TQMD> has joined the channel",
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1549010754.001500",
     "user": "UFUKSKJRW",
-    "text": "<@UFUKSKJRW> has joined the channel"
+    "text": "<@UFUKSKJRW> has joined the channel",
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1549062858.001900",
     "user": "UBUFWBGNN",
-    "text": "<@UBUFWBGNN> has joined the channel"
+    "text": "<@UBUFWBGNN> has joined the channel",
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1549226070.000200",
     "user": "UFXFB1RK8",
-    "text": "<@UFXFB1RK8> has joined the channel"
+    "text": "<@UFXFB1RK8> has joined the channel",
+    "channel": "1-on-1s"
   },
   {
     "client_msg_id": "ccbac6a2-906e-4bdc-ab09-af6bce93b165",
@@ -221,7 +243,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1549303323.000400"
+    "last_read": "1549303323.000400",
+    "channel": "1-on-1s"
   },
   {
     "client_msg_id": "b72dc361-c051-4568-bc3a-cacda4ca015a",
@@ -253,7 +276,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
@@ -261,7 +285,8 @@
     "ts": "1549303326.000700",
     "user": "UDJ8A6RNH",
     "text": "<@UDJ8A6RNH> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "1-on-1s"
   },
   {
     "type": "message",
@@ -343,7 +368,8 @@
         "ts": "1549722614.000500"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "1-on-1s"
   },
   {
     "client_msg_id": "a91be1a2-e391-43bb-bf49-2bea7b00a066",
@@ -366,7 +392,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1549657278.003600",
-    "parent_user_id": "UD43R8ZFV"
+    "parent_user_id": "UD43R8ZFV",
+    "channel": "1-on-1s"
   },
   {
     "client_msg_id": "945bc05a-1e2f-4b10-9926-b6398d6ed67f",
@@ -389,7 +416,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1549657278.003600",
-    "parent_user_id": "UD43R8ZFV"
+    "parent_user_id": "UD43R8ZFV",
+    "channel": "1-on-1s"
   },
   {
     "bot_id": "BFQHW0L6Q",
@@ -430,7 +458,8 @@
         ],
         "fallback": "You're doing *great*! Donut ever change!"
       }
-    ]
+    ],
+    "channel": "1-on-1s"
   },
   {
     "bot_id": "BFQHW0L6Q",
@@ -479,7 +508,8 @@
         ],
         "fallback": "<http://bit.ly/2OsTUqO|View more detailed stats in the Reporting Dashboard →>"
       }
-    ]
+    ],
+    "channel": "1-on-1s"
   },
   {
     "bot_id": "BFQHW0L6Q",
@@ -528,7 +558,8 @@
         ],
         "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
       }
-    ]
+    ],
+    "channel": "1-on-1s"
   },
   {
     "bot_id": "BFQHW0L6Q",
@@ -577,7 +608,8 @@
         ],
         "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
       }
-    ]
+    ],
+    "channel": "1-on-1s"
   },
   {
     "bot_id": "BFQHW0L6Q",
@@ -626,7 +658,8 @@
         ],
         "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
       }
-    ]
+    ],
+    "channel": "1-on-1s"
   },
   {
     "client_msg_id": "29614d01-882d-42d6-a854-2bfa73b94e7a",
@@ -647,7 +680,8 @@
       "name": "rainhead",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "1-on-1s"
   },
   {
     "client_msg_id": "fbd43a63-b827-4467-bdc6-27424e1a0f70",
@@ -668,7 +702,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "1-on-1s"
   },
   {
     "client_msg_id": "72d34f6b-7771-492a-ba3e-d598cbfe29b8",
@@ -689,7 +724,8 @@
       "name": "rainhead",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "1-on-1s"
   },
   {
     "client_msg_id": "bbfcd7b2-eb1c-4823-9a1c-8ff3e1ff0241",
@@ -710,7 +746,8 @@
       "name": "felix.kohlgrueber",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "1-on-1s"
   },
   {
     "client_msg_id": "0656d793-a70a-496c-aa33-3531418c017b",
@@ -731,7 +768,8 @@
       "name": "dcook0819",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "1-on-1s"
   },
   {
     "client_msg_id": "48dad240-9ce1-4f44-b6c2-25f5b8076684",
@@ -791,7 +829,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "1-on-1s"
   },
   {
     "client_msg_id": "9aa68430-752f-406c-bfe8-3bb29b9f4730",
@@ -812,7 +851,8 @@
       "name": "colelawr",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "1-on-1s"
   },
   {
     "client_msg_id": "bca93f50-c891-40c4-bd17-da9179b7120e",
@@ -835,7 +875,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562081383.006200",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "1-on-1s"
   },
   {
     "client_msg_id": "71e84e18-98f4-48eb-9ff9-baba1a78b0c0",
@@ -858,7 +899,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562081383.006200",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "1-on-1s"
   },
   {
     "client_msg_id": "8eb35d8a-ab5b-425b-ae33-57fb21be1a34",
@@ -881,7 +923,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562081383.006200",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "1-on-1s"
   },
   {
     "bot_id": "BFQHW0L6Q",
@@ -930,7 +973,8 @@
         ],
         "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
       }
-    ]
+    ],
+    "channel": "1-on-1s"
   },
   {
     "bot_id": "BFQHW0L6Q",
@@ -979,7 +1023,8 @@
         ],
         "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
       }
-    ]
+    ],
+    "channel": "1-on-1s"
   },
   {
     "client_msg_id": "3e9a1358-036f-416e-8d68-b9209caa2f85",
@@ -1002,7 +1047,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562081383.006200",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "1-on-1s"
   },
   {
     "bot_id": "BFQHW0L6Q",
@@ -1051,7 +1097,8 @@
         ],
         "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
       }
-    ]
+    ],
+    "channel": "1-on-1s"
   },
   {
     "bot_id": "BFQHW0L6Q",
@@ -1100,7 +1147,8 @@
         ],
         "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
       }
-    ]
+    ],
+    "channel": "1-on-1s"
   },
   {
     "bot_id": "BFQHW0L6Q",
@@ -1149,7 +1197,8 @@
         ],
         "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
       }
-    ]
+    ],
+    "channel": "1-on-1s"
   },
   {
     "bot_id": "BFQHW0L6Q",
@@ -1198,7 +1247,8 @@
         ],
         "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
       }
-    ]
+    ],
+    "channel": "1-on-1s"
   },
   {
     "bot_id": "BFQHW0L6Q",
@@ -1247,7 +1297,8 @@
         ],
         "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
       }
-    ]
+    ],
+    "channel": "1-on-1s"
   },
   {
     "client_msg_id": "712aa2ad-15c5-49bb-838b-db4619e832e6",
@@ -1306,7 +1357,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "1-on-1s"
   },
   {
     "bot_id": "BFQHW0L6Q",
@@ -1370,7 +1422,8 @@
           }
         ]
       }
-    ]
+    ],
+    "channel": "1-on-1s"
   },
   {
     "bot_id": "BFQHW0L6Q",
@@ -1419,6 +1472,7 @@
         ],
         "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
       }
-    ]
+    ],
+    "channel": "1-on-1s"
   }
 ]

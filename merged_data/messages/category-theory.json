@@ -4,14 +4,16 @@
     "subtype": "channel_join",
     "ts": "1560450719.000200",
     "user": "U5TCAFTD3",
-    "text": "<@U5TCAFTD3> has joined the channel"
+    "text": "<@U5TCAFTD3> has joined the channel",
+    "channel": "category-theory"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1560450754.000400",
     "user": "U5STGTB3J",
-    "text": "<@U5STGTB3J> has joined the channel"
+    "text": "<@U5STGTB3J> has joined the channel",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "6a758ee4-a8eb-464c-a29d-efa137a161d1",
@@ -55,7 +57,8 @@
         "original_url": "https://futureofcoding.slack.com/archives/C5T9GPWFL/p1558782017061500",
         "footer": "Thread in #general"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "6c76997e-61f4-4d30-8af3-7cf59ea29401",
@@ -76,7 +79,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "8f29fc40-5cd8-41ba-8f17-1cd83c1c27c3",
@@ -113,7 +117,8 @@
         "id": 1,
         "original_url": "https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "9b056a90-78ce-44ed-8a2d-8c4279e364b3",
@@ -134,7 +139,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "f6e57b87-671a-4b0f-9e87-e3303c0b2698",
@@ -172,7 +178,8 @@
         "id": 1,
         "original_url": "https://doodle.com/poll/an85k7syu3848ii8"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "8317af8a-3e66-490e-89bd-72f0576e95a9",
@@ -193,21 +200,24 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1560451560.008100",
     "user": "UA14TGLTC",
-    "text": "<@UA14TGLTC> has joined the channel"
+    "text": "<@UA14TGLTC> has joined the channel",
+    "channel": "category-theory"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1560451579.008300",
     "user": "UJK8MKYAZ",
-    "text": "<@UJK8MKYAZ> has joined the channel"
+    "text": "<@UJK8MKYAZ> has joined the channel",
+    "channel": "category-theory"
   },
   {
     "type": "message",
@@ -215,28 +225,32 @@
     "ts": "1560451702.008400",
     "user": "U5STGTB3J",
     "text": "<@U5STGTB3J> set the channel topic: Discussions around category theory and logistics for our weekly online study group.",
-    "topic": "Discussions around category theory and logistics for our weekly online study group."
+    "topic": "Discussions around category theory and logistics for our weekly online study group.",
+    "channel": "category-theory"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1560451746.008600",
     "user": "U8A5MS6R1",
-    "text": "<@U8A5MS6R1> has joined the channel"
+    "text": "<@U8A5MS6R1> has joined the channel",
+    "channel": "category-theory"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1560452052.008800",
     "user": "UK4LFKMQQ",
-    "text": "<@UK4LFKMQQ> has joined the channel"
+    "text": "<@UK4LFKMQQ> has joined the channel",
+    "channel": "category-theory"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1560452521.009000",
     "user": "UJUGB1XGD",
-    "text": "<@UJUGB1XGD> has joined the channel"
+    "text": "<@UJUGB1XGD> has joined the channel",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "8d719134-983a-49ef-991c-21ba37a56488",
@@ -274,7 +288,8 @@
         "id": 1,
         "original_url": "https://www.icloud.com/iclouddrive/0N7NPJsIpuq1GeKL1zVF7DsuA#zoom%5F0"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "277a6c78-f668-4149-b1a9-1bf7eac2c0b2",
@@ -295,7 +310,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "d9ff8517-834f-4de2-beac-af7e53c40e30",
@@ -333,7 +349,8 @@
         "id": 1,
         "original_url": "https://www.icloud.com/iclouddrive/0sumSf9eLOfOsO0onklxPlBPw#audio%5Fonly"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "f64dd988-00a1-4ae6-abc8-19e893277b6c",
@@ -354,7 +371,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "7397c555-76ca-491a-8cf9-ed92837d5664",
@@ -375,7 +393,8 @@
       "name": "d4hines",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "2a4b52dd-0ec2-4170-82ba-bb8d7ecca59a",
@@ -400,7 +419,8 @@
     "edited": {
       "user": "UJK8MKYAZ",
       "ts": "1560454193.000000"
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "c7475e26-03c4-4156-8fc2-9dc7eeda921f",
@@ -421,7 +441,8 @@
       "name": "d4hines",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "17cdf641-37c7-4b84-8aee-6b7ebdca66e2",
@@ -442,14 +463,16 @@
       "name": "d4hines",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1560455264.017300",
     "user": "UFBQNBYER",
-    "text": "<@UFBQNBYER> has joined the channel"
+    "text": "<@UFBQNBYER> has joined the channel",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "4dc1a122-0572-4067-9f84-c07d4450ae58",
@@ -470,42 +493,48 @@
       "name": "d4hines",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1560460293.018400",
     "user": "UJNJQD2AC",
-    "text": "<@UJNJQD2AC> has joined the channel"
+    "text": "<@UJNJQD2AC> has joined the channel",
+    "channel": "category-theory"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1560461189.018600",
     "user": "UAJ9DV971",
-    "text": "<@UAJ9DV971> has joined the channel"
+    "text": "<@UAJ9DV971> has joined the channel",
+    "channel": "category-theory"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1560461389.018800",
     "user": "UE6EFEPTQ",
-    "text": "<@UE6EFEPTQ> has joined the channel"
+    "text": "<@UE6EFEPTQ> has joined the channel",
+    "channel": "category-theory"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1560463329.019000",
     "user": "UKEH0U5FH",
-    "text": "<@UKEH0U5FH> has joined the channel"
+    "text": "<@UKEH0U5FH> has joined the channel",
+    "channel": "category-theory"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1560463764.019200",
     "user": "UHWC9PXBL",
-    "text": "<@UHWC9PXBL> has joined the channel"
+    "text": "<@UHWC9PXBL> has joined the channel",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "B25A5E68-193D-45AC-9B85-5861639A33F5",
@@ -526,7 +555,8 @@
       "name": "garth",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "F07E3518-D1A9-46E0-A5FB-5F66D85E53AA",
@@ -547,7 +577,8 @@
       "name": "garth",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "C3975428-08DE-4A0C-979F-69A067280279",
@@ -568,14 +599,16 @@
       "name": "garth",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1560468039.023300",
     "user": "UJN1TAYEQ",
-    "text": "<@UJN1TAYEQ> has joined the channel"
+    "text": "<@UJN1TAYEQ> has joined the channel",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "7505b1b4-c5ca-4a8a-9eb5-4ea9f1d45a10",
@@ -614,7 +647,8 @@
         "ts": "1560515145.049000"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "c6975830-25f5-4709-8b18-245d5a2fee75",
@@ -654,21 +688,24 @@
         "id": 1,
         "original_url": "https://bartoszmilewski.com/2014/12/23/kleisli-categories/"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1560493192.032800",
     "user": "U85HCL7JP",
-    "text": "<@U85HCL7JP> has joined the channel"
+    "text": "<@U85HCL7JP> has joined the channel",
+    "channel": "category-theory"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1560494672.033200",
     "user": "UAL7940NM",
-    "text": "<@UAL7940NM> has joined the channel"
+    "text": "<@UAL7940NM> has joined the channel",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "6aade99c-c7f0-4f09-8aff-843f46286127",
@@ -760,7 +797,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1560742085.123600"
+    "last_read": "1560742085.123600",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "e250d389-c292-47ca-86b4-af02b5d34752",
@@ -787,7 +825,8 @@
       "ts": "1560509013.000000"
     },
     "thread_ts": "1560508763.047300",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "category-theory"
   },
   {
     "type": "message",
@@ -795,7 +834,8 @@
     "ts": "1560509009.047800",
     "user": "UJFN50C00",
     "text": "<@UJFN50C00> has joined the channel",
-    "inviter": "U5TCAFTD3"
+    "inviter": "U5TCAFTD3",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "f50b0231-07b6-4e0f-b5b1-e0c3848e4c0f",
@@ -818,7 +858,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1560508763.047300",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "348b2a55-139a-4b58-a9e7-45054924b593",
@@ -845,7 +886,8 @@
       "ts": "1560509347.000000"
     },
     "thread_ts": "1560508763.047300",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "5914c9c4-e457-4c7e-9837-9976c7b2b8fb",
@@ -872,7 +914,8 @@
       "ts": "1560514340.000000"
     },
     "thread_ts": "1560477730.031600",
-    "parent_user_id": "UA14TGLTC"
+    "parent_user_id": "UA14TGLTC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "32584786-d6b8-4bad-b087-aa6f89b37a12",
@@ -895,7 +938,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1560477730.031600",
-    "parent_user_id": "UA14TGLTC"
+    "parent_user_id": "UA14TGLTC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "d41dfc7c-5d5e-40db-8fed-f1fe60a17fd8",
@@ -932,7 +976,8 @@
         ],
         "count": 4
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "78c97e4f-7727-4be7-92eb-32201b9b40b2",
@@ -953,14 +998,16 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1560524779.066500",
     "user": "UF5PAGQQ4",
-    "text": "<@UF5PAGQQ4> has joined the channel"
+    "text": "<@UF5PAGQQ4> has joined the channel",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "dbe15381-c689-4dd5-acc1-7f99f62f2536",
@@ -1002,7 +1049,8 @@
         "id": 1,
         "original_url": "https://purelyfunctional.tv/courses/category-theory/"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "B439FBE9-EF66-449F-83F6-247822021D36",
@@ -1032,7 +1080,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "c41cd525-8937-44f0-9171-cf418b4268a8",
@@ -1053,7 +1102,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "A8962CA3-E468-400C-AC20-08A446009D0B",
@@ -1076,7 +1126,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1560508763.047300",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "E20DA29A-1523-416B-95EC-A4D3A93AD55F",
@@ -1099,7 +1150,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1560508763.047300",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "6DFBEBFB-B3A9-4611-A343-B4C27B05F242",
@@ -1122,14 +1174,16 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1560508763.047300",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "category-theory"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1560538295.092700",
     "user": "UEDJ8KK3R",
-    "text": "<@UEDJ8KK3R> has joined the channel"
+    "text": "<@UEDJ8KK3R> has joined the channel",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "5d063cde-00a1-482b-84f5-031048f9210f",
@@ -1152,14 +1206,16 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1560508763.047300",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "category-theory"
   },
   {
     "type": "message",
     "subtype": "channel_join",
     "ts": "1560543196.093100",
     "user": "UJPHQ8Z3N",
-    "text": "<@UJPHQ8Z3N> has joined the channel"
+    "text": "<@UJPHQ8Z3N> has joined the channel",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "27ed4f11-755b-4b73-8e3d-6942b4b6e0df",
@@ -1182,7 +1238,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1560508763.047300",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "269d871d-332d-4cd7-8e59-2e95cad410dc",
@@ -1205,7 +1262,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1560508763.047300",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "0D7AF102-4605-4274-8122-9A21E66B3ACE",
@@ -1228,7 +1286,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1560508763.047300",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "A71D01F5-6507-47C9-B998-479079263428",
@@ -1269,7 +1328,8 @@
       }
     ],
     "thread_ts": "1560508763.047300",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "41279a57-c369-43ce-bedb-41b764009281",
@@ -1292,7 +1352,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1560508763.047300",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "8c155104-bc1c-487c-9231-95dcb9141a2d",
@@ -1319,7 +1380,8 @@
       "ts": "1560774383.000000"
     },
     "thread_ts": "1560508763.047300",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "a23c8d6c-bb0e-4b6b-bed1-178d8301f595",
@@ -1342,7 +1404,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1560508763.047300",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "8fe84bf4-7e16-471a-b857-9708ed46f45d",
@@ -1377,7 +1440,8 @@
         "id": 1,
         "original_url": "https://en.wikipedia.org/wiki/String_diagram"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "8d08b722-d7b3-4980-9ed0-f1969c334cda",
@@ -1407,7 +1471,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "dd6fc314-6151-4fbd-ad42-d8c2c651df02",
@@ -1437,7 +1502,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "013de8fe-9cea-42a5-97c1-ab169ef383af",
@@ -1505,7 +1571,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "db405e24-ba86-40fb-b677-117b536defe2",
@@ -1555,7 +1622,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "type": "message",
@@ -1582,7 +1650,8 @@
         ],
         "count": 11
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "39c83c1e-42af-4cdb-8fbd-8fdb9fba9af6",
@@ -1624,7 +1693,8 @@
         "id": 1,
         "original_url": "https://youtu.be/p54Hd7AmVFU?t=2520"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "6cab6ed4-fa2d-41b1-8bb0-276a73540d22",
@@ -1668,7 +1738,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "3403c96b-6f43-496b-9dfb-583860b11897",
@@ -1698,7 +1769,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "99cbac73-fd65-4771-8a69-98a5dde4b169",
@@ -1721,7 +1793,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1560971610.167200",
-    "parent_user_id": "UF2GNRUTV"
+    "parent_user_id": "UF2GNRUTV",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "5b9d12ee-b99f-43fa-af4f-8a79d2418c41",
@@ -1742,7 +1815,8 @@
       "name": "cedric.cogell",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "10705b2e-ba8c-48b8-adfd-d51e201b774c",
@@ -1796,7 +1870,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "d9f7065b-4cbe-4e62-99af-1110bf738f59",
@@ -1859,7 +1934,8 @@
         "ts": "1561040900.202000"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "686d831c-1256-4c2e-9390-7f069cf3085c",
@@ -1894,7 +1970,8 @@
         "ts": "1561033848.197800"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "b954663e-ec02-4b34-9d05-5e2cf20ccbae",
@@ -1917,7 +1994,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561031474.197700",
-    "parent_user_id": "UAL7940NM"
+    "parent_user_id": "UAL7940NM",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "a845d048-0168-4f59-8957-c944f8a59e6a",
@@ -1969,7 +2047,8 @@
         "ts": "1561049962.204400"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "1ebe56e3-ef50-4f46-9132-8379b7724737",
@@ -1992,7 +2071,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1560999412.196000",
-    "parent_user_id": "UA14TGLTC"
+    "parent_user_id": "UA14TGLTC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "aab8da42-6cba-41e0-b1ee-93f22c30f413",
@@ -2015,7 +2095,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561034216.201700",
-    "parent_user_id": "UA14TGLTC"
+    "parent_user_id": "UA14TGLTC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "67d56e5b-752a-4e0c-a1fd-2a94f9de943b",
@@ -2038,7 +2119,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561034216.201700",
-    "parent_user_id": "UA14TGLTC"
+    "parent_user_id": "UA14TGLTC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "1100d2b1-e5be-4e8b-aa64-f4c9154ddc30",
@@ -2065,7 +2147,8 @@
       "ts": "1561041191.000000"
     },
     "thread_ts": "1561034216.201700",
-    "parent_user_id": "UA14TGLTC"
+    "parent_user_id": "UA14TGLTC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "54CAB766-664D-4D8E-ADDB-BD5B28EFC3B6",
@@ -2086,7 +2169,8 @@
       "name": "garth",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "28330c49-84bb-4ee5-b782-f5eb48fc0aa8",
@@ -2109,7 +2193,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1560998974.193700",
-    "parent_user_id": "UA14TGLTC"
+    "parent_user_id": "UA14TGLTC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "c228ff87-cacb-4338-a380-5b73001698d3",
@@ -2132,7 +2217,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561034216.201700",
-    "parent_user_id": "UA14TGLTC"
+    "parent_user_id": "UA14TGLTC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "ad5c19ae-e1e4-4386-9601-010cd953e49c",
@@ -2170,7 +2256,8 @@
         "id": 1,
         "original_url": "https://zoom.us/j/200711297"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "f091f953-0189-4bb8-8f98-c9ba556b8096",
@@ -2191,7 +2278,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "8C426021-2D04-4D35-BFD7-CF8462F6DDA1",
@@ -2212,7 +2300,8 @@
       "name": "garth",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "688e510e-c878-45d1-94b2-efa59c4f42a9",
@@ -2250,7 +2339,8 @@
         "id": 1,
         "original_url": "https://zoom.us/j/767874244"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "6DDC39E9-80CD-4784-97BA-903FB6D0AF26",
@@ -2271,7 +2361,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "50255038-F1D3-40D6-829F-04927056793D",
@@ -2292,7 +2383,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "25703608-1F3F-4F3A-83B4-C07ACA88AEFA",
@@ -2313,7 +2405,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "9574d78b-de72-4269-a1ee-e18a736a07b7",
@@ -2334,7 +2427,8 @@
       "name": "cedric.cogell",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "13657b88-1ece-4d45-b21b-4cba44179613",
@@ -2355,7 +2449,8 @@
       "name": "cedric.cogell",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "78982fc7-49fb-4d9a-bcf1-1cb76dcedca4",
@@ -2471,7 +2566,8 @@
       }
     ],
     "subscribed": true,
-    "last_read": "1561335322.270200"
+    "last_read": "1561335322.270200",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "584cc486-f341-43e5-82cb-514e2e04ff7e",
@@ -2492,7 +2588,8 @@
       "name": "d4hines",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "9ed2294f-b355-4d3e-98fb-02f309dd74c3",
@@ -2513,7 +2610,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "df6ab8e5-6c16-455d-b2ce-c84b7ebc75b1",
@@ -2552,7 +2650,8 @@
         "ts": "1561054988.228000"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "BBC71E4B-1823-4F77-9840-58928E36D9C8",
@@ -2582,7 +2681,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "a8c64493-cd9e-4784-83e1-f24a1c05a298",
@@ -2612,7 +2712,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "15B3FD1D-0E6C-42AA-BBB7-83D3DC21657D",
@@ -2633,7 +2734,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "051b0d6f-0c0a-420b-8a7d-9f1368d5c631",
@@ -2656,7 +2758,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561053938.216700",
-    "parent_user_id": "UKQT95T1V"
+    "parent_user_id": "UKQT95T1V",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "51fdcfac-2c37-4f52-b6f8-6ab48ced5476",
@@ -2679,7 +2782,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561053938.216700",
-    "parent_user_id": "UKQT95T1V"
+    "parent_user_id": "UKQT95T1V",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "3733AF94-4A48-4F44-8CA7-32C816DC4602",
@@ -2700,7 +2804,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "e60bf70d-85ea-4457-b05e-ea9812843c53",
@@ -2723,7 +2828,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561054870.223900",
-    "parent_user_id": "UHWC9PXBL"
+    "parent_user_id": "UHWC9PXBL",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "649fa38f-e994-4140-90e9-b5b4e1d77306",
@@ -2760,7 +2866,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "4E0927E5-300C-47E4-BE5D-550D70344371",
@@ -2790,7 +2897,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "fe1bc9cd-f9f8-48eb-af7e-6085cc9befd4",
@@ -2872,7 +2980,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "8B385C86-EBB2-48B3-8090-AA9A36A13749",
@@ -2902,7 +3011,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "a3516104-4c20-44ed-9ade-95590a516bff",
@@ -2933,7 +3043,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "fec4c44c-ea09-4232-8e52-ba0c546a299d",
@@ -2956,7 +3067,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561053938.216700",
-    "parent_user_id": "UKQT95T1V"
+    "parent_user_id": "UKQT95T1V",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "e7991174-522b-459d-8dee-33df50d790b2",
@@ -2988,7 +3100,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "e9f859a5-eb5b-4638-8816-4f64b10afa7d",
@@ -3015,7 +3128,8 @@
       "ts": "1561055733.000000"
     },
     "thread_ts": "1561055088.232400",
-    "parent_user_id": "U5TCAFTD3"
+    "parent_user_id": "U5TCAFTD3",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "a71dfa68-c425-48c3-b4e6-4499ed160258",
@@ -3042,7 +3156,8 @@
       "ts": "1561055864.000000"
     },
     "thread_ts": "1561053938.216700",
-    "parent_user_id": "UKQT95T1V"
+    "parent_user_id": "UKQT95T1V",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "0395538a-2bd7-4d4d-be7c-db006dbeab58",
@@ -3079,7 +3194,8 @@
         "id": 1,
         "original_url": "https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "77c6748b-8792-4bc0-8b36-b5eb16b6c568",
@@ -3102,7 +3218,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561053938.216700",
-    "parent_user_id": "UKQT95T1V"
+    "parent_user_id": "UKQT95T1V",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "295c9c9f-2fec-42f6-9e0f-1e81fab65896",
@@ -3140,7 +3257,8 @@
         "id": 1,
         "original_url": "https://doodle.com/poll/heyfenq5kpr8fmh3"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "18f63173-65b8-4bec-966e-d2363accd781",
@@ -3163,7 +3281,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561053938.216700",
-    "parent_user_id": "UKQT95T1V"
+    "parent_user_id": "UKQT95T1V",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "d1213fe2-f4a3-47af-bcd9-4273d4b0c32e",
@@ -3186,7 +3305,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561053938.216700",
-    "parent_user_id": "UKQT95T1V"
+    "parent_user_id": "UKQT95T1V",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "27f573a1-603d-4b5a-98fe-75363f473fc9",
@@ -3209,7 +3329,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561053938.216700",
-    "parent_user_id": "UKQT95T1V"
+    "parent_user_id": "UKQT95T1V",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "eef1c5d3-758c-45e2-b654-1da074c171ba",
@@ -3232,7 +3353,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561053938.216700",
-    "parent_user_id": "UKQT95T1V"
+    "parent_user_id": "UKQT95T1V",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "e16d5c85-ce9b-491a-acfb-a74d262ea6e6",
@@ -3255,7 +3377,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561053938.216700",
-    "parent_user_id": "UKQT95T1V"
+    "parent_user_id": "UKQT95T1V",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "74c4975e-46fc-49bd-aac2-32fb6fb59887",
@@ -3278,7 +3401,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561053938.216700",
-    "parent_user_id": "UKQT95T1V"
+    "parent_user_id": "UKQT95T1V",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "8481c757-afe3-448d-a0d4-f5cb4907ee93",
@@ -3301,7 +3425,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561053938.216700",
-    "parent_user_id": "UKQT95T1V"
+    "parent_user_id": "UKQT95T1V",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "38733ab3-59e5-42a4-a138-b5cae50f95cf",
@@ -3324,7 +3449,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561053938.216700",
-    "parent_user_id": "UKQT95T1V"
+    "parent_user_id": "UKQT95T1V",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "18b81461-fa93-4976-b9c2-98a5e06de326",
@@ -3351,7 +3477,8 @@
       "ts": "1561058533.000000"
     },
     "thread_ts": "1561053938.216700",
-    "parent_user_id": "UKQT95T1V"
+    "parent_user_id": "UKQT95T1V",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "44eb5cbd-e60e-4373-900c-3fa7bebd151e",
@@ -3374,7 +3501,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561053938.216700",
-    "parent_user_id": "UKQT95T1V"
+    "parent_user_id": "UKQT95T1V",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "b2258a99-9121-429c-afe8-37378c442587",
@@ -3397,7 +3525,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561053938.216700",
-    "parent_user_id": "UKQT95T1V"
+    "parent_user_id": "UKQT95T1V",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "c47fabca-c535-44e0-bf61-08f4f27febb0",
@@ -3418,7 +3547,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "3aacf543-7638-477d-8609-5da4e35eee9d",
@@ -3443,7 +3573,8 @@
     "edited": {
       "user": "UKQT95T1V",
       "ts": "1561092557.000000"
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "6fbdcb43-5dfe-487b-b757-419bf2e087a2",
@@ -3464,7 +3595,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "5fab088e-1f1f-4668-aced-62423e69284f",
@@ -3485,7 +3617,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "type": "message",
@@ -3562,7 +3695,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "0e7eb0f5-82fb-4085-a0d1-b10a66af35e6",
@@ -3583,7 +3717,8 @@
       "name": "bartosz",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "cd5bd256-90c9-4b78-a63f-64f478ca06b2",
@@ -3604,7 +3739,8 @@
       "name": "bartosz",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "7f12b3d2-5ca6-43ac-bb8b-b6c139eed269",
@@ -3640,7 +3776,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "cc11b5f8-f2d1-4057-af01-8a1136dcd0bc",
@@ -3663,7 +3800,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561053938.216700",
-    "parent_user_id": "UKQT95T1V"
+    "parent_user_id": "UKQT95T1V",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "ab6ef712-7b30-497f-9959-568088b7732b",
@@ -3686,7 +3824,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561053938.216700",
-    "parent_user_id": "UKQT95T1V"
+    "parent_user_id": "UKQT95T1V",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "1014dda9-a385-4c0a-8945-877e137722a5",
@@ -3718,7 +3857,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "abb67f5c-bc53-4e3e-8541-47e21d0dc67e",
@@ -3758,7 +3898,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "667CD4D0-F6D6-4F56-8C04-326406CF95FA",
@@ -3779,7 +3920,8 @@
       "name": "garth",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "f4b84b65-7865-4c0b-bd2b-ad44753a0728",
@@ -3800,7 +3942,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "type": "message",
@@ -3849,7 +3992,8 @@
     "user": "UJNJQD2AC",
     "display_as_bot": false,
     "ts": "1561653298.276800",
-    "client_msg_id": "7bbdddc5-8ac0-4cae-a259-5822b3282878"
+    "client_msg_id": "7bbdddc5-8ac0-4cae-a259-5822b3282878",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "c36c3a78-cded-4daf-945d-4f7192f54503",
@@ -3870,7 +4014,8 @@
       "name": "cedric.cogell",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "c67cf592-6799-4ea0-a0c9-5ce3f4128fcb",
@@ -3895,7 +4040,8 @@
     "edited": {
       "user": "U5TCAFTD3",
       "ts": "1561653498.000000"
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "7359ddff-0ff3-42dc-9e84-d4c89a9bfc88",
@@ -3916,7 +4062,8 @@
       "name": "stevekrouse",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "04ed1052-2b5e-48cd-8aa6-6a69c8197819",
@@ -3937,7 +4084,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "type": "message",
@@ -4019,7 +4167,8 @@
         "ts": "1561654907.281500"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "a79eee5b-7b3c-41a3-b1a6-1a71dd95f3b8",
@@ -4042,7 +4191,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561654384.280700",
-    "parent_user_id": "UJNJQD2AC"
+    "parent_user_id": "UJNJQD2AC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "cef91fa2-c9c1-4fed-8996-de0f76b03ee9",
@@ -4065,7 +4215,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561654384.280700",
-    "parent_user_id": "UJNJQD2AC"
+    "parent_user_id": "UJNJQD2AC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "081be3cd-1c9f-4e51-9018-c968e02252e3",
@@ -4088,7 +4239,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561654384.280700",
-    "parent_user_id": "UJNJQD2AC"
+    "parent_user_id": "UJNJQD2AC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "372fdf88-03cb-4635-897c-5e11775940d0",
@@ -4109,7 +4261,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "3a13c19e-ab35-479c-9728-6ea0c6a8945a",
@@ -4130,7 +4283,8 @@
       "name": "d4hines",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "9539ef04-a88b-4cce-9c07-e44edbb4663c",
@@ -4151,7 +4305,8 @@
       "name": "coderv63",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "type": "message",
@@ -4210,7 +4365,8 @@
       "user": "UJNJQD2AC",
       "ts": "1561656658.000000"
     },
-    "client_msg_id": "38dcc6dd-9f93-40d2-a144-dbc9df4f4dde"
+    "client_msg_id": "38dcc6dd-9f93-40d2-a144-dbc9df4f4dde",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "14bfda41-4afe-4d0a-a49f-93faec73d4a9",
@@ -4231,7 +4387,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "type": "message",
@@ -4277,7 +4434,8 @@
     "user": "UA14TGLTC",
     "display_as_bot": false,
     "ts": "1561657116.284500",
-    "client_msg_id": "cd9c54be-8542-4760-b667-3299179d534b"
+    "client_msg_id": "cd9c54be-8542-4760-b667-3299179d534b",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "97c0bf51-d04c-4e2b-ac56-a446398fb9b6",
@@ -4298,7 +4456,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "9ddc94e0-3524-43a3-89f0-cbdfdb8d5679",
@@ -4319,7 +4478,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "42b2f654-c6ea-458a-8942-9a3e5762cc5e",
@@ -4340,7 +4500,8 @@
       "name": "d4hines",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "d06bd80b-4424-4b27-b106-cbcdbf4cb0ff",
@@ -4361,7 +4522,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "4c7413b1-5065-4420-a2e9-eefa424fd592",
@@ -4382,7 +4544,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "f35a3e8a-27f7-45fd-8cb1-159a1ea986d9",
@@ -4403,7 +4566,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "eb18618a-54d6-4fd8-9d78-fe3fa4cb30ad",
@@ -4428,7 +4592,8 @@
     "edited": {
       "user": "UA14TGLTC",
       "ts": "1561659134.000000"
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "cdd60a3e-f5c9-4120-a53f-b50c74c0a2e4",
@@ -4449,7 +4614,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "d6e13d40-b326-42cc-b0b5-1bccb90567f5",
@@ -4470,7 +4636,8 @@
       "name": "alan135",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "e278cd2b-9c87-4948-98f7-74ffd9fab127",
@@ -4491,7 +4658,8 @@
       "name": "alan135",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "3d0d1a90-67b7-4472-8f91-2b760cd91e1d",
@@ -4521,7 +4689,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "2cd2a8cc-30c5-4bdc-b009-e8080447e16c",
@@ -4551,7 +4720,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "9353ee69-31bb-46d1-b0fb-632e8878186b",
@@ -4572,7 +4742,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "36b51b3d-a843-4321-8738-669bfd29ad09",
@@ -4593,7 +4764,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "52b991ea-a1cf-4c2d-a458-dda51b1120ca",
@@ -4631,7 +4803,8 @@
         "id": 1,
         "original_url": "https://doodle.com/poll/kv6pp9nhk5fctesk"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "a18ef83e-d9c5-4a0a-92b5-da96b1b9b8a8",
@@ -4652,7 +4825,8 @@
       "name": "alan135",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "f7fe1a36-fcf8-4604-8808-a0faf5a734ce",
@@ -4673,7 +4847,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "da5ca21b-1db3-4362-aea5-0f9e0d38f462",
@@ -4694,7 +4869,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "0ee43cc5-46f1-40d5-b4a1-dced97af2cee",
@@ -4715,7 +4891,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "type": "message",
@@ -4776,7 +4953,8 @@
     "user": "UA14TGLTC",
     "display_as_bot": false,
     "ts": "1561660236.301400",
-    "client_msg_id": "fd544b91-9ee7-489c-8203-132ab650dddf"
+    "client_msg_id": "fd544b91-9ee7-489c-8203-132ab650dddf",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "fc4fb298-2d56-4fa3-a5cc-68d4eb4ecc98",
@@ -4797,7 +4975,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "type": "message",
@@ -4876,7 +5055,8 @@
         "ts": "1561664012.316900"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "9471f663-2cd4-4c3d-bc39-f12bbd8369eb",
@@ -4897,7 +5077,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "81ce6799-b1a9-484e-a53b-10bb1c20fa3a",
@@ -4918,7 +5099,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "d8f5ae58-fe14-47f5-b4d2-e3848b31e4a6",
@@ -4939,7 +5121,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "d00651b0-3939-45a9-8586-2b032111dfd7",
@@ -4960,7 +5143,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "df4b6407-a866-41e4-b796-332c394f707d",
@@ -4981,7 +5165,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "7d3ae771-dea2-4953-9fdf-46878cd618e2",
@@ -5006,7 +5191,8 @@
     "edited": {
       "user": "UA14TGLTC",
       "ts": "1561661332.000000"
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "9e217d03-0999-49bd-bbe2-b174db4da93e",
@@ -5031,7 +5217,8 @@
     "edited": {
       "user": "UA14TGLTC",
       "ts": "1561661646.000000"
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "type": "message",
@@ -5095,7 +5282,8 @@
         "ts": "1561683607.320200"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "8ecf9b31-95b9-4e6a-976f-63536cb48d9a",
@@ -5118,7 +5306,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561660749.303900",
-    "parent_user_id": "UJNJQD2AC"
+    "parent_user_id": "UJNJQD2AC",
+    "channel": "category-theory"
   },
   {
     "type": "message",
@@ -5164,7 +5353,8 @@
     "user": "UKQT95T1V",
     "display_as_bot": false,
     "ts": "1561664028.317100",
-    "client_msg_id": "a3c92a7f-eefb-4b42-a518-3343499f8048"
+    "client_msg_id": "a3c92a7f-eefb-4b42-a518-3343499f8048",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "4e69bb18-c087-41f4-8569-4f060dc9b6ac",
@@ -5185,7 +5375,8 @@
       "name": "alan135",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "5e940c85-a094-4509-a91c-d28a3925871a",
@@ -5206,7 +5397,8 @@
       "name": "alan135",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "9fccc2af-0dc9-4e62-bc70-491c83af133e",
@@ -5227,7 +5419,8 @@
       "name": "alan135",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "5f374d20-36db-4220-8464-fa36af5f77ba",
@@ -5250,7 +5443,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1561662112.314900",
-    "parent_user_id": "UJNJQD2AC"
+    "parent_user_id": "UJNJQD2AC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "a58371a4-c48d-4529-ac14-d20eeafcfc0e",
@@ -5271,7 +5465,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "def9a35f-38f9-4341-899f-726db1741e32",
@@ -5309,7 +5504,8 @@
         "id": 1,
         "original_url": "https://www.icloud.com/iclouddrive/0-duKLNNhtv3kqXcsPMpbLqSQ#meeting2-1"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "8f927abd-617c-43e8-bb54-d4a02e13ccda",
@@ -5347,7 +5543,8 @@
         "id": 1,
         "original_url": "https://www.icloud.com/iclouddrive/0l6HmzVJlRHhEZSWzCD95vysA#meeting3-1"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "e8aa5b73-a8e7-48cd-a87e-d1c1ba91f460",
@@ -5394,7 +5591,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "83803ffd-fcfb-4aed-84b0-5aecc0d8faef",
@@ -5439,7 +5637,8 @@
         "ts": "1562081480.327600"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "4c5df6a6-a304-41e7-b43e-2c88b9ccc4d6",
@@ -5462,7 +5661,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562080479.327000",
-    "parent_user_id": "UJK8MKYAZ"
+    "parent_user_id": "UJK8MKYAZ",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "59e04b51-5af0-4a16-9cb9-fe726541b917",
@@ -5485,7 +5685,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562080479.327000",
-    "parent_user_id": "UJK8MKYAZ"
+    "parent_user_id": "UJK8MKYAZ",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "9dc18af1-7f76-44ec-8ffb-ff0f9850027c",
@@ -5512,7 +5713,8 @@
       "ts": "1562081499.000000"
     },
     "thread_ts": "1562080479.327000",
-    "parent_user_id": "UJK8MKYAZ"
+    "parent_user_id": "UJK8MKYAZ",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "85084f72-cb49-4873-ac08-a84b54e9b799",
@@ -5547,7 +5749,8 @@
         "ts": "1562154154.330300"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "4D892431-7B56-48FD-9B46-8F70ADC08417",
@@ -5570,7 +5773,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562153207.328600",
-    "parent_user_id": "UJK8MKYAZ"
+    "parent_user_id": "UJK8MKYAZ",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "7AFBDF01-2944-4F94-89B2-7568ADB1EB40",
@@ -5612,7 +5816,8 @@
         "id": 1,
         "original_url": "https://youtu.be/BLk4DlNZkL8"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "0b47ab81-b6d0-4a97-b79c-eb55dfedef1c",
@@ -5661,7 +5866,8 @@
         "ts": "1562617037.343000"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "14706e8f-5ed3-443a-b412-47682a25f4f2",
@@ -5684,7 +5890,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562304118.334400",
-    "parent_user_id": "UFS53UWE5"
+    "parent_user_id": "UFS53UWE5",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "3313D515-28B8-49C7-A783-0AA81D54437C",
@@ -5707,7 +5914,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562304118.334400",
-    "parent_user_id": "UFS53UWE5"
+    "parent_user_id": "UFS53UWE5",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "78CFBA47-183E-4C12-B2EA-BADE563DCB04",
@@ -5730,7 +5938,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562304118.334400",
-    "parent_user_id": "UFS53UWE5"
+    "parent_user_id": "UFS53UWE5",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "0fe1ce08-a879-4fe0-8708-6f1dbd52c668",
@@ -5782,7 +5991,8 @@
         "ts": "1562606999.339800"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "902ca418-61f5-471d-90c6-20b6b0b1dff3",
@@ -5805,7 +6015,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562606806.339600",
-    "parent_user_id": "U5STGTB3J"
+    "parent_user_id": "U5STGTB3J",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "cc151175-15bd-453d-88ae-93cba3993ecd",
@@ -5826,7 +6037,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "29f2e891-67ae-435b-8800-47ed3788b3ef",
@@ -5856,7 +6068,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "cb0c87f9-0aa0-4bf7-a0f5-c6f120109bbd",
@@ -5877,7 +6090,8 @@
       "name": "d4hines",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "02142b13-1a4e-49c0-88ed-9daca3df554e",
@@ -5900,7 +6114,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562304118.334400",
-    "parent_user_id": "UFS53UWE5"
+    "parent_user_id": "UFS53UWE5",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "773ee9c7-d442-466e-96f5-f5c9c7fc83d8",
@@ -5953,7 +6168,8 @@
         "ts": "1562834009.346900"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "ca15757d-8ec6-4801-a078-f2db2ce60367",
@@ -5976,7 +6192,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562814058.346000",
-    "parent_user_id": "UJNJQD2AC"
+    "parent_user_id": "UJNJQD2AC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "024defb5-bdd1-4fac-a428-46039739cc78",
@@ -5999,7 +6216,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562814058.346000",
-    "parent_user_id": "UJNJQD2AC"
+    "parent_user_id": "UJNJQD2AC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "308f471e-caca-4483-9e0f-a21475b3ec9e",
@@ -6022,7 +6240,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562814058.346000",
-    "parent_user_id": "UJNJQD2AC"
+    "parent_user_id": "UJNJQD2AC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "a4fd9a0e-6e22-4485-a382-b0cc1a82a582",
@@ -6045,7 +6264,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562814058.346000",
-    "parent_user_id": "UJNJQD2AC"
+    "parent_user_id": "UJNJQD2AC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "c173b376-a75c-4f3d-ad24-d150a8867d99",
@@ -6066,7 +6286,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "5394e06e-a8e7-436a-b1e8-7f1dd000a671",
@@ -6111,7 +6332,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "b55216ea-d71e-4af2-b349-3c559109c730",
@@ -6134,7 +6356,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562859857.349100",
-    "parent_user_id": "UJNJQD2AC"
+    "parent_user_id": "UJNJQD2AC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "b9436ad5-17c5-4350-b1a5-526de7dfd455",
@@ -6155,7 +6378,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "495d4604-bd92-4230-965c-a6434fc06f7d",
@@ -6176,7 +6400,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "ef643bd4-4d20-4d27-bc37-0068aef8def8",
@@ -6197,7 +6422,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "50581a41-8f9e-48ce-9a99-e1391ffdf193",
@@ -6218,7 +6444,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "1ebd7e6f-b934-44bc-8dfd-c0681d42975f",
@@ -6239,7 +6466,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "34e3ab45-9537-4746-9aa9-f56203873561",
@@ -6260,7 +6488,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "808b73c5-97b4-4446-9d28-6fba49c93bd0",
@@ -6281,7 +6510,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "7a17fba9-ad5a-4426-87d1-830be92f01ef",
@@ -6302,7 +6532,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "56820edb-f8fd-4912-a222-f4695138521f",
@@ -6323,7 +6554,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "99f9698d-5ae1-4504-90b7-1da7e0b62a16",
@@ -6344,7 +6576,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "93601051-4763-4b01-955a-5751700db2b9",
@@ -6396,7 +6629,8 @@
         "ts": "1563285473.361600"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "6d63b6c8-8dec-4e84-ace7-ae1f23095339",
@@ -6417,7 +6651,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "AD93F669-13C7-4033-A5C0-FB752A10D0A2",
@@ -6440,7 +6675,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562869091.356600",
-    "parent_user_id": "UJNJQD2AC"
+    "parent_user_id": "UJNJQD2AC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "0163bcf5-514c-4b71-a04f-150bc8541204",
@@ -6463,7 +6699,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562869091.356600",
-    "parent_user_id": "UJNJQD2AC"
+    "parent_user_id": "UJNJQD2AC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "09a5015b-4392-4c7e-adcb-27273ac39699",
@@ -6484,7 +6721,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "a385a045-8780-4a0d-9ae5-ac294923d554",
@@ -6505,7 +6743,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "type": "message",
@@ -6544,7 +6783,8 @@
     "ts": "1563231921.360400",
     "client_msg_id": "654d79b8-0ced-4d33-a79f-65f8fd8a96bc",
     "thread_ts": "1562869091.356600",
-    "parent_user_id": "UJNJQD2AC"
+    "parent_user_id": "UJNJQD2AC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "8169a7d3-9d99-4fbe-8aab-1357856a4a3e",
@@ -6567,7 +6807,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562869091.356600",
-    "parent_user_id": "UJNJQD2AC"
+    "parent_user_id": "UJNJQD2AC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "CC8CCAA3-1383-4196-AF59-0BF6135F84EA",
@@ -6590,7 +6831,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1562869091.356600",
-    "parent_user_id": "UJNJQD2AC"
+    "parent_user_id": "UJNJQD2AC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "B61DC036-1A0E-42E9-AADC-11DC211E51DF",
@@ -6611,7 +6853,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "aefc7c80-2ff5-49c6-af0c-aef915f0d258",
@@ -6632,7 +6875,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "c16b7d3e-9ea3-41b9-8f8e-b10d9a34bb1e",
@@ -6653,7 +6897,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "003d3a63-d89b-4a78-807b-b862042e4027",
@@ -6674,7 +6919,8 @@
       "name": "coderv63",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "243d610d-3752-4902-a224-162abe6d733c",
@@ -6695,7 +6941,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "303666e6-d105-4e75-8a36-c2f164b2d90d",
@@ -6716,7 +6963,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "1aeda2b0-51ce-4a79-9ea4-ab6c70542281",
@@ -6737,7 +6985,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "e6f67262-5c83-4423-ad9b-ec4127952985",
@@ -6758,7 +7007,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "a15ec32b-c73a-4dfa-b29e-507f824600f7",
@@ -6779,7 +7029,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "e2b770c8-3f7d-4dde-85da-6ff04b1b7ed8",
@@ -6800,7 +7051,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "e79badc9-7d44-4ae8-8b61-7dda860b07e0",
@@ -6821,7 +7073,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "4b941d85-c23b-4dc3-9750-ab37018c11c7",
@@ -6842,7 +7095,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "8446602c-a997-4b9a-b13d-7de634b76a73",
@@ -6863,7 +7117,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "6ff08db4-e687-492f-852e-f506c578776d",
@@ -6915,7 +7170,8 @@
         "ts": "1563813853.002400"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "3a9f8140-13f8-4f20-8b15-e5fbf9b367ff",
@@ -6958,7 +7214,8 @@
       }
     ],
     "thread_ts": "1563718523.000400",
-    "parent_user_id": "UDKTZSD6H"
+    "parent_user_id": "UDKTZSD6H",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "f6867a11-1eed-43e3-8b85-95308f4dcd88",
@@ -6981,7 +7238,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1563718523.000400",
-    "parent_user_id": "UDKTZSD6H"
+    "parent_user_id": "UDKTZSD6H",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "9fd0a54b-45c2-4240-98e6-ded20fb923b0",
@@ -7004,7 +7262,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1563718523.000400",
-    "parent_user_id": "UDKTZSD6H"
+    "parent_user_id": "UDKTZSD6H",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "8ad74388-5677-4181-99ee-2a7e57716baa",
@@ -7052,7 +7311,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "0d900a93-d511-4988-8efd-a478097248d1",
@@ -7090,7 +7350,8 @@
         "id": 1,
         "original_url": "https://doodle.com/poll/s3c4e83mpa2wdkdi"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "bdbf5a9d-32c1-4ab7-85c1-b165eb9bd708",
@@ -7148,7 +7409,8 @@
         "ts": "1564073955.008500"
       }
     ],
-    "subscribed": false
+    "subscribed": false,
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "124000e9-d05a-4457-8908-57aef95d8648",
@@ -7169,7 +7431,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "e9b0ef7f-67cc-4da8-94cd-2cef7dbccafd",
@@ -7192,7 +7455,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1563998592.003800",
-    "parent_user_id": "U5STGTB3J"
+    "parent_user_id": "U5STGTB3J",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "882113de-bf81-4ba9-9e20-1749c105fbc5",
@@ -7215,7 +7479,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1563998592.003800",
-    "parent_user_id": "U5STGTB3J"
+    "parent_user_id": "U5STGTB3J",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "47D5AA97-C2E7-455C-B402-BDF268D4FEC0",
@@ -7238,7 +7503,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1563998592.003800",
-    "parent_user_id": "U5STGTB3J"
+    "parent_user_id": "U5STGTB3J",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "893d9d60-bd9c-4b01-b302-40f0b10de627",
@@ -7261,7 +7527,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1563998592.003800",
-    "parent_user_id": "U5STGTB3J"
+    "parent_user_id": "U5STGTB3J",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "7bfcd880-b93f-42ee-8370-0732ddd7697f",
@@ -7284,7 +7551,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1563998592.003800",
-    "parent_user_id": "U5STGTB3J"
+    "parent_user_id": "U5STGTB3J",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "7dd02a35-3399-4642-9cba-d96ceeed0089",
@@ -7305,7 +7573,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "efdfecef-3161-40f8-8a0c-3b3cd115cd7b",
@@ -7326,7 +7595,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "099000ea-dd94-4264-85d1-8e0a6ecfb381",
@@ -7347,7 +7617,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "85b6164d-41c0-46aa-ae7d-9a1485cecdd2",
@@ -7368,7 +7639,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "e6783d56-d882-44af-80f7-0e095ad18717",
@@ -7389,7 +7661,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "6da9cb7a-e8a9-46b3-bcb9-d79d5bef0b20",
@@ -7412,7 +7685,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1563998592.003800",
-    "parent_user_id": "U5STGTB3J"
+    "parent_user_id": "U5STGTB3J",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "c96a73eb-1383-44f1-b6f1-5567fcaadf4b",
@@ -7433,7 +7707,8 @@
       "name": "d4hines",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "79aa394d-be80-43af-ad1e-85c34b19824b",
@@ -7454,7 +7729,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "573cd0fe-d27d-465c-b683-3e972c4f6993",
@@ -7475,7 +7751,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "fb1799fb-bc58-48be-9134-f212da77df59",
@@ -7496,7 +7773,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "dae9c584-628c-48a7-b0dd-bd3d3b77b559",
@@ -7531,7 +7809,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "0a8e112e-e8f6-4011-9041-f83a3286a4ea",
@@ -7552,7 +7831,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "5c02f5cd-d10d-44da-8682-b1ccbb5e215f",
@@ -7573,7 +7853,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "6dbe2b41-1249-43d4-95ae-8afbbd3bfd37",
@@ -7594,7 +7875,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "33113ec3-9dae-4f07-a450-934a64273d7f",
@@ -7647,7 +7929,8 @@
         "id": 2,
         "original_url": "https://www.icloud.com/iclouddrive/02vOwgrN58jB1UMNh9Nl0Jhmw#meeting5-2"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "33724123-83d1-4fcd-b678-f4ea5b8390c2",
@@ -7668,7 +7951,8 @@
       "name": "alan135",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "fe129fd2-9b0e-4c0c-9fa7-0d9210d6ed86",
@@ -7689,7 +7973,8 @@
       "name": "cedric.cogell",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "dd7fd29e-36d4-492f-af1f-cbbbc57ddcfd",
@@ -7710,7 +7995,8 @@
       "name": "garth",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "B1E67F8A-9EED-4B1F-AD83-FBBC4674686C",
@@ -7765,7 +8051,8 @@
         ],
         "count": 3
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "1aaf513b-cdc0-4886-ac0b-5863ce85f738",
@@ -7786,7 +8073,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "type": "message",
@@ -7847,7 +8135,8 @@
     "user": "UA14TGLTC",
     "display_as_bot": false,
     "ts": "1564629856.031100",
-    "client_msg_id": "152dd5cf-7eb6-49b5-ad2a-f1cd3d9c8a6a"
+    "client_msg_id": "152dd5cf-7eb6-49b5-ad2a-f1cd3d9c8a6a",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "c1a0b7ea-61de-4278-bb1a-93a31edee204",
@@ -7868,7 +8157,8 @@
       "name": "d4hines",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "b1aa00a3-7d9f-4a65-b0fc-7083da6106cf",
@@ -7889,7 +8179,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "51CC739E-7320-48B5-9108-62E877541BA6",
@@ -7927,7 +8218,8 @@
         "id": 1,
         "original_url": "https://doodle.com/poll/de2nfk5qyffbemnm"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "E26A1045-E444-4C80-BD8D-617CA4C29B49",
@@ -7948,7 +8240,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "2A55EEA7-C1CE-4A1A-B8C9-2C030B00FD5A",
@@ -7990,7 +8283,8 @@
         "id": 1,
         "original_url": "https://youtu.be/PXI53f2CnVw"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "dc8bdf55-faea-4444-b44a-25c289a8eaa1",
@@ -8011,7 +8305,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "d0a83589-7b8f-49aa-9d62-1832883483f4",
@@ -8049,7 +8344,8 @@
         "id": 1,
         "original_url": "https://2018.programming-conference.org/track/bx-2018-papers"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "696ffd25-645b-491b-8ab6-49a59ff0334f",
@@ -8070,7 +8366,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "98908331-44f7-4d36-bc6e-42fec983ed76",
@@ -8091,7 +8388,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "c2885b24-5b20-484a-8f63-1c311787d799",
@@ -8131,7 +8429,8 @@
         "id": 1,
         "original_url": "https://blog.acolyer.org/2015/06/17/differential-dataflow/"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "3d65e533-2b01-4a47-8737-e500583a8b08",
@@ -8152,7 +8451,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "949af564-8612-40c8-95aa-7d837a23266e",
@@ -8173,7 +8473,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "539296c3-e7c2-481e-8f06-29db3b8fd620",
@@ -8194,7 +8495,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "f27003f0-0c62-4918-bf67-ad4a70067614",
@@ -8215,7 +8517,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "174d4aa2-8570-4b45-847d-29b478b60b0c",
@@ -8236,7 +8539,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "0631f28b-6e9b-4578-b4c5-b430b434e665",
@@ -8257,7 +8561,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "2db311fb-25a2-4410-8865-49b837db4ab6",
@@ -8310,7 +8615,8 @@
         "id": 2,
         "original_url": "https://www.icloud.com/iclouddrive/0cXa-aCTFGhL-1PzoAhNCbgQw#meeting6-2"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "3b93ab70-b296-4f59-8d3b-97df21c89967",
@@ -8331,7 +8637,8 @@
       "name": "prax08",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "92d933aa-9b2d-4aae-b5cd-d33662764f66",
@@ -8397,7 +8704,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "0EF8AEE5-8760-4BB3-9344-F7E874BDC8FB",
@@ -8420,7 +8728,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1564924555.045600",
-    "parent_user_id": "UA14TGLTC"
+    "parent_user_id": "UA14TGLTC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "08704d07-3fc8-45e6-8f00-0a71a6c3bc71",
@@ -8441,7 +8750,8 @@
       "name": "tony",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "d80bddc8-4422-40ce-b222-271a87f5553d",
@@ -8464,7 +8774,8 @@
       "is_ultra_restricted": false
     },
     "thread_ts": "1564924555.045600",
-    "parent_user_id": "UA14TGLTC"
+    "parent_user_id": "UA14TGLTC",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "f711f222-0721-428f-9c6a-606293dae3d7",
@@ -8485,7 +8796,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "8047a46b-d6f8-4bfb-a770-d9a34944f3df",
@@ -8506,7 +8818,8 @@
       "name": "tony",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "9e378105-66d9-4a93-b893-2472b1c4fa9b",
@@ -8527,7 +8840,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "EE26C3E8-AB97-41E1-A30A-439E6E0C4A12",
@@ -8548,7 +8862,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "41f525a5-6001-41a0-8194-de11b9f11c29",
@@ -8569,7 +8884,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "f98231cc-2b69-4262-a34c-6105a5ab36b1",
@@ -8607,7 +8923,8 @@
         "id": 1,
         "original_url": "https://doodle.com/poll/ihaqa7bq2v8q3fn5"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "9db4edd8-d946-4bd1-a5b1-b1d6a8bdd96f",
@@ -8628,7 +8945,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "19aa934b-334b-4eec-95e7-7c7d4bda5824",
@@ -8649,7 +8967,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "fb414035-b760-4d81-b236-c4126c104418",
@@ -8670,7 +8989,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "d368f2d2-7807-495b-a499-b3deefa276bd",
@@ -8691,7 +9011,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "75C51BAB-CF82-4236-A122-C00CB5255D0C",
@@ -8712,7 +9033,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "da3c2da8-597d-4436-8f67-a5339b0a0992",
@@ -8733,7 +9055,8 @@
       "name": "tony",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "5ff1cc4f-30b1-4c0c-8742-4076cd94e1cb",
@@ -8754,7 +9077,8 @@
       "name": "tony",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "2834f915-df92-4ac0-9e44-ecf871507b44",
@@ -8775,7 +9099,8 @@
       "name": "tony",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "8ffdbef5-071b-4304-943b-1c54f2029576",
@@ -8809,7 +9134,8 @@
         "id": 1,
         "original_url": "https://arxiv.org/abs/1311.3903"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "f57375cc-0c2b-4eff-8c27-d7accd8da34a",
@@ -8830,7 +9156,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "98f305ef-b4d6-4d3f-87eb-05fba32bb78e",
@@ -8868,7 +9195,8 @@
         "id": 1,
         "original_url": "https://www.icloud.com/iclouddrive/0bgdKV5rBAdoqcGGulJPWFVxA#meeting7-1"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "ea150462-f20f-445d-9ff5-edd1ee217793",
@@ -8906,7 +9234,8 @@
         "id": 1,
         "original_url": "https://www.icloud.com/iclouddrive/0qHQUAiumV1fyrUSOBuJCHe7g#zoom_0_part2"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "5b223fed-8c5b-4153-9ba2-603056cde474",
@@ -8927,7 +9256,8 @@
       "name": "tony",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "d530be30-b03d-49b5-98e7-80c814ea198e",
@@ -8948,7 +9278,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "f5d9fda5-c7f7-4a62-aa31-fc6a5ca33d51",
@@ -8969,7 +9300,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "2368c4af-732c-49c0-a027-04b5979496e0",
@@ -8990,7 +9322,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "5191DA4B-8497-4B6E-A240-BDC6198C4DC7",
@@ -9011,7 +9344,8 @@
       "name": "tony",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "0c93aa48-addd-47ee-8df6-06d86314845f",
@@ -9042,7 +9376,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "f252989d-a52b-4363-8075-876ad7dfc46e",
@@ -9085,7 +9420,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "fc633cfe-9d7a-437d-954c-8e03474208a7",
@@ -9123,7 +9459,8 @@
         "id": 1,
         "original_url": "https://doodle.com/poll/ibkvnyvck3m5ggfq"
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "bd1739c9-5fa4-4ed7-9554-a4097a247608",
@@ -9144,7 +9481,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "8ce11a30-fc49-4f1c-9376-9958a14b51a7",
@@ -9165,7 +9503,8 @@
       "name": "tony",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "2500fba5-8640-41e6-9815-dd9bef73bbca",
@@ -9186,7 +9525,8 @@
       "name": "tony",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "eca6a5ea-e4ed-4980-ade4-ce0c53f659e2",
@@ -9207,7 +9547,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "471837fa-650e-4d80-a256-ee20c0b6edf2",
@@ -9228,7 +9569,8 @@
       "name": "stefanlesser",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "d2ad93f8-3f92-43b6-b951-64de2b6ec73b",
@@ -9249,7 +9591,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "4a07941b-b281-4aa5-9fd2-1cde6e676ac3",
@@ -9270,7 +9613,8 @@
       "name": "drew.verlee",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "bbdff10a-da49-49c0-a9f9-3b370e495440",
@@ -9291,7 +9635,8 @@
       "name": "kleptine",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "ffa609c6-9090-4924-af87-677f3c258aaa",
@@ -9312,7 +9657,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "dbd19500-55b2-41ec-954b-5ac8c024903c",
@@ -9333,7 +9679,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "499bfc2c-7bab-4683-aa3a-3d6153c0aaf2",
@@ -9354,7 +9701,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "8dd16fe4-3d62-4c4f-ac27-7d39b68d956b",
@@ -9375,7 +9723,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "type": "message",
@@ -9436,7 +9785,8 @@
     "user": "UA14TGLTC",
     "display_as_bot": false,
     "ts": "1569458947.002700",
-    "client_msg_id": "d15cd2c1-64b5-476f-9bf8-9cacfc120ca6"
+    "client_msg_id": "d15cd2c1-64b5-476f-9bf8-9cacfc120ca6",
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "f1477243-8b38-4c40-9e20-0c281541634d",
@@ -9457,7 +9807,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "4c0487b9-1c51-4954-91e0-ac92229d08a1",
@@ -9478,7 +9829,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "ca9bcb46-fef0-4acf-b6fd-7ae654c3cdeb",
@@ -9499,7 +9851,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "3d9b8c48-9233-4ba2-8565-77235b0c5899",
@@ -9520,7 +9873,8 @@
       "name": "wtaysom",
       "is_restricted": false,
       "is_ultra_restricted": false
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "d3b4772c-6e7f-4961-8ea7-bd6a04a0a3f3",
@@ -9545,7 +9899,8 @@
     "edited": {
       "user": "UN57U8V53",
       "ts": "1569499009.000000"
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "39107cd8-bf42-4ec7-bf83-60c48a61f8a2",
@@ -9570,7 +9925,8 @@
     "edited": {
       "user": "UN57U8V53",
       "ts": "1569499105.000000"
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "EE370E1D-D9FD-4325-ADFB-19C09DC671F3",
@@ -9595,7 +9951,8 @@
     "edited": {
       "user": "UHWC9PXBL",
       "ts": "1569526016.000000"
-    }
+    },
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "A47E50EB-3DD8-474B-AB45-2A13ACF607F8",
@@ -9626,7 +9983,8 @@
         ],
         "count": 2
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "8846a7b7-aad5-4035-890f-aed8ccaa1870",
@@ -9656,7 +10014,8 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "client_msg_id": "BE0D3490-4C75-453F-81A0-F13706FD9881",
@@ -9707,13 +10066,15 @@
         ],
         "count": 1
       }
-    ]
+    ],
+    "channel": "category-theory"
   },
   {
     "type": "message",
     "subtype": "channel_archive",
     "ts": "1588477010.000600",
     "user": "UC2A2ARPT",
-    "text": "<@UC2A2ARPT> archived the channel"
+    "text": "<@UC2A2ARPT> archived the channel",
+    "channel": "category-theory"
   }
 ]
